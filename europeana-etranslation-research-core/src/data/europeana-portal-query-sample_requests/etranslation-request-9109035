@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "casa lleo morera",
+    "sourceLanguage": "es",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109035",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Casa villo Morera"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Casa villo Morera"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Casa villo Morel"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Casa villo Morel"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Casa Movilo Morura"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Casa Movilo Morura"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Casa villo Morera"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Casa villo Morera"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Casa villo Morera"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Casa villo Morera"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Casa villo More"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Casa villo More"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Casa villo Morra"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Casa villo Morra"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Casa villo Morera"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Casa villo Morera"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Casa villo morera"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Casa villo morera"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Casa Villa Morra"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Casa Villa Morra"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Casa villo Morelra"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Casa villo Morelra"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Casa villa Moreta"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Casa villa Moreta"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Casa villo Morera"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Casa villo Morera"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Casa villo Morera"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Casa villo Morera"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Casa villo Morera"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Casa villo Morera"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Casa villo Morera"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Casa villo Morera"
+    }
+  ]
+}

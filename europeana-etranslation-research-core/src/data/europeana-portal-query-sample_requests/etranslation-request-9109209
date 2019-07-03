@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "acupuncture",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109209",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Akupunktur"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Akupunktur"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿akupunktio"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿akupunktio"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿acupuntura"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿acupuntura"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿akupunktūra"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿akupunktūra"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿acupuncture"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿acupuncture"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿akupunktúra"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿akupunktúra"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿akupunktur"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿akupunktur"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿βελονισμός"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿βελονισμός"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿agopuntura"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿agopuntura"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿acupuntura"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿acupuntura"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿akupunktuur"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿akupunktuur"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿akupunktura"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿akupunktura"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿akupunktura"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿akupunktura"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿akupunktur"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿acupunctură"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿akupunktur"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿acupunctură"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿acupunctuur"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿acupunctuur"
+    }
+  ]
+}

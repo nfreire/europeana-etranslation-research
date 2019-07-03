@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Nuremberg War Crime Trials",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109342",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Nürnberger Kriegsverbrecher"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Nürnberger Kriegsverbrecher"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Crime Trials"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Crime Trials"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Julgamentos de Nuremberga por crimes de guerra contra os crimes de guerra"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Julgamentos de Nuremberga por crimes de guerra contra os crimes de guerra"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Niurnbergo karo nusikaltimų tyrimai"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Niurnbergo karo nusikaltimų tyrimai"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Procès de la guerre contre la guerre de Nuremberg"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Procès de la guerre contre la guerre de Nuremberg"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Háborús bűncselekmények perei"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Háborús bűncselekmények perei"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Nürnbergkonflikten – försök till brott"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Nürnbergkonflikten – försök till brott"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Επέτειοι του πολέμου για τα εγκλήματα πολέμου"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Επέτειοι του πολέμου για τα εγκλήματα πολέμου"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Processi di condanna in materia di crimini contro la guerra tra Norimberga"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Processi di condanna in materia di crimini contro la guerra tra Norimberga"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Ensayos contra los crímenes de guerra de Nuremberg"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Ensayos contra los crímenes de guerra de Nuremberg"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Sõjakuritegusid käsitlev Nürnbergi protsess"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Sõjakuritegusid käsitlev Nürnbergi protsess"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Bernorimberská činnost v oblasti válečných"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Bernorimberská činnost v oblasti válečných"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Procesy w Norymberdze w zakresie procesów"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Procesy w Norymberdze w zakresie procesów"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Retssager om krigsforbrydelser i Nürnbergkrigen"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Studiile privind crimele de război de la Nürnberg"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Retssager om krigsforbrydelser i Nürnbergkrigen"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Studiile privind crimele de război de la Nürnberg"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Uit de Oorlogsproeven van Neurenberg"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Uit de Oorlogsproeven van Neurenberg"
+    }
+  ]
+}

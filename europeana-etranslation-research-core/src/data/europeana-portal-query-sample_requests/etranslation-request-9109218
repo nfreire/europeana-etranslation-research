@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "eastern state penitentiary",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109218",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Strafvollzug in Osteuropa"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Strafvollzug in Osteuropa"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Itä-valtio rangaistuslaitoksessa"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Itä-valtio rangaistuslaitoksessa"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Estado oriental do sistema penitenciário"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Estado oriental do sistema penitenciário"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Rytų valstybės pataisos"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Rytų valstybės pataisos"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿État de l’Est pénitentiaire"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿État de l’Est pénitentiaire"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿a keleti állam büntetés-végrehajtási intézetei"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿a keleti állam büntetés-végrehajtási intézetei"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿det östliga kriminalvårdsanstalten"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿det östliga kriminalvårdsanstalten"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿σωφρονιστικό σωφρονιστικό ίδρυμα ανατολικού κράτους"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿σωφρονιστικό σωφρονιστικό ίδρυμα ανατολικού κράτους"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿penitenziario di Stato orientale"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿penitenziario di Stato orientale"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Estado penitenciario del este"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Estado penitenciario del este"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Idariikide kinnipidamisasutused"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Idariikide kinnipidamisasutused"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿východní státní vězeňský systém"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿východní státní vězeňský systém"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿zakład karny we wschodniej części kraju"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿zakład karny we wschodniej części kraju"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿østlige statslige fængsler"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿penitenciar din partea de est"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿østlige statslige fængsler"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿penitenciar din partea de est"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿penitentiaire inrichtingen in de oostelijke lidstaat"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿penitentiaire inrichtingen in de oostelijke lidstaat"
+    }
+  ]
+}

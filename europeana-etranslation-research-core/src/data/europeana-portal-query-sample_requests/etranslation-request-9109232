@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "bruit du vent",
+    "sourceLanguage": "fr",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109232",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Windgeräusche"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Windgeräusche"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿tuulimelu"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿tuulimelu"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿ruído devido ao vento"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿ruído devido ao vento"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿vėjo triukšmas"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿vėjo triukšmas"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿szélzaj"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿szélzaj"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿vindbuller"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿vindbuller"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿θόρυβος ανέμου"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿θόρυβος ανέμου"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿wind noise"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿wind noise"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿rumore da vento"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿rumore da vento"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿ruido del viento"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿ruido del viento"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Tuulemüra"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Tuulemüra"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿hluk větru"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿hluk větru"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿hałas wiatru"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿hałas wiatru"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿vindstøj"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿zgomot produs de vânt"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿vindstøj"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿zgomot produs de vânt"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿geluidsniveau van de wind"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿geluidsniveau van de wind"
+    }
+  ]
+}

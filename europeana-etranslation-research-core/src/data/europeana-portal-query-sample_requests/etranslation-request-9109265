@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "aktfotografie",
+    "sourceLanguage": "de",
+    "targetLanguages": [
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109265",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "FI",
+      "translatedText": "﻿Valokuva-aineisto"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Valokuva-aineisto"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿prova fotográfica"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿prova fotográfica"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿fotografiniai įrodymai"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿fotografiniai įrodymai"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿photographie du dossier"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿photographie du dossier"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿fényképes bizonyíték"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿fényképes bizonyíték"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿fotografiska bevis"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿fotografiska bevis"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿φωτογραφικό υλικό"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿φωτογραφικό υλικό"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿photographic evidence"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿photographic evidence"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿prove fotografiche"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿prove fotografiche"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿pruebas fotográficas"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿pruebas fotográficas"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿fototõendid"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿fototõendid"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿fotografické důkazy"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿fotografické důkazy"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿dokumentacja fotograficzna"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿dokumentacja fotograficzna"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿fotografisk dokumentation"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿dovezi fotografice"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿fotografisk dokumentation"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿dovezi fotografice"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿fotografisch bewijsmateriaal"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿fotografisch bewijsmateriaal"
+    }
+  ]
+}

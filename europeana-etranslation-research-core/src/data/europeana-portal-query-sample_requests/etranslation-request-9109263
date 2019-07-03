@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "aerograms",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109263",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Aerome"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Aerome"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿aerosoli"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿aerosoli"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿aerogramas"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿aerogramas"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿aerogramos"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿aerogramos"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿avion"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿avion"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿aerogram"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿aerogram"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿antal i flygplan"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿antal i flygplan"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿aergr"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿aergr"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿aerogrammi"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿aerogrammi"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿aerogramos"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿aerogramos"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿aerogrammid"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿aerogrammid"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿aerogramy"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿aerogramy"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿aerogramy"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿aerogramy"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿aerogram"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿(în grame)"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿aerogram"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿(în grame)"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿aerogram"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿aerogram"
+    }
+  ]
+}

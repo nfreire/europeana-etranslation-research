@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "L'assassinat de Mickey Mouse de Pierre Pigot",
+    "sourceLanguage": "fr",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9108906",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Ermordung von Mickey..."
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Ermordung von Mickey..."
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Mickeis’in salamurha..."
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Mickeis’in salamurha..."
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿O assassínio de Mickey Mund [...]"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿O assassínio de Mickey Mund [...]"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Mickey Mouse nužudymas..."
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Mickey Mouse nužudymas..."
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿A Michey Mouse által elkövetett merénylet..."
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿A Michey Mouse által elkövetett merénylet..."
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Mordet på MiKey Miuse..."
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Mordet på MiKey Miuse..."
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Η δολοφονία του Mickey Mouse..."
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Η δολοφονία του Mickey Mouse..."
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿The assassination of Mickey Mouse..."
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿The assassination of Mickey Mouse..."
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿L'omicidio di Mickey Mouse..."
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿L'omicidio di Mickey Mouse..."
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿El asesinato de Mickey Mouse..."
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿El asesinato de Mickey Mouse..."
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Mickey Mouse atentaat..."
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Mickey Mouse atentaat..."
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Zavraždění Mickey Mouse..."
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Zavraždění Mickey Mouse..."
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Zabójstwo Mickey Mause..."
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Zabójstwo Mickey Mause..."
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Mordet på Mickey Mouse..."
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Asasinarea Mickey Mouse..."
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Mordet på Mickey Mouse..."
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Asasinarea Mickey Mouse..."
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿De moord op Mickey Mouse..."
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿De moord op Mickey Mouse..."
+    }
+  ]
+}

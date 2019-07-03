@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Acacia in Flowers",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109020",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Akaziazien in Flowers"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Akaziazien in Flowers"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Akaasia Figures in Flowers"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Akaasia Figures in Flowers"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Acacia na Flowers"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Acacia na Flowers"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Acacia in Flowers"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Acacia in Flowers"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Acacia à Flowers"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Acacia à Flowers"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Akác a Flowers területén"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Akác a Flowers területén"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Akacia i Blommor"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Akacia i Blommor"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Ακακία στο Flowers"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Ακακία στο Flowers"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Acacia in Flowers"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Acacia in Flowers"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Acacia in Flowers"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Acacia in Flowers"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Acacia Flowers"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Acacia Flowers"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Akátová in Flowers"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Akátová in Flowers"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Acacia w Flowers"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Acacia w Flowers"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Akaciegummi i Flowers"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Flori de salcâm"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Akaciegummi i Flowers"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Flori de salcâm"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Acacia bij Flowers"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Acacia bij Flowers"
+    }
+  ]
+}

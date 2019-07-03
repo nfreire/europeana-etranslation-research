@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "a gun for dinosaur",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9108901",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿pistole für Dinosaurier"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿pistole für Dinosaurier"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿dinosaurus pidinosaus"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿dinosaurus pidinosaus"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿canhão de dinossauro"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿canhão de dinossauro"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿dinozauras skirtas prožektorius"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿dinozauras skirtas prožektorius"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿un pistolet pour dinosaure"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿un pistolet pour dinosaure"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿a dinoszaurauhoz"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿a dinoszaurauhoz"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿en kanon till dinosaurie"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿en kanon till dinosaurie"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿ένας εκτοξευτήρας για δεινοσαύλια"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿ένας εκτοξευτήρας για δεινοσαύλια"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿pistola per dinosauro"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿pistola per dinosauro"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿un cañón para el dinosaurio"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿un cañón para el dinosaurio"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿dinosauruse püstol"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿dinosauruse püstol"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿zbraň pro dinosaur"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿zbraň pro dinosaur"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿pistolezaura"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿pistolezaura"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿en pistol for dinosaaur"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿a pistol pentru dinozaur"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿en pistol for dinosaaur"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿a pistol pentru dinozaur"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿een kanon voor dinosaurus"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿een kanon voor dinosaurus"
+    }
+  ]
+}

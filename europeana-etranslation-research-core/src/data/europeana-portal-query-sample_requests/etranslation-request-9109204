@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Achilles Painter",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109204",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Pailleber"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Pailleber"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Ahilles Painter"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Ahilles Painter"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Achilles Painter"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Achilles Painter"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Achilo dažas"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Achilo dažas"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Achilles Painter"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Achilles Painter"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Achilles périák"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Achilles périák"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Paillesfärger"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Paillesfärger"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Αχιλλίδες"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Αχιλλίδες"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Achillia Painer"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Achillia Painer"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Achales Painer"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Achales Painer"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Achilleuse Painter"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Achilleuse Painter"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Achill Painer"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Achill Painer"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Achillesa Painter"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Achillesa Painter"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Palansinger"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Achilles Pales"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Palansinger"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Achilles Pales"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Achilleshiel"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Achilleshiel"
+    }
+  ]
+}

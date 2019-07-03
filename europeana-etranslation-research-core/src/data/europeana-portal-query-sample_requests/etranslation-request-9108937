@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "akinakes",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9108937",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿akinakes"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿akinakes"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿akventit"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿akventit"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿akinakia"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿akinakia"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿žemės drebėjimai"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿žemės drebėjimai"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿akinakes"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿akinakes"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿rengések"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿rengések"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿akinskris"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿akinskris"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿ακάθρακας"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿ακάθρακας"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿akinakes"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿akinakes"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿akinakes"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿akinakes"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿aknise"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿aknise"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿úplavky"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿úplavky"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿akinkins"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿akinkins"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿skælv"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿produse contrafăcute"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿skælv"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿produse contrafăcute"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿akonjes"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿akonjes"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "rodzina artystyczna",
+    "sourceLanguage": "pl",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9108971",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Kunsterfamilie"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Kunsterfamilie"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿taideperhe"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿taideperhe"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿família artística"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿família artística"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿meninė šeima"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿meninė šeima"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿famille artistique"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿famille artistique"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿művészeti család"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿művészeti család"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿konstnärlig familj"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿konstnärlig familj"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿καλλιτεχνική οικογένεια"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿καλλιτεχνική οικογένεια"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿artistic family"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿artistic family"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿famiglia artistica"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿famiglia artistica"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿familia artística"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿familia artística"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿kunstiline perekond"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿kunstiline perekond"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿umělecká rodina"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿umělecká rodina"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Kunstfamilie"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿familia artistică"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Kunstfamilie"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿familia artistică"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿kunstfamilie"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿kunstfamilie"
+    }
+  ]
+}

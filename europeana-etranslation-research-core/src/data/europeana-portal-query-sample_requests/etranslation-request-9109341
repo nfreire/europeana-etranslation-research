@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "alberto lista epistolario",
+    "sourceLanguage": "es",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109341",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Alberto Lisstario"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Alberto Lisstario"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Alberto lissario"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Alberto lissario"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Alberto listlario"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Alberto listlario"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Alberto listario"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Alberto listario"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Alberto lisstario"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Alberto lisstario"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Alberto Lisliario"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Alberto Lisliario"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Alberto listario"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Alberto listario"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Alberto lisstario"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Alberto lisstario"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Alberto lisstario"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Alberto lisstario"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Alberto lisstario"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Alberto lisstario"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Alberto notisario"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Alberto notisario"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Alberto listeario"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Alberto listeario"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Alberto listario"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Alberto listario"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Alberto listario"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Alberto lisstatario"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Alberto listario"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Alberto lisstatario"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Alberto lisario"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Alberto lisario"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "jillings",
+    "sourceLanguage": "nl",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "ca"
+    ]
+  },
+  "requestId": "9108976",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Schlußabrechnungen"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Schlußabrechnungen"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Jimus"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Jimus"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿(...) (...) (a)"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿(...) (...) (a)"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Jogręžiniai"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Jogręžiniai"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Nombre de forages"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Nombre de forages"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Jelling"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Jelling"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Janiller"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Janiller"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Σελίνια"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Σελίνια"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Jillings"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Jillings"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Lavori di scellamento"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Lavori di scellamento"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Chelines"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Chelines"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Šilling"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Šilling"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Jillávky"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Jillávky"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Szyling"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Szyling"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Boringer"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Foraje"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Boringer"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Foraje"
+    }
+  ]
+}

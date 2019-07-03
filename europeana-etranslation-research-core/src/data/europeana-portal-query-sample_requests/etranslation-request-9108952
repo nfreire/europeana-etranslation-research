@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "modern art",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9108952",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿moderne Kunst"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿moderne Kunst"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿moderni art."
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿moderni art."
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿arte moderna"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿arte moderna"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿šiuolaikinis menas"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿šiuolaikinis menas"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿art moderne"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿art moderne"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿modern művészet"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿modern művészet"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿modern konst"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿modern konst"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿σύγχρονη τέχνη"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿σύγχρονη τέχνη"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿arte moderna"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿arte moderna"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿arte moderno"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿arte moderno"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿moodne kunst"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿moodne kunst"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿moderní umění"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿moderní umění"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿sztuka współczesna"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿sztuka współczesna"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿moderne kunst"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿artă modernă"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿moderne kunst"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿artă modernă"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿moderne kunst"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿moderne kunst"
+    }
+  ]
+}

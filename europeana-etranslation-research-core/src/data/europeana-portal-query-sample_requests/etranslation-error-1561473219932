@@ -1,0 +1,28 @@
+{
+  "translationRequest": {
+    "text": "Adenocarpus boudyi semiglaber",
+    "sourceLanguage": "ru",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "errorCode": "-20001"
+}

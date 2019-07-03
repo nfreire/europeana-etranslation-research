@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Un popolo alla macchia",
+    "sourceLanguage": "pl",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109172",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿UN-Popolo alla Macchia"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿UN-Popolo alla Macchia"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿YK:n Popoo alla Macchia"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿YK:n Popoo alla Macchia"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Partido das Nações Unidas: popolo alla Macchia"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Partido das Nações Unidas: popolo alla Macchia"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Partija „UN Polo alla Macchia“"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Partija „UN Polo alla Macchia“"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿ONU Popolo alla Macchia"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿ONU Popolo alla Macchia"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿UN Popolo alla Macchia"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿UN Popolo alla Macchia"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Popolo alla Macchia"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Popolo alla Macchia"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Τα Ηνωμένα Έθνη Popolo alla Macchia"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Τα Ηνωμένα Έθνη Popolo alla Macchia"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿UN Popolo alla Macchia"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿UN Popolo alla Macchia"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Il Popolo alla Macchia delle Nazioni Unite"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Il Popolo alla Macchia delle Nazioni Unite"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿UN Pocisne Macchia"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿UN Pocisne Macchia"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿ÜRO Popolo alla Macchia"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿ÜRO Popolo alla Macchia"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿UN Popolo alla Macchia"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿UN Popolo alla Macchia"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Popolo alla Macchia"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Popolo alla Macchia (ONU)"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Popolo alla Macchia"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Popolo alla Macchia (ONU)"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿UN Popolo alla Macchia"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿UN Popolo alla Macchia"
+    }
+  ]
+}

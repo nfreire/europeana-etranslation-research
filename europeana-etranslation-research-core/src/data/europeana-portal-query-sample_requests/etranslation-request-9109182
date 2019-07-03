@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "guerino guerini",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109182",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Guerino Guerini"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Guerino Guerini"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Guerino Guerini"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Guerino Guerini"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Guerino Guerini"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Guerino Guerini"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Guerini Guerini"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Guerini Guerini"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Guerino GUERINI"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Guerino GUERINI"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Guerino Guerini"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Guerino Guerini"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Guerino Guerini"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Guerino Guerini"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Guerino Guerini"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Guerino Guerini"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Guerino Guerini"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Guerino Guerini"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Guerino Guerini"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Guerino Guerini"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Guerino Guerini"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Guerino Guerini"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Guerino Guerini"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Guerino Guerini"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Guerino Guerini"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Guerino Guerini"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Guerino Guerini"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Guerini Guerini"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Guerino Guerini"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Guerini Guerini"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Guerini Guerini"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Guerini Guerini"
+    }
+  ]
+}

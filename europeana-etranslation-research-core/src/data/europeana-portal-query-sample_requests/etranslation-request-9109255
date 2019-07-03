@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Achenheim",
+    "sourceLanguage": "fr",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109255",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Achenheim"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Achenheim"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Achenheim"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Achenheim"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Achenheim"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Achenheim"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Achenheim"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Achenheim"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Achenheim"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Achenheim"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Achenheim"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Achenheim"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Achenheim"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Achenheim"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Achenheim"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Achenheim"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Chenheim"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Chenheim"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Achenheim"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Achenheim"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Achenheim"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Achenheim"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Achlheim"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Achlheim"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Achenheim"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Achenheim"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Achenheim"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Achenheim"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Achenheim"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Achenheim"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Achenkheim"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Achenkheim"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "agathocles",
+    "sourceLanguage": "es",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109347",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Agathous"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Agathous"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Agathocles"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Agathocles"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Agaothles"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Agaothles"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Adetocles"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Adetocles"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Agithoncles"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Agithoncles"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Agatütők"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Agatütők"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Agastles"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Agastles"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Agathocles"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Agathocles"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿agathocles"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿agathocles"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Atremocle"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Atremocle"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Agitoklerid"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Agitoklerid"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿hrbolky"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿hrbolky"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Agiadcles"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Agiadcles"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Agothcles"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Agatocles"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Agothcles"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Agatocles"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Agathocles"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Agathocles"
+    }
+  ]
+}

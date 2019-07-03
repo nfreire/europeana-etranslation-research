@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Patria Giornale dell'idea liberale",
+    "sourceLanguage": "it",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9108902",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Heimginate dell’idea Liberal"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Heimginate dell’idea Liberal"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿”Home Giornate dell’idea Liberal”"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿”Home Giornate dell’idea Liberal”"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Home Giornate dell’idea Liberal"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Home Giornate dell’idea Liberal"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Liberalus „dell’idea dell’idea dell’idea“"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Liberalus „dell’idea dell’idea dell’idea“"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Maison de Giornate dell’idée libérale"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Maison de Giornate dell’idée libérale"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿A Liberális Párt eszméjének házai"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿A Liberális Párt eszméjének házai"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Homornate dell’ideal"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Homornate dell’ideal"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Home Giornate dell’grain Liberal"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Home Giornate dell’grain Liberal"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Home Giornate dell’idea Liberal"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Home Giornate dell’idea Liberal"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Casa Giornate dell’ided Liberal"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Casa Giornate dell’ided Liberal"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Kodillideel (liigist dell’idee liberal)"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Kodillideel (liigist dell’idee liberal)"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Giornate dell’ idea Liberální"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Giornate dell’ idea Liberální"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Giornata dell’idee Liberal"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Giornata dell’idee Liberal"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Hjemmellet dell'idea Liberal"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Dl Giornate dell’IDEA"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Hjemmellet dell'idea Liberal"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Dl Giornate dell’IDEA"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿HOME Giornaate dell’idea Liberal"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿HOME Giornaate dell’idea Liberal"
+    }
+  ]
+}

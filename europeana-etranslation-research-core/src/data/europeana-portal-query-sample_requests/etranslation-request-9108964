@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "pratica legale",
+    "sourceLanguage": "it",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9108964",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Rechtsanwälte"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Rechtsanwälte"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿oikeuskäytäntö"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿oikeuskäytäntö"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿prática jurídica"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿prática jurídica"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿teisinė praktika"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿teisinė praktika"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿pratique juridique"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿pratique juridique"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿joggyakorlat"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿joggyakorlat"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿rättslig praxis"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿rättslig praxis"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿νομική πρακτική"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿νομική πρακτική"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿legal practice"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿legal practice"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿práctica jurídica"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿práctica jurídica"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿õiguspraktika"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿õiguspraktika"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿právní praxe"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿právní praxe"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿kancelaria Adwokacka"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿kancelaria Adwokacka"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿retspraksis"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿practica juridică"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿retspraksis"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿practica juridică"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿rechtspraktijk"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿rechtspraktijk"
+    }
+  ]
+}

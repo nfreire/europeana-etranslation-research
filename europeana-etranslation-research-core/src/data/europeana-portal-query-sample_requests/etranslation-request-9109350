@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Adrien parvilliers",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109350",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Adrien-Parvilliers"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Adrien-Parvilliers"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Adrieen parviers"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Adrieen parviers"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Adrien parvilliers"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Adrien parvilliers"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Adrien parvilliers"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Adrien parvilliers"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Adrien parvilliers"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Adrien parvilliers"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Adrien parvilliers"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Adrien parvilliers"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Adrien parvilliers"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Adrien parvilliers"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Adrien parvilliers"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Adrien parvilliers"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Adrien parvilliers"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Adrien parvilliers"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Adrien parvilliers"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Adrien parvilliers"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Adrien parviliers"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Adrien parviliers"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Adrien parliliers"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Adrien parliliers"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Adrien parvilliers"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Adrien parvilliers"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Adrien parvilliers"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Adrien parvilliers"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Adrien parvilliers"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Adrien parvilliers"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Adrien Parvilliers"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Adrien Parvilliers"
+    }
+  ]
+}

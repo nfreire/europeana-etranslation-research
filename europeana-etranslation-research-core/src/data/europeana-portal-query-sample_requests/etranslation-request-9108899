@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "albert ballin",
+    "sourceLanguage": "de",
+    "targetLanguages": [
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9108899",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "FI",
+      "translatedText": "﻿Albert Ballin"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Albert Ballin"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Albert Ballin"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Albert Ballin"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Albert Ballin"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Albert Ballin"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Albert Ballin"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Albert Ballin"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Albert Ballin"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Albert Ballin"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Albert Ballin"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Albert Ballin"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Albert Ballin"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Albert Ballin"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Albert Ballin"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Albert Ballin"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Albert Ballin"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Albert Ballin"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Albert Ballin"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Albert Ballin"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Albert Ballin"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Albert Ballin"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Albert Ballin"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Albert Ballin"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Albert Ballin"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Albert Ballin"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Albert Ballin"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Albert Bouln"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Albert Ballin"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Albert Bouln"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Albert Ballin"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Albert Ballin"
+    }
+  ]
+}

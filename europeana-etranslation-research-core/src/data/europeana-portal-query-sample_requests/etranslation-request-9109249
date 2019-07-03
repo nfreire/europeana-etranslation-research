@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Great War Graz",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109249",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Großer Krieg Graz"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Großer Krieg Graz"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Graz Graz"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Graz Graz"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Grande Guerra Graz"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Grande Guerra Graz"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Didysis karas Graz"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Didysis karas Graz"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Grande guerre Graz"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Grande guerre Graz"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Nagy háború"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Nagy háború"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Great War Graz"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Great War Graz"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Great War Graz Τηλ.:"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Great War Graz Τηλ.:"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Grande guerra di Graz"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Grande guerra di Graz"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Gran Graz"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Gran Graz"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Great Grazi sõjapiirkond"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Great Grazi sõjapiirkond"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Great War Graz"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Great War Graz"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Duża wojna Graz"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Duża wojna Graz"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Den Store Krig Graz"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Marele Război Graz"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Den Store Krig Graz"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Marele Război Graz"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Great War Graz"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Great War Graz"
+    }
+  ]
+}

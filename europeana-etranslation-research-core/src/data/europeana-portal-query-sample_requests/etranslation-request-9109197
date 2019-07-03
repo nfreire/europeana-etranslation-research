@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Agrius",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109197",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Agrius"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Agrius"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Agrius"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Agrius"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Agrius"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Agrius"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿„Agrius“"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿„Agrius“"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Agrius"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Agrius"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Agrius"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Agrius"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Agrius"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Agrius"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Agrius"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Agrius"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Agrius"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Agrius"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Agrius"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Agrius"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Agrilus"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Agrilus"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Agrius"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Agrius"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Agrius"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Agrius"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Agrius"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Agrius"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Agrius"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Agrius"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Agrilus"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Agrilus"
+    }
+  ]
+}

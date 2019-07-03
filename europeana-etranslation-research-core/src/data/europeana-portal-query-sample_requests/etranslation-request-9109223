@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "chateau guy",
+    "sourceLanguage": "fr",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109223",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Chatau guy"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Chatau guy"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Chateau guy"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Chateau guy"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Chateau guy"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Chateau guy"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Chateau guy"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Chateau guy"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Chateau guy"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Chateau guy"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Chateau guy"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Chateau guy"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Chateau guy"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Chateau guy"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Chateau guy"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Chateau guy"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Guado"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Guado"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Chateau guy"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Chateau guy"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Chateau guy"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Chateau guy"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Cnateau guy"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Cnateau guy"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Chateau guy"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Chateau guy"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Chateau guy"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Chateau guy"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Chateau guy"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Chateau guy"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Chateau guy"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Chateau guy"
+    }
+  ]
+}

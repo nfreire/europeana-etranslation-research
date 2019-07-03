@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "aguas residuales",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109360",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Aguas residuales"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Aguas residuales"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Aguas samarles"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Aguas samarles"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿águas residuais"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿águas residuais"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Aguas likučių pavidalu"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Aguas likučių pavidalu"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿résidus d’Aguas"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿résidus d’Aguas"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Aguas maradványos maradék"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Aguas maradványos maradék"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿restprodukter från Aguas"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿restprodukter från Aguas"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Aguas residisales"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Aguas residisales"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Aguas residuales"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Aguas residuales"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿aguas residuales"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿aguas residuales"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Aguase capales"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Aguase capales"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Aguas zbytková"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Aguas zbytková"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Aguas pozostałeales"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Aguas pozostałeales"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Aguas Prestales"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Aguas suales reziduuri"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Aguas Prestales"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Aguas suales reziduuri"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Aguas residues"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Aguas residues"
+    }
+  ]
+}

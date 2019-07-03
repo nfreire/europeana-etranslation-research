@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Hubert Aquin",
+    "sourceLanguage": "fr",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9108943",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Hubert Aquin"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Hubert Aquin"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Hubert Aquin"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Hubert Aquin"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Hubert Aquin"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Hubert Aquin"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Hubert Aquin"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Hubert Aquin"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Hubert Aquin"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Hubert Aquin"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Hubert Aquin"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Hubert Aquin"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Hubert Aquin"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Hubert Aquin"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Hubert Aquin"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Hubert Aquin"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Hubert Aquin"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Hubert Aquin"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Hubert Aquin"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Hubert Aquin"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Hubert Aquin"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Hubert Aquin"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Hubert Aquin"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Hubert Aquin"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Hubert Aquin"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Hubert Aquin"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Hubert Aquin"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Hubert Aquin"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Hubert Aquin"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Hubert Aquin"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Hubert Aquin"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Hubert Aquin"
+    }
+  ]
+}

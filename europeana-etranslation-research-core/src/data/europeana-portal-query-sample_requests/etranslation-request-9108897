@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "akkadische",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9108897",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿akkumische"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿akkumische"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿akkadische"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿akkadische"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿akkadische"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿akkadische"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿AKKOKILIN"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿AKKOKILIN"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿akkadische"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿akkadische"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿akkadische"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿akkadische"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿akkladische"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿akkladische"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿akkadische"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿akkadische"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿akkaddche"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿akkaddche"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿akkadische"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿akkadische"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿akksische"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿akksische"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿akkaradasche"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿akkaradasche"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿akkoradische"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿akkoradische"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿akkopische"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿akkadinische"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿akkopische"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿akkadinische"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿akkaderische"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿akkaderische"
+    }
+  ]
+}

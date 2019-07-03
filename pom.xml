@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+
+	<groupId>europeana.eu</groupId>
+	<version>0.1</version>
+	<artifactId>europeana-etranslation-research</artifactId>
+	<packaging>pom</packaging>
+	<modules>
+		<module>europeana-etranslation-research-callback</module>
+		<module>europeana-etranslation-research-core</module>
+	</modules>
+	
+	<name>Europeana experimental eTranslation API client</name>
+	<url>https://github.com/nfreire/europeana-etranslation-research</url>
+	<developers>
+		<developer>
+			<name>Nuno Freire</name>
+			<email>nfreire@gmail.com</email>
+		</developer>
+	</developers>
+	<scm>
+		<connection>https://github.com/nfreire/europeana-etranslation-research.git</connection>
+		<url>https://github.com/nfreire/europeana-etranslation-research</url>
+	</scm>
+ 	
+ 	<properties>
+    	<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    </properties>
+    
+	<build>
+		<defaultGoal>package</defaultGoal>
+		<finalName>europeana-etranslation-research</finalName>
+		<plugins>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-compiler-plugin</artifactId>
+				<version>3.3</version>
+				<configuration>
+					<showDeprecation>true</showDeprecation>
+					<encoding>UTF-8</encoding>
+					<source>1.8</source>
+					<target>1.8</target>
+				</configuration>
+			</plugin>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-war-plugin</artifactId>
+				<version>2.6</version>
+				<configuration>
+					<webResources>
+						<resource>
+							<filtering>true</filtering>
+							<directory>src/main/webapp</directory>
+							<includes>
+								<include>**/web.xml</include>
+							</includes>
+						</resource>
+					</webResources>
+					<warSourceDirectory>src/main/webapp</warSourceDirectory>
+					<webXml>src/main/webapp/WEB-INF/web.xml</webXml>
+				</configuration>
+			</plugin>
+		</plugins>
+		<resources>
+			<resource>
+				<directory>src/main/resources</directory>
+				<filtering>true</filtering>
+			</resource>
+		</resources>
+	</build>
+	
+	
+	<profiles>
+		<profile>
+			<id>devel</id>
+			<activation>
+				<activeByDefault>true</activeByDefault>
+			</activation>
+			<properties>
+				<translations.folder>c:/users/nfrei/etranslation/translations-repository</translations.folder>
+				<log.file>c:/users/nfrei/etranslation/callback-log.txt</log.file>
+				<etranslation.credentials>c:/users/nfrei/.credentials/etranslation</etranslation.credentials>
+				<etranslation.username>Europeana_IR_20190225</etranslation.username>
+				<etranslation.url>https://webgate.ec.europa.eu/etranslation/si/translate</etranslation.url>
+				<etranslation.europeana.callback.url>http://rnd.eanadev.org/etranslation-callback/callback</etranslation.europeana.callback.url>
+				<etranslation.europeana.error.url>http://rnd.eanadev.org/etranslation-callback/error</etranslation.europeana.error.url>
+			</properties>
+		</profile>
+		<profile>
+			<id>europeana-rnd</id>
+			<properties>
+				<translations.folder>/home/nfreire/etranslation/translations-repository</translations.folder>
+				<log.file>/home/nfreire/etranslation/callback-log.txt</log.file>
+				<etranslation.credentials>/home/nfreire/.credentials/etranslation</etranslation.credentials>
+				<etranslation.username>Europeana_IR_20190225</etranslation.username>
+				<etranslation.url>https://webgate.ec.europa.eu/etranslation/si/translate</etranslation.url>
+				<etranslation.europeana.callback.url>http://rnd.eanadev.org/etranslation-callback/callback</etranslation.europeana.callback.url>
+				<etranslation.europeana.error.url>http://rnd.eanadev.org/etranslation-callback/error</etranslation.europeana.error.url>
+			</properties>
+		</profile>
+	</profiles>
+	
+</project>

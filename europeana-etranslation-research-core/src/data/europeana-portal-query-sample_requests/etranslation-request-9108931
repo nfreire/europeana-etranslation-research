@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Alava",
+    "sourceLanguage": "es",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9108931",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Alava"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Alava"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Alava"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Alava"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Alava"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Alava"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Alava"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Alava"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Alava"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Alava"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Alava"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Alava"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Alava"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Alava"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Alava"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Alava"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Alava"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Alava"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Lava"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Lava"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Álava"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Álava"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Álava"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Álava"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Alava"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Alava"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Alava"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Alava"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Alava"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Alava"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Alava"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Alava"
+    }
+  ]
+}

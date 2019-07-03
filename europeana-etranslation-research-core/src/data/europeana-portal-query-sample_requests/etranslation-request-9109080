@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "los siete infantes de lara",
+    "sourceLanguage": "es",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109080",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿die sieben Inflasten von Lara"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿die sieben Inflasten von Lara"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿seitsemän tuhoisaa Laroa"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿seitsemän tuhoisaa Laroa"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿os sete inmais de Lara"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿os sete inmais de Lara"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿septyni pėda iš Lara"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿septyni pėda iš Lara"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿les sept infos de Lara"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿les sept infos de Lara"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿a Lara hét legbelseje"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿a Lara hét legbelseje"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿de sju infanalerna hos Lara"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿de sju infanalerna hos Lara"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿τα επτά ταξιώματα της Lara"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿τα επτά ταξιώματα της Lara"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿the seven infest of Lara"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿the seven infest of Lara"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿le sette credenziali di Lara"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿le sette credenziali di Lara"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿the seim of Lara"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿the seim of Lara"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿sedm infúzy LARA"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿sedm infúzy LARA"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿the siedmiuset of Lara"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿the siedmiuset of Lara"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿de syv deltagere i Lara"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿cele șapte persoane din Lara"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿de syv deltagere i Lara"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿cele șapte persoane din Lara"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿de zeven delen Lara"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿de zeven delen Lara"
+    }
+  ]
+}

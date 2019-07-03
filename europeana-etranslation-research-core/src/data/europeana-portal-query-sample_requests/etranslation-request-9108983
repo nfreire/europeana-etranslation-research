@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "diesel elettric",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9108983",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Dieselantrieb..."
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Dieselantrieb..."
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿diesel trictric..."
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿diesel trictric..."
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿elementos motores diesel..."
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿elementos motores diesel..."
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿„Dyzelletric“..."
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿„Dyzelletric“..."
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿elettric diesel..."
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿elettric diesel..."
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿dízel"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿dízel"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿dieselläge..."
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿dieselläge..."
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Diesel etlectric..."
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Diesel etlectric..."
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿diesel elettrico..."
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿diesel elettrico..."
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿gasóleo en la medida en que..."
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿gasóleo en la medida en que..."
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Diislikütteletric..."
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Diislikütteletric..."
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿motorová nafta..."
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿motorová nafta..."
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Elektronik oleju napędowego (dietlettryl)"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Elektronik oleju napędowego (dietlettryl)"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Dieselelettric..."
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿nr. diesel..."
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Dieselelettric..."
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿nr. diesel..."
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿electroelectric..."
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿electroelectric..."
+    }
+  ]
+}

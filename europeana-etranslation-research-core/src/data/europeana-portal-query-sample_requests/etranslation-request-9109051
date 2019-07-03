@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "neufville",
+    "sourceLanguage": "fr",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109051",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Neufville"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Neufville"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿neufville"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿neufville"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿neufville"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿neufville"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿neufville"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿neufville"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿neufville"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿neufville"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿neufville"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿neufville"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿neufville"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿neufville"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿neufville"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿neufville"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿neufiville"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿neufiville"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿neufville"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿neufville"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿neuffville"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿neuffville"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿neufuville"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿neufuville"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿neufville"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿neufville"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿neufville"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿neufville"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿neufville"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿neufville"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿neufville"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿neufville"
+    }
+  ]
+}

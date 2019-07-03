@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "asia minor",
+    "sourceLanguage": "el",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9108967",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Asia minor"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Asia minor"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Aasian vähäinen määrä"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Aasian vähäinen määrä"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿No caso da Ásia"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿No caso da Ásia"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Azijos nepilnametis"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Azijos nepilnametis"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Asie mineure"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Asie mineure"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Asia minor"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Asia minor"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Asia minor"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Asia minor"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Asia minor"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Asia minor"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Asia minore"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Asia minore"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Asia menor"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Asia menor"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Väike Aasia"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Väike Aasia"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Asie méně závažná"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Asie méně závažná"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Asia minor"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Asia minor"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Asien mindre"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Asia minoră"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Asien mindre"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Asia minoră"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Asia minor"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Asia minor"
+    }
+  ]
+}

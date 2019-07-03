@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "VITA ROSAE",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109005",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿VITA ROSAE"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿VITA ROSAE"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿VITA ROSAE"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿VITA ROSAE"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿VITA ROSAE"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿VITA ROSAE"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿VITA ROSAE"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿VITA ROSAE"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿VITA ROSAE"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿VITA ROSAE"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿VITA ROSAE"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿VITA ROSAE"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿VITA ROSAE"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿VITA ROSAE"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿VITA ROSAE"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿VITA ROSAE"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿VITA ROSAE"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿VITA ROSAE"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿VITA ROSAE"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿VITA ROSAE"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿VITA ROSAE"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿VITA ROSAE"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿VITA ROSAE"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿VITA ROSAE"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿VITA ROSAE"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿VITA ROSAE"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿VITA ROSAE"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿VITA ROSAE"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿VITA ROSAE"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿VITA ROSAE"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿VITA ROSAE"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿VITA ROSAE"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "officiel de la mode",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109225",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿„officiel de la mode“"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿„officiel de la mode“"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Total de la mode"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Total de la mode"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿officiel de la mode"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿officiel de la mode"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿officiel de la mode"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿officiel de la mode"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿officiel de la mode"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿officiel de la mode"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Officiel de la mode"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Officiel de la mode"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿villkor för användning av transportmedel"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿villkor för användning av transportmedel"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Επίσημη θέση"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Επίσημη θέση"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿officiel de la mode"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿officiel de la mode"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿«Décret»"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿«Décret»"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿officiel de la mode"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿officiel de la mode"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿úřední věstník, režim LA/LA"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿úřední věstník, režim LA/LA"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿instytucja stanu cywilnego"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿instytucja stanu cywilnego"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿officiel de la mode"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿officiel de la modul (de la modul)"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿officiel de la mode"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿officiel de la modul (de la modul)"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿officieel"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿officieel"
+    }
+  ]
+}

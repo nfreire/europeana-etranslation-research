@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "A todos los chicos",
+    "sourceLanguage": "es",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109137",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Alle Jungen"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Alle Jungen"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Kaikki pojat"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Kaikki pojat"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Todos os rapazes"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Todos os rapazes"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Visi berniukai"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Visi berniukai"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Tous les garçons"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Tous les garçons"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Minden fiú"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Minden fiú"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Pojkar"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Pojkar"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Όλα τα αγόρια"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Όλα τα αγόρια"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿All boys"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿All boys"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Tutti i ragazzi"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Tutti i ragazzi"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Kõik poisid"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Kõik poisid"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Všichni chlapci"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Všichni chlapci"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Wszyscy chłopcy"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Wszyscy chłopcy"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Alle drenge"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Toți băieții"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Alle drenge"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Toți băieții"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Alle jongens"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Alle jongens"
+    }
+  ]
+}

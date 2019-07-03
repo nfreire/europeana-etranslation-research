@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "santa lucia",
+    "sourceLanguage": "it",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9108913",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Santa Lucia"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Santa Lucia"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Santa lucia"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Santa lucia"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Santa lucia"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Santa lucia"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Santa lucia"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Santa lucia"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Santa lucia"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Santa lucia"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Santa lucia"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Santa lucia"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Santa lucia"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Santa lucia"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Santa lucia"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Santa lucia"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Santa lucia"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Santa lucia"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Santa lucia"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Santa lucia"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Santa lucia"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Santa lucia"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Santa lucia"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Santa lucia"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Santa lucia"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Santa lucia"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Santa lucia"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Santa lucia"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Santa lucia"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Santa lucia"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Santa lucia"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Santa lucia"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Mary Cassatt",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109338",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Mary Cassatt"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Mary Cassatt"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Mary Cassatit"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Mary Cassatit"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Mary Cassatt"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Mary Cassatt"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Mary Cassatt"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Mary Cassatt"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Mary Cassatt"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Mary Cassatt"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Mary Castatatt"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Mary Castatatt"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Mary Cassatt"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Mary Cassatt"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Mary Cassatt"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Mary Cassatt"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Mary Cassatt"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Mary Cassatt"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Mary Cascatt"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Mary Cascatt"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Mary Caskatt"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Mary Caskatt"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Mary Cassarta"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Mary Cassarta"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Mary Cassatt"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Mary Cassatt"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Mary Cassatt"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Mary Cassatt"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Mary Cassatt"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Mary Cassatt"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Mary Cassatt"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Mary Cassatt"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "aida",
+    "sourceLanguage": "it",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109103",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿AIDA"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿AIDA"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿AIRDA"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿AIRDA"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿AIDA"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿AIDA"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿AIDA"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿AIDA"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿AIDA"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿AIDA"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿AIDA"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿AIDA"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿AIDA"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿AIDA"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿AIDA"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿AIDA"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿AIDA"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿AIDA"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿AIDA"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿AIDA"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿AIDA"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿AIDA"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿AIDA"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿AIDA"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿AIDA"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿AIDA"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿IAL"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿AIDA"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿IAL"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿AIDA"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿AIDA"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿AIDA"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "translationRequest": {
+    "text": "Aerial",
+    "sourceLanguage": "no",
+    "targetLanguages": [
+      "de",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "errorCode": "-20001"
+}

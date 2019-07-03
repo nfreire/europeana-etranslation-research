@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Abito",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109097",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Abio"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Abio"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Abito"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Abito"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Abito"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Abito"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Abito"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Abito"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Abito"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Abito"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Abio"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Abio"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Abito"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Abito"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Abito"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Abito"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Abito"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Abito"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Abito"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Abito"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Abito"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Abito"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Abito"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Abito"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Abito"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Abito"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Abito"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Abito"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Abito"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Abito"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Abito"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Abito"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "florence Henri",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109041",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Florence Henri"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Florence Henri"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Firenze Henri"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Firenze Henri"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Florença Henri"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Florença Henri"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Florencija Henri"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Florencija Henri"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Florence Henri"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Florence Henri"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Florence Henri"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Florence Henri"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Henri Malosse"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Henri Malosse"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Florence Henri"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Florence Henri"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Florence Henri"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Florence Henri"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Florencia Henri"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Florencia Henri"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Florence Henri"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Florence Henri"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Florence Henri"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Florence Henri"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿we Florencji"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿we Florencji"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Florence Henri"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Florența Henri"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Florence Henri"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Florența Henri"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Florence Henri"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Florence Henri"
+    }
+  ]
+}

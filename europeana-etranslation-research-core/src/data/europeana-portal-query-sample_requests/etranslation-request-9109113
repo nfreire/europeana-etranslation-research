@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Adolf Hitler",
+    "sourceLanguage": "es",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109113",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Herr Adolf Hitler"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Herr Adolf Hitler"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Adolf Hitler"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Adolf Hitler"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Adolf Hitler"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Adolf Hitler"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Adolfas Hitleris"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Adolfas Hitleris"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Adolf Hitler"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Adolf Hitler"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Adolf Hitler"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Adolf Hitler"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Adolf Hitler"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Adolf Hitler"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Ο Αδόλφος Χίτλερ"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Ο Αδόλφος Χίτλερ"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Adolf Hitler"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Adolf Hitler"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Adolf Hitler"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Adolf Hitler"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Adolf Hitler"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Adolf Hitler"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Adolf Hitler"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Adolf Hitler"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Adolf Hitler"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Adolf Hitler"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Adolf Hitler"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Adolf Hitler"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Adolf Hitler"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Adolf Hitler"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Adolf Hitler"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Adolf Hitler"
+    }
+  ]
+}

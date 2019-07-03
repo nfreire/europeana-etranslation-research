@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "die kirchenbauten der Jesuiten",
+    "sourceLanguage": "de",
+    "targetLanguages": [
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109307",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "FI",
+      "translatedText": "﻿Jesuin kirkko"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Jesuin kirkko"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿a Igreja do Jesuíta"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿a Igreja do Jesuíta"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Jeano bažnyčios bažnyčia"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Jeano bažnyčios bažnyčia"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿les Églises des jécuites"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿les Églises des jécuites"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿a Jezsuita Egyház"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿a Jezsuita Egyház"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿juvenetiken"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿juvenetiken"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿η Εκκλησία της Ισουνίτας"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿η Εκκλησία της Ισουνίτας"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿the Church of the Jesuit"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿the Church of the Jesuit"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿la Chiesa della gesuita"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿la Chiesa della gesuita"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Iglesia del Jesuita"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Iglesia del Jesuita"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Jeiuse kirik"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Jeiuse kirik"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿kostel Jehavice"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿kostel Jehavice"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Kościół Jezusy"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Kościół Jezusy"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Jensjakkens kirke"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Biserica Natantei"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Jensjakkens kirke"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Biserica Natantei"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿de Jeugskerk"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿de Jeugskerk"
+    }
+  ]
+}

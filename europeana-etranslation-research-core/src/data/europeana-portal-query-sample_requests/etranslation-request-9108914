@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "St Mathurin",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9108914",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿ST Mathurin"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿ST Mathurin"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿St Mathurin"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿St Mathurin"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿ST Mathurin"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿ST Mathurin"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Sen Marthurinas"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Sen Marthurinas"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿ST Maturin"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿ST Maturin"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿St. Maturalin"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿St. Maturalin"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿St Mathurain"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿St Mathurain"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿St Mathurin"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿St Mathurin"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿ST Mathurin"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿ST Mathurin"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿ST Mathuin"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿ST Mathuin"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Püha Materninan"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Püha Materninan"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿St. Mathurin"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿St. Mathurin"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿St Mathurin"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿St Mathurin"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿St Mathurin"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿St MATHURIN"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿St Mathurin"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿St MATHURIN"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿St Mathurin"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿St Mathurin"
+    }
+  ]
+}

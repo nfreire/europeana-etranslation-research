@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Adam Mickiewicz",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109139",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Adam-Mickiewicz"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Adam-Mickiewicz"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Adam Mickiewicz"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Adam Mickiewicz"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Adam Mickiewicz"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Adam Mickiewicz"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Adomo Mickeviwicz"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Adomo Mickeviwicz"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Adam Mickiewicz"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Adam Mickiewicz"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Adam Mickiewicz"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Adam Mickiewicz"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Adam Mickiewicz"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Adam Mickiewicz"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Ο Άνταμ Μιτσκιέβιτς (Adam Mickiewicz)"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Ο Άνταμ Μιτσκιέβιτς (Adam Mickiewicz)"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Adam Mickiewicz"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Adam Mickiewicz"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Adam Mickiewicz"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Adam Mickiewicz"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Adam Mickiewicz"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Adam Mickiewicz"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Adam Mickiewicz"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Adam Mickiewicz"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Adama Mickiewicza"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Adama Mickiewicza"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Adam Mickiewicz"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Adam Mickiewicz"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Adam Mickiewicz"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Adam Mickiewicz"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Adam Mickiewicz"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Adam Mickiewicz"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "piri reis",
+    "sourceLanguage": "sv",
+    "targetLanguages": [
+      "de",
+      "no",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109317",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Frau PIRI Reis"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Frau PIRI Reis"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿PIRI Reis"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿PIRI Reis"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿PIRI Reis"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿PIRI Reis"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿K. PIRI Reis"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿K. PIRI Reis"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Mme PIRI Reis"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Mme PIRI Reis"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿PIRI Reis"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿PIRI Reis"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Η κ. PIRI Reis"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Η κ. PIRI Reis"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Ms PIRI Reis"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Ms PIRI Reis"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Sig.ra PIRI Reis"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Sig.ra PIRI Reis"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Sra. PIRI Reis"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Sra. PIRI Reis"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿PIRI Reis"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿PIRI Reis"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿PIRI Reis"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿PIRI Reis"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿PIRI Reis"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿PIRI Reis"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿PIRI Reis"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Dna PIRI Reis"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿PIRI Reis"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Dna PIRI Reis"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Mevrouw PIRI Reis"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Mevrouw PIRI Reis"
+    }
+  ]
+}

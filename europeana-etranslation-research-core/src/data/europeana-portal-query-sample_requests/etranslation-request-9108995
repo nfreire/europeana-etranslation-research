@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "aberystwyth",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9108995",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Aberystwyth"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Aberystwyth"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Aberystwyth"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Aberystwyth"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Aberystwyth"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Aberystwyth"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Aberystwyth"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Aberystwyth"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Aberystwyth"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Aberystwyth"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Aberystwyth"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Aberystwyth"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Aberystwyth"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Aberystwyth"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Aberystwyth"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Aberystwyth"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Aberystwyth"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Aberystwyth"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Aberystwyth"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Aberystwyth"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Aberystwyth"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Aberystwyth"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Aberystwyth"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Aberystwyth"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Aberystwyth"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Aberystwyth"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Aberystwyth"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Aberystwyth"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Aberystwyth"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Aberystwyth"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Aberystwyth"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Aberystwyth"
+    }
+  ]
+}

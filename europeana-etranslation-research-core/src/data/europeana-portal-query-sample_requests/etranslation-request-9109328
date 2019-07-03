@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Agostinho da Cruz",
+    "sourceLanguage": "pt",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109328",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Agostinho da Cruz"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Agostinho da Cruz"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Agostinho da Cruz"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Agostinho da Cruz"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Agostinho da Cruz"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Agostinho da Cruz"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Agostinho da Cruz"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Agostinho da Cruz"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Agostinho da Cruz"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Agostinho da Cruz"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Agostinho da Cruz"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Agostinho da Cruz"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Agostinho da Cruz"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Agostinho da Cruz"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Agostinho da Cruz"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Agostinho da Cruz"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Agostinho da Cruz"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Agostinho da Cruz"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Agostinho da Cruz"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Agostinho da Cruz"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Agostinho da Cruz"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Agostinho da Cruz"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Agostinho da Cruz"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Agostinho da Cruz"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Agostinho da Cruz"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Agostinho da Cruz"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Agostinho da Cruz"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Agostinho da Cruz"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Agostinho da Cruz"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Agostinho da Cruz"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Agostinho da Cruz"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Agostinho da Cruz"
+    }
+  ]
+}

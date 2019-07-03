@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Columbus's voyage",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9108951",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Columbus Fahrt"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Columbus Fahrt"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Columbuksen matka"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Columbuksen matka"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Despesas de viagem da Columbus"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Despesas de viagem da Columbus"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Columbus kelionė"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Columbus kelionė"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Voyage en Columbus"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Voyage en Columbus"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Columbus útja"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Columbus útja"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Columbus resa"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Columbus resa"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Ταξίδι του Κολόμβου"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Ταξίδι του Κολόμβου"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Viaggio della Columbus"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Viaggio della Columbus"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Viaje de Columbus"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Viaje de Columbus"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Columbus"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Columbus"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Přístav Columbus"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Přístav Columbus"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Rejs Columbus"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Rejs Columbus"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Columbus's rejse"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Voiaj cu Columb"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Columbus's rejse"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Voiaj cu Columb"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Columbus"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Columbus"
+    }
+  ]
+}

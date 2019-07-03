@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "t kindt",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109392",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿ct Kindt"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿ct Kindt"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿t Kindt"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿t Kindt"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿t Kindt"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿t Kindt"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿t Kindt"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿t Kindt"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿t Kindt"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿t Kindt"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿t Kindt"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿t Kindt"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿t Kindt"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿t Kindt"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿t Kindt"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿t Kindt"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿t Kindt"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿t Kindt"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿t Kindt"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿t Kindt"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿t Kint"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿t Kint"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿t Kindt"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿t Kindt"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿t Kindt"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿t Kindt"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿t Kindt"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿t Kindt"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿t Kindt"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿t Kindt"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿t Kindt"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿t Kindt"
+    }
+  ]
+}

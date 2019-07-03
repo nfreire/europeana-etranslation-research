@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "A Elite",
+    "sourceLanguage": "pt",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109155",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Auf Elite"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Auf Elite"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Eliitille"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Eliitille"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Dėl elito"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Dėl elito"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Sur une élite"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Sur une élite"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Elit esetében"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Elit esetében"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿För eliten"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿För eliten"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Σχετικά με την ελίτ"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Σχετικά με την ελίτ"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿On elite"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿On elite"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Sull'élite"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Sull'élite"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Elite"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Elite"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Eliit"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Eliit"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿O elitě"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿O elitě"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿W sprawie elity"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿W sprawie elity"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Om elite"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Privind elita"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Om elite"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Privind elita"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Over de elite"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Over de elite"
+    }
+  ]
+}

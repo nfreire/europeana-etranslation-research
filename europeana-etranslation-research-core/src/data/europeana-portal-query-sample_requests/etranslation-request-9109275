@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Abd",
+    "sourceLanguage": "fr",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109275",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Abd"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Abd"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Abd"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Abd"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Abd"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Abd"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Abd"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Abd"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Abd"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Abd"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Abd"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Abd"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Abd"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Abd"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Abd"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Abd"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Abd"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Abd"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Abd"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Abd"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Abd"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Abd"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Abd al"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Abd al"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Abd on"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Abd on"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Abd"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Abd"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Abd"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Abd"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Abd"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Abd"
+    }
+  ]
+}

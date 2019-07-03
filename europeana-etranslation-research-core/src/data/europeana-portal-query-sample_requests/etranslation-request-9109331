@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "saint mayeul",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109331",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Saint maeul"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Saint maeul"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Saint Nayeul"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Saint Nayeul"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Saint mayeul"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Saint mayeul"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Saint mayeul"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Saint mayeul"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Saint maierul"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Saint maierul"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Saint maujol"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Saint maujol"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Saint mayeul"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Saint mayeul"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿St. mayeul"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿St. mayeul"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Saint mayul"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Saint mayul"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Saint Mayuul"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Saint Mayuul"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Saint-mayuul"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Saint-mayuul"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Saint Mayeul"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Saint Mayeul"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Saint mayuul"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Saint mayuul"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Saint mayeul"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿de la Saint maeuel"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Saint mayeul"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿de la Saint maeuel"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Saint-mayeul"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Saint-mayeul"
+    }
+  ]
+}

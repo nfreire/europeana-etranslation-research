@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Ernst Ostweg",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109135",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Ernst Ostweg"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Ernst Ostweg"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Ernst Ostweg"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Ernst Ostweg"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Ernst Ostweg"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Ernst Ostweg"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Ernst Ostweg"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Ernst Ostweg"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Ernst Ostweg"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Ernst Ostweg"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Ernst Ostweg"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Ernst Ostweg"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Ernst Ostweg"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Ernst Ostweg"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Ernst Ostweg"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Ernst Ostweg"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Ernst Ostweg"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Ernst Ostweg"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Ernst Ostweg"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Ernst Ostweg"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Ernst Ostweg"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Ernst Ostweg"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Ernst Ostweg"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Ernst Ostweg"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Ernst Ostweg"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Ernst Ostweg"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Ernst Ostweg"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Ernst Ostweg"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Ernst Ostweg"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Ernst Ostweg"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Ernst Ostweg"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Ernst Ostweg"
+    }
+  ]
+}

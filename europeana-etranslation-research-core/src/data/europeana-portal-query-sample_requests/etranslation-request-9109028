@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "saenz de aguirre collectio maxima pdf",
+    "sourceLanguage": "es",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109028",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿SAENZ de Aguirre colcatio Maxima pdf"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿SAENZ de Aguirre colcatio Maxima pdf"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿SAENZ de Aguirre colletion maxima pdf"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿SAENZ de Aguirre colletion maxima pdf"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Saenz de Aguirre colletio maxima (em inglês)"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Saenz de Aguirre colletio maxima (em inglês)"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿SAENZ de Aguirre lectio maxima pdf"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿SAENZ de Aguirre lectio maxima pdf"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿SAENZ de Aguirre colleco maxima pdf"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿SAENZ de Aguirre colleco maxima pdf"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿SAENZ de Aguirre collectio maximumpdf"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿SAENZ de Aguirre collectio maximumpdf"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿SAENZ de Aguirre uppbördsrätt maxima pdf"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿SAENZ de Aguirre uppbördsrätt maxima pdf"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿SAENZ de Aguirre colubutio maxima pdf"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿SAENZ de Aguirre colubutio maxima pdf"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Saenz de Aguirre collectio maxima pdf"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Saenz de Aguirre collectio maxima pdf"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿La sentenza Saenz de Aguirre Collectio maxima"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿La sentenza Saenz de Aguirre Collectio maxima"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿SAENZ de Aguirre colummas"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿SAENZ de Aguirre colummas"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿SAENZ de Aguirre inkastio maxima pdf"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿SAENZ de Aguirre inkastio maxima pdf"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Sierra de Aguirre de Aguirre de Aguirre"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Sierra de Aguirre de Aguirre de Aguirre"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿SAENZ de Aguirre collectio maxima"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿SARENZ de Aguirre colcto maxim.pdf"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿SAENZ de Aguirre collectio maxima"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿SARENZ de Aguirre colcto maxim.pdf"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿SAENZ de Aguirre collectio maxima pdf"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿SAENZ de Aguirre collectio maxima pdf"
+    }
+  ]
+}

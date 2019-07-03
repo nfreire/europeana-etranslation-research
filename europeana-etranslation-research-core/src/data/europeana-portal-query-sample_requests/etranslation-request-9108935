@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Alcublas",
+    "sourceLanguage": "es",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9108935",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Alcbllas"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Alcbllas"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Alcubls"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Alcubls"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Alcublas"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Alcublas"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Alcublas"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Alcublas"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Alcublas"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Alcublas"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Alcubas"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Alcubas"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Alcublas"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Alcublas"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Alcublas"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Alcublas"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Alcublas"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Alcublas"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Alcublas"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Alcublas"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Alcublas"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Alcublas"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Alculas"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Alculas"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Albolas"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Albolas"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Alcublas"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Alcublas"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Alcublas"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Alcublas"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Alcublas"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Alcublas"
+    }
+  ]
+}

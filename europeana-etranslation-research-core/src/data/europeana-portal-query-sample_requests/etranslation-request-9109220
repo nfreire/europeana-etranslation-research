@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "la culture du sport",
+    "sourceLanguage": "fr",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109220",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Sport"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Sport"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿urheilukulttuuri"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿urheilukulttuuri"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿cultura do desporto"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿cultura do desporto"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿sporto kultūra"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿sporto kultūra"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿sportkultúra"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿sportkultúra"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿idrott"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿idrott"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿πολιτισμός του αθλητισμού"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿πολιτισμός του αθλητισμού"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿culture of sport"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿culture of sport"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿cultura dello sport"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿cultura dello sport"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿cultura del deporte"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿cultura del deporte"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿spordikultuur"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿spordikultuur"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿kultura sportu"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿kultura sportu"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿kultura sportu"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿kultura sportu"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿sportskultur"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿cultura sportului"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿sportskultur"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿cultura sportului"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿sportcultuur"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿sportcultuur"
+    }
+  ]
+}

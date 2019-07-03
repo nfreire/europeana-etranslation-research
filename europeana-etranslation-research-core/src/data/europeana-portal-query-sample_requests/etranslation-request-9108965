@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "alexander the great hellespont",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9108965",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Alexander der große Hellektor"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Alexander der große Hellektor"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Alexander the Great Hellespont"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Alexander the Great Hellespont"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Alexander Hellespont"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Alexander Hellespont"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Alexander the Great Hellespont"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Alexander the Great Hellespont"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Alexander la grande Hellétit"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Alexander la grande Hellétit"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Alexander, nagy spondspondot"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Alexander, nagy spondspondot"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Alexander the stora Hellespont"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Alexander the stora Hellespont"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Μέγας Αλέξανδρος"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Μέγας Αλέξανδρος"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Alessandro la grande Hellesponcrate"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Alessandro la grande Hellesponcrate"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Alexander the Great Hellepont"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Alexander the Great Hellepont"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Aleksander Great Hellepont"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Aleksander Great Hellepont"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Alexandr velký Hellespont"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Alexandr velký Hellespont"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Aleksandr wielki Hellespont"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Aleksandr wielki Hellespont"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Alexander the Great Hellespont"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Alexander Marele Hellespont"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Alexander the Great Hellespont"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Alexander Marele Hellespont"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Alexander de grote Hellessponsort"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Alexander de grote Hellessponsort"
+    }
+  ]
+}

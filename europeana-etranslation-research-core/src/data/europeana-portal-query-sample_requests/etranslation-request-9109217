@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "universitat de valencia",
+    "sourceLanguage": "es",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109217",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Universitat de Valencia"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Universitat de Valencia"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Universitat de valcicia"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Universitat de valcicia"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Universitat de Valencia"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Universitat de Valencia"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Universitat de valencia"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Universitat de valencia"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Universitat de valencia"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Universitat de valencia"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Universiat de valencia"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Universiat de valencia"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Universitat de valencia"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Universitat de valencia"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Universitat de valencia"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Universitat de valencia"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Universitat de valencia"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Universitat de valencia"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Universitat de Valencia"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Universitat de Valencia"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Universitat de valencia"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Universitat de valencia"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Universitat de vallencia"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Universitat de vallencia"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Universitat de valencia"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Universitat de valencia"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Universitat de valencia"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Universat de valencia"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Universitat de valencia"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Universat de valencia"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Universat de valencia"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Universat de valencia"
+    }
+  ]
+}

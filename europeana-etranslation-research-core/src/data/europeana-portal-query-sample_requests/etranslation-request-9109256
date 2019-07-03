@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "health",
+    "sourceLanguage": "el",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109256",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Gesundheit"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Gesundheit"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿terveys"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿terveys"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿saúde"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿saúde"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿sveikatos"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿sveikatos"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿santé"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿santé"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿egészségügy"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿egészségügy"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿hälsa"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿hälsa"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿health"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿health"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿salute"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿salute"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿salud"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿salud"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿tervis"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿tervis"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿zdraví"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿zdraví"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿zdrowia"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿zdrowia"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿sundhed"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿sănătate"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿sundhed"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿sănătate"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿gezondheid"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿gezondheid"
+    }
+  ]
+}

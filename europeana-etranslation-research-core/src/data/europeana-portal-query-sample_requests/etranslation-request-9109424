@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "abstract landscapes",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109424",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿abstrakte Landschaften"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿abstrakte Landschaften"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿abstrakti maisema"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿abstrakti maisema"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿paisagens abstratas"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿paisagens abstratas"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿abstraktūs kraštovaizdžiai"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿abstraktūs kraštovaizdžiai"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿paysages abstraits"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿paysages abstraits"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿tájak"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿tájak"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿abstrakta landskap"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿abstrakta landskap"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿αφηρημένα τοπία"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿αφηρημένα τοπία"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿paesaggi teorici"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿paesaggi teorici"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿paisajes abstractos"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿paisajes abstractos"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿abstraktsed maastikud"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿abstraktsed maastikud"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿abstraktní krajina"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿abstraktní krajina"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿krajobrazy abstrakcyjne"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿krajobrazy abstrakcyjne"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿abstrakt landskab"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿peisaje abstracte"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿abstrakt landskab"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿peisaje abstracte"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿abstracte landschappen"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿abstracte landschappen"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "african woman",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109391",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Afrikanische Frauen"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Afrikanische Frauen"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿afrikkalainen nainen"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿afrikkalainen nainen"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿mulher africana"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿mulher africana"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿afrikinė moteris"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿afrikinė moteris"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿la femme d’Afrique"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿la femme d’Afrique"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿afrikai nő"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿afrikai nő"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿afrikanska kvinnor"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿afrikanska kvinnor"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Αφρικανική"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Αφρικανική"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿donna africana"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿donna africana"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿mujer africana"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿mujer africana"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Aafrika naine"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Aafrika naine"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿africká žena"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿africká žena"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿African kobieta"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿African kobieta"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿afrikansk kvinde"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿femeie africană"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿afrikansk kvinde"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿femeie africană"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Afrikaanse vrouw"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Afrikaanse vrouw"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "juan francisco de navas",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109060",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Juan francisco de Navas"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Juan francisco de Navas"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Juan francisco de Navas"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Juan francisco de Navas"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Juan frasco de Navas"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Juan frasco de Navas"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Juan francucko de Navas"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Juan francucko de Navas"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Juan francisco de Navas"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Juan francisco de Navas"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Juan francisco de Navas"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Juan francisco de Navas"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Juan Francisco de Navas"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Juan Francisco de Navas"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Juan francisco de Navas"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Juan francisco de Navas"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Juan francisco de Navas"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Juan francisco de Navas"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Juan francdisco de Navas"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Juan francdisco de Navas"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Juan francisco de Navas"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Juan francisco de Navas"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Juan francisco de Navas"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Juan francisco de Navas"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Juana francaisco de Navas"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Juana francaisco de Navas"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Juan francisco de Nava"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Juan francsco de Navas"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Juan francisco de Nava"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Juan francsco de Navas"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Juan francisco de Navas"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Juan francisco de Navas"
+    }
+  ]
+}

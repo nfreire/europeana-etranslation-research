@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "adana",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109116",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Adana"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Adana"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Adana"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Adana"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Adana"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Adana"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Adana"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Adana"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Adana"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Adana"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Adana"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Adana"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Adana"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Adana"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Άδανα"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Άδανα"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Adana"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Adana"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Adana"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Adana"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Adana"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Adana"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Adana"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Adana"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Adana"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Adana"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Adana"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Adana"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Adana"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Adana"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Adana"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Adana"
+    }
+  ]
+}

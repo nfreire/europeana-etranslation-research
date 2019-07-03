@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Traditional outfits Germany",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109247",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Deutschland: traditionelle Spezialitäten"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Deutschland: traditionelle Spezialitäten"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Perinteiset liiketoimintatavarat – Saksa"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Perinteiset liiketoimintatavarat – Saksa"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Enxovais Alemanha"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Enxovais Alemanha"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Tradiciniai komplektai – Vokietija"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Tradiciniai komplektai – Vokietija"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Tenues traditionnelles de l’Allemagne"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Tenues traditionnelles de l’Allemagne"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Hagyományos születési hely: németország"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Hagyományos születési hely: németország"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Traditionell utrustning i Tyskland"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Traditionell utrustning i Tyskland"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Παραδοσιακές εξαρτίσεις από τη Γερμανία"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Παραδοσιακές εξαρτίσεις από τη Γερμανία"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Verde tradizionale (Germania)"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Verde tradizionale (Germania)"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Ropa y equipo tradicionales Alemania"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Ropa y equipo tradicionales Alemania"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Traditsioonilised valikud — Saksamaa"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Traditsioonilised valikud — Saksamaa"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Tradiční Německo"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Tradiční Německo"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Tradycyjne zestawy należące do Niemiec"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Tradycyjne zestawy należące do Niemiec"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Traditionelle virksomheder, Tyskland"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Uniformă tradițională Germania"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Traditionelle virksomheder, Tyskland"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Uniformă tradițională Germania"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Traditionele kleding Duitsland"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Traditionele kleding Duitsland"
+    }
+  ]
+}

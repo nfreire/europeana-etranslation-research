@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Agostinho Dias Carneiro",
+    "sourceLanguage": "pt",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109366",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Agostinho Carneiro"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Agostinho Carneiro"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Agostinho Carneiro"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Agostinho Carneiro"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Agostinho Carneiro"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Agostinho Carneiro"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Agostinho Carneiro"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Agostinho Carneiro"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Agostinho Carneiro"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Agostinho Carneiro"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Agostinho Carneiro"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Agostinho Carneiro"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Agostinho Carneiro"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Agostinho Carneiro"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Agostinho Carneiro"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Agostinho Carneiro"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Agostinho Carneiro"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Agostinho Carneiro"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Agostinho Carneiro"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Agostinho Carneiro"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Agostinho Carneiro"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Agostinho Carneiro"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Agostinho Carneiro"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Agostinho Carneiro"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Agostinho Carneiro"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Agostinho Carneiro"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Agostinho Carneiro"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Agostinho Carneiro"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Agostinho Carneiro"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Agostinho Carneiro"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Agostinho Carneiro"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Agostinho Carneiro"
+    }
+  ]
+}

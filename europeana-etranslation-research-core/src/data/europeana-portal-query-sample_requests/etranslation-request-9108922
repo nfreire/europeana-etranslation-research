@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "adulthood",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9108922",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Erwachsenenalter"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Erwachsenenalter"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿aikuisuus"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿aikuisuus"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿idade adulta"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿idade adulta"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿pilnametystė"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿pilnametystė"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿âge adulte"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿âge adulte"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿felnőttkor"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿felnőttkor"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿vuxenlivet"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿vuxenlivet"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿η ενηλικίωση"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿η ενηλικίωση"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿età adulta"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿età adulta"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿edad adulta"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿edad adulta"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿täiskasvanuiga"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿täiskasvanuiga"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿dospělosti"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿dospělosti"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿życie dorosłe"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿życie dorosłe"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿voksenlivet"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿vârsta adultă"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿voksenlivet"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿vârsta adultă"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿volwassenheid"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿volwassenheid"
+    }
+  ]
+}

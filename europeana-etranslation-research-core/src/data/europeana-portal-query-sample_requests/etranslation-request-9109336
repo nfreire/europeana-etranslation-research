@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Africae illustratae libri decem",
+    "sourceLanguage": "nl",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "ca"
+    ]
+  },
+  "requestId": "9109336",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Afrikaschartige Bücherbibliotheken descem"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Afrikaschartige Bücherbibliotheken descem"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Africarae illistleenen kirjastot desceim"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Africarae illistleenen kirjastot desceim"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿As bibliotecas africana e ilistrileno desbrascem"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿As bibliotecas africana e ilistrileno desbrascem"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Africae illistrateninių bibliotekų descemas"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Africae illistrateninių bibliotekų descemas"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Bibliothèques de bibliothèques d’africae illistratène"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Bibliothèques de bibliothèques d’africae illistratène"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Africae illistratene könyvtárak dezocem"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Africae illistratene könyvtárak dezocem"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Africaes illstraatenlablies descocei"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Africaes illstraatenlablies descocei"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Africae illistrataβιβλιοθηκών descem"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Africae illistrataβιβλιοθηκών descem"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Africae illistratene libraries descem"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Africae illistratene libraries descem"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Biblioteche malistratene descem"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Biblioteche malistratene descem"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Bibliotecas africanas"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Bibliotecas africanas"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Africae laillitseeni raamatukogud destsem"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Africae laillitseeni raamatukogud destsem"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Knihovny africae illisatrien"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Knihovny africae illisatrien"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Pozyskane ze środowiska naturalnego"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Pozyskane ze środowiska naturalnego"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Africcae illiniatene biblioteker decem"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Biblioteci africane illiscaten descetm"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Africcae illiniatene biblioteker decem"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Biblioteci africane illiscaten descetm"
+    }
+  ]
+}

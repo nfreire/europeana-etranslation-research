@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Agenda sive exequiale divinorum sacramentorum per venerabilem virum dominum",
+    "sourceLanguage": "lt",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109430",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Programm SIVE exquiale divinorum sentorum"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Programm SIVE exquiale divinorum sentorum"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Esityslistalla on myös kattava divinalisti:"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Esityslistalla on myös kattava divinalisti:"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Agenda SIVE exequiale divinum oentorum"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Agenda SIVE exequiale divinum oentorum"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Agenda SIVE Execale divinorum osentorum"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Agenda SIVE Execale divinorum osentorum"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿PATHuale divinorum osentorum agenda"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿PATHuale divinorum osentorum agenda"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿En dagordning för gemena exeequiale diovinorum osentorum"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿En dagordning för gemena exeequiale diovinorum osentorum"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Πρόγραμμα SIVE exequale divinorum osientorum"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Πρόγραμμα SIVE exequale divinorum osientorum"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Agenda SIVE exequiale divinorum osentorum"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Agenda SIVE exequiale divinorum osentorum"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Ordine del giorno"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Ordine del giorno"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Orden del día SIVE exequiale divinorum oentorum"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Orden del día SIVE exequiale divinorum oentorum"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿JIVE exequale divinorum orenorum"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿JIVE exequale divinorum orenorum"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Agenda SIVITNÍ exPLATNÁ diréuum osentorum"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Agenda SIVITNÍ exPLATNÁ diréuum osentorum"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Wszystkie gatunki zwierząt, od których lub z których pozyskuje się żywność MLP nie jest wymagany NIE DOTYCZY BRAK WPISU BRAK WP@@"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Wszystkie gatunki zwierząt, od których lub z których pozyskuje się żywność MLP nie jest wymagany NIE DOTYCZY BRAK WPISU BRAK WP@@"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Agenda SVARVE divinorum osaentorum"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Ordinea de zi"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Agenda SVARVE divinorum osaentorum"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Ordinea de zi"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Agenda SIVE exequiale divinorum osentorum"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Agenda SIVE exequiale divinorum osentorum"
+    }
+  ]
+}

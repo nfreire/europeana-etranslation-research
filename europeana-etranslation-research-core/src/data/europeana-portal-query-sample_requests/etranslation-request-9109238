@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "grandi motori",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109238",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Grandi motori"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Grandi motori"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿moottori-Grandi"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿moottori-Grandi"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Grandi motori"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Grandi motori"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿įmonė „Grandi“"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿įmonė „Grandi“"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿motori Grandi motori"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿motori Grandi motori"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Grandi motor (i)"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Grandi motor (i)"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Grandi motori"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Grandi motori"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Grandi motori"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Grandi motori"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Grandi veicoli"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Grandi veicoli"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Grandi motori"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Grandi motori"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Grandi motorni"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Grandi motorni"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Grandi motori"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Grandi motori"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Grandi motori"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Grandi motori"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Grandi motori"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿motori Grandi"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Grandi motori"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿motori Grandi"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Grandi motori"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Grandi motori"
+    }
+  ]
+}

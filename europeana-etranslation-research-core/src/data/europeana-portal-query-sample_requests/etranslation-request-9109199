@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "miss blanche",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109199",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿fehlende blanche"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿fehlende blanche"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿myöhästynyt"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿myöhästynyt"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿falhar a carta branca"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿falhar a carta branca"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿blanche"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿blanche"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿MISS blanche"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿MISS blanche"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Törpe blanche"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Törpe blanche"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿missar blanche"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿missar blanche"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿άγονος χιονοστιβάδας"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿άγονος χιονοστιβάδας"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿perdere carta bianca"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿perdere carta bianca"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿carta blanca"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿carta blanca"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿brevin"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿brevin"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿meškat."
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿meškat."
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿przegap blanche"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿przegap blanche"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿husk at gå glip af blanche"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿ratați blanche"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿husk at gå glip af blanche"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿ratați blanche"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿mis blanche"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿mis blanche"
+    }
+  ]
+}

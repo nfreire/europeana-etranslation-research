@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Raimundo Lulio",
+    "sourceLanguage": "es",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109152",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Raimundo Lulio"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Raimundo Lulio"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Raimundo Lulo"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Raimundo Lulo"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Raimundo Lulio"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Raimundo Lulio"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Raimundo Lulio"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Raimundo Lulio"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Raimundo Lulio"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Raimundo Lulio"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Raimundo Lulio"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Raimundo Lulio"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Raimundo Lullo"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Raimundo Lullo"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Raimundo Lulio"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Raimundo Lulio"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Raimundo Lulio"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Raimundo Lulio"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Raimundo"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Raimundo"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Raimundo Lulio"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Raimundo Lulio"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Raimundo Luloo"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Raimundo Luloo"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Raimundo Lulio"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Raimundo Lulio"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Raimundo Lulo"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Raimundo Lulio"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Raimundo Lulo"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Raimundo Lulio"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Raimundo Lulio"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Raimundo Lulio"
+    }
+  ]
+}

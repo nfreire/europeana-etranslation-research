@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "francisco franco",
+    "sourceLanguage": "es",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9108903",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Francisco Franc"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Francisco Franc"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Francisco frangi"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Francisco frangi"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Francisco franco"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Francisco franco"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Francisco frankas"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Francisco frankas"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Francisco franc"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Francisco franc"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Francisco frank"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Francisco frank"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Francisco franc"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Francisco franc"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Φρανκ. φράγκο"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Φρανκ. φράγκο"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Francisco franc"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Francisco franc"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Francisco franco"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Francisco franco"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Francisco frank"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Francisco frank"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Francisco Franc"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Francisco Franc"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Frank"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Frank"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Francisco francs"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Francul Francisco"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Francisco francs"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Francul Francisco"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Francisco Franc"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Francisco Franc"
+    }
+  ]
+}

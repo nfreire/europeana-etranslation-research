@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Isabel de la serna",
+    "sourceLanguage": "es",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109227",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Isabel de la Serna"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Isabel de la Serna"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Isabel de la Serna"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Isabel de la Serna"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Isabel de la Serna"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Isabel de la Serna"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Isabel de la Serna"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Isabel de la Serna"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Isabel de la Serna"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Isabel de la Serna"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Isabel de la Serna"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Isabel de la Serna"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Isabel de la Serna"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Isabel de la Serna"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Isabel de la Serna"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Isabel de la Serna"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Isabel de la Serna"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Isabel de la Serna"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Isabel de la Serna"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Isabel de la Serna"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Isabel de la Serna"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Isabel de la Serna"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Isabel de la Serna"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Isabel de la Serna"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Isabel de la Serna"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Isabel de la Serna"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Isabel de la Serna"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Isabel de la Serna"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Isabel de la Serna"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Isabel de la Serna"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Isabel de la Serna"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Isabel de la Serna"
+    }
+  ]
+}

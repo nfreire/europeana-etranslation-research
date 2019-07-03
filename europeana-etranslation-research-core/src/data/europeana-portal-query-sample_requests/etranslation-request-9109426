@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "actas cortes navarra",
+    "sourceLanguage": "es",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109426",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Protokoll, Cortes naarra"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Protokoll, Cortes naarra"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿minuutit, Cortes navarra"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿minuutit, Cortes navarra"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿atas, Cortes navoarra"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿atas, Cortes navoarra"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿protokolas, Cortes navarbra"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿protokolas, Cortes navarbra"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿procès-verbal, Cortes navarra"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿procès-verbal, Cortes navarra"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿jegyzőkönyv, Cortes naavra"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿jegyzőkönyv, Cortes naavra"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿protokoll, Cortes nastorra"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿protokoll, Cortes nastorra"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿πρακτικά, Cortes navarra"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿πρακτικά, Cortes navarra"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿minutes, Cortes navarra"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿minutes, Cortes navarra"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿minuti, Cortes napararra"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿minuti, Cortes napararra"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿protokoll, Cortes navarra"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿protokoll, Cortes navarra"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿zápis, společnost Cortes navarra"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿zápis, společnost Cortes navarra"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿minuty, Cortes navarra"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿minuty, Cortes navarra"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿protokol, Cortes navarra"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿minute, Cortes navarra"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿protokol, Cortes navarra"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿minute, Cortes navarra"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿notulen, Cortes navarra"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿notulen, Cortes navarra"
+    }
+  ]
+}

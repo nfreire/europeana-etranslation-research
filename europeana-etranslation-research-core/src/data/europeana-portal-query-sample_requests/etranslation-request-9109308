@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "aderlass",
+    "sourceLanguage": "de",
+    "targetLanguages": [
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109308",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "FI",
+      "translatedText": "﻿hissi"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿hissi"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿ascensor"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿ascensor"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿liftas"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿liftas"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Agderlass"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Agderlass"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿felvonó"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿felvonó"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿hiss"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿hiss"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿ανελκυστήρας"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿ανελκυστήρας"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿lift"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿lift"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿ascensore"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿ascensore"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿ascensor"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿ascensor"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿tõsta"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿tõsta"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿výtah"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿výtah"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿podnośnik"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿podnośnik"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿elevator"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿ascensor"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿elevator"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿ascensor"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿lift"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿lift"
+    }
+  ]
+}

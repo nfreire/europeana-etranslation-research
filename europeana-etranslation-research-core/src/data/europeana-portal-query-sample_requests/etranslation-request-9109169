@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Georges Ostrowski",
+    "sourceLanguage": "fr",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109169",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Herr Georges Ostrowski"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Herr Georges Ostrowski"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Georges Ostrowski"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Georges Ostrowski"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Georges Ostrowski"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Georges Ostrowski"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Georges Ostrowski"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Georges Ostrowski"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Georges Ostrowski"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Georges Ostrowski"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Georges Ostrowski"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Georges Ostrowski"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Γεώργιος Ostrowski"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Γεώργιος Ostrowski"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Georges Ostrowski"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Georges Ostrowski"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Georges Ostrowski"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Georges Ostrowski"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Georges Ostrowski"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Georges Ostrowski"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Georges Ostrowski"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Georges Ostrowski"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Georges OSTROWSKI"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Georges OSTROWSKI"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Georges STROWSKI"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Georges STROWSKI"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Georges Ostrowski"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Georges Ostrowski"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Georges Ostrowski"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Georges Ostrowski"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Georges Ostrowski"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Georges Ostrowski"
+    }
+  ]
+}

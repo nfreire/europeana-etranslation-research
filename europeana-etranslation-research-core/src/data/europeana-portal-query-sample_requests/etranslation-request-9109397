@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "vue d'arlon",
+    "sourceLanguage": "fr",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109397",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Seitenansicht"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Seitenansicht"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Arlon view"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Arlon view"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Visualização em Arlon"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Visualização em Arlon"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Arono rodinys"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Arono rodinys"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Arlon-nézet"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Arlon-nézet"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Arlonvy"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Arlonvy"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Arlon view"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Arlon view"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Arlon view"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Arlon view"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Vista Arlon"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Vista Arlon"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Opinión de Arlon"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Opinión de Arlon"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Arlon vaade"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Arlon vaade"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿ARLON view"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿ARLON view"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Widok Arlon"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Widok Arlon"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Arlon"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Vizualizare arlon"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Arlon"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Vizualizare arlon"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Arlon view"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Arlon view"
+    }
+  ]
+}

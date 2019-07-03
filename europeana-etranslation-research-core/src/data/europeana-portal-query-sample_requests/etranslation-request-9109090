@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "guida armonica pitoni",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109090",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿GUIda armonica Pitoni"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿GUIda armonica Pitoni"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Guida arimonica pioni"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Guida arimonica pioni"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Guida armonica pitoni"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Guida armonica pitoni"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Gida armonca pitoni"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Gida armonca pitoni"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Guida armonica pitoni"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Guida armonica pitoni"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Guida armonica pittoni"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Guida armonica pittoni"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Guida armonica pisononi"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Guida armonica pisononi"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Guida armonica pitoni"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Guida armonica pitoni"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Guida armonica pitoni"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Guida armonica pitoni"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿guía arimonca pioni"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿guía arimonca pioni"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Guida armonica pitoni"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Guida armonica pitoni"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Joida armonica pitoni, Guida armonica pitoni"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Joida armonica pitoni, Guida armonica pitoni"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Guida armonica picioni"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Guida armonica picioni"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Guida armonica pitoni"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Guida Armonica pitoni"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Guida armonica pitoni"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Guida Armonica pitoni"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Guida armonica pitoni"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Guida armonica pitoni"
+    }
+  ]
+}

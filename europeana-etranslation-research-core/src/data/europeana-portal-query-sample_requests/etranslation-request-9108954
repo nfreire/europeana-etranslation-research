@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Girl with the Pearl Earring",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9108954",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Mädchen mit der Pearl Earring"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Mädchen mit der Pearl Earring"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Tyttö, jossa Pearl Early"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Tyttö, jossa Pearl Early"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Rapariga de Pérolas"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Rapariga de Pérolas"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Mergaitė su Pearl Earring"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Mergaitė su Pearl Earring"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Fille avec Pearl Earring"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Fille avec Pearl Earring"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Lány a Gyöngy-korgyűrűvel"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Lány a Gyöngy-korgyűrűvel"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Flicka med Pearl Earring"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Flicka med Pearl Earring"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Κορίτσι με το Pearl Earlies"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Κορίτσι με το Pearl Earlies"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Ragazza con la Pearl Earring"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Ragazza con la Pearl Earring"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Chica con Pearl Earring"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Chica con Pearl Earring"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Tüdruk Pearl Earnringiga"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Tüdruk Pearl Earnringiga"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Dívka s Pearl Earring"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Dívka s Pearl Earring"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Dziewczynka z pierścieniem ziemskim (Pearl Earring)"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Dziewczynka z pierścieniem ziemskim (Pearl Earring)"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Pige med Pearl Earring"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Fată cu pătrarul Pearl Earring"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Pige med Pearl Earring"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Fată cu pătrarul Pearl Earring"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Meisje met Pearl Earring"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Meisje met Pearl Earring"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Ada Wright of the Women's Social and Political Union",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109423",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿ADA Wright von der Social and Politischen Union (Wright) der Women’s Social and Political"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿ADA Wright von der Social and Politischen Union (Wright) der Women’s Social and Political"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿ADA Wright of the Women’s Social and Political Union"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿ADA Wright of the Women’s Social and Political Union"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Direito da Mulher da União Social e Política das Mulheres"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Direito da Mulher da União Social e Política das Mulheres"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿ADS Wright of the Women’s Social and Political Union (Moterų socialinė ir politinė sąjunga)"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿ADS Wright of the Women’s Social and Political Union (Moterų socialinė ir politinė sąjunga)"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿ADA Wright de l’Union sociale et politique des femmes"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿ADA Wright de l’Union sociale et politique des femmes"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿ADA Wright of the Women’s Social and Political Union"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿ADA Wright of the Women’s Social and Political Union"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿ADA Wright of the Women’s Social and Political Union"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿ADA Wright of the Women’s Social and Political Union"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿ADA Wright of the Women’s Social and Political Union"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿ADA Wright of the Women’s Social and Political Union"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Wright of the Women's Social and Political Union"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Wright of the Women's Social and Political Union"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿ADA Wright of the Women’s Social and Political Union"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿ADA Wright of the Women’s Social and Political Union"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿ADA Wright of the Women’s Social and Political Union"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿ADA Wright of the Women’s Social and Political Union"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿ADA Wright of the Women’ s Social and Political Union (Sociální a politická unie žen)"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿ADA Wright of the Women’ s Social and Political Union (Sociální a politická unie žen)"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿ADA Wright of the Women’s Social and Political Union (ADA Wright of the Women’s Social and Political"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿ADA Wright of the Women’s Social and Political Union (ADA Wright of the Women’s Social and Political"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿ADA Wright of the Women's Social and Political Union (kvinders sociale og politiske union)"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿ADA Wright of the Women’s Social and political (Uniunea socială și politică a femeilor)"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿ADA Wright of the Women's Social and Political Union (kvinders sociale og politiske union)"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿ADA Wright of the Women’s Social and political (Uniunea socială și politică a femeilor)"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿ADA Wright van de sociale en politieke unie van de vrouw"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿ADA Wright van de sociale en politieke unie van de vrouw"
+    }
+  ]
+}

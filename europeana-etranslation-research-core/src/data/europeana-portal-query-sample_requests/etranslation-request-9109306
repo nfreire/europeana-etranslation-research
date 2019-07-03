@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "ad hypium",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109306",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Adhyium"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Adhyium"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Ad hypium"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Ad hypium"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿ad hypio"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿ad hypio"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿ad hypio"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿ad hypio"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿europium"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿europium"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿ad hypium"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿ad hypium"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿syumpium"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿syumpium"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿πρόπιο (πρόπιο)"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿πρόπιο (πρόπιο)"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿anoressio"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿anoressio"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿sobre el Hypio"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿sobre el Hypio"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿ad oopium"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿ad oopium"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿ad hyium"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿ad hyium"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿ad hypium"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿ad hypium"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿annoncehypium"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿hypiu"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿annoncehypium"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿hypiu"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿ad Hypium"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿ad Hypium"
+    }
+  ]
+}

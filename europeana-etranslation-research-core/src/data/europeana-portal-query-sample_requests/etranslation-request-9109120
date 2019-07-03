@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "sanchez rojas",
+    "sourceLanguage": "es",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109120",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Sanchez red"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Sanchez red"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Sanchez red"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Sanchez red"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Sanchez Red"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Sanchez Red"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Sanchez red"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Sanchez red"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Sanchez rouge"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Sanchez rouge"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Sanchez vörös"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Sanchez vörös"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Sanchez red"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Sanchez red"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Sanchez red"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Sanchez red"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Sanchez red"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Sanchez red"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Sanchez Red"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Sanchez Red"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Sanchez Red"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Sanchez Red"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Sanchez red"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Sanchez red"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Sanchez red"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Sanchez red"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Sanchez Red"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Sanchez roșu"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Sanchez Red"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Sanchez roșu"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Sanchez"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Sanchez"
+    }
+  ]
+}

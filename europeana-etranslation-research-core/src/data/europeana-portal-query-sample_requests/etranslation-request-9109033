@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Acheville",
+    "sourceLanguage": "fr",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109033",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Aichorium"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Aichorium"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Nilkka"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Nilkka"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Tornozelo"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Tornozelo"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Kulkšnis"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Kulkšnis"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Boka"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Boka"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Fotled"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Fotled"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Αστράγαλος"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Αστράγαλος"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Ankle"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Ankle"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Caviglia"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Caviglia"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Tobillo"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Tobillo"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Pahkluu"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Pahkluu"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Kotník"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Kotník"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Kostka"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Kostka"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Ankel"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Gleznă"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Ankel"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Gleznă"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Enkel"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Enkel"
+    }
+  ]
+}

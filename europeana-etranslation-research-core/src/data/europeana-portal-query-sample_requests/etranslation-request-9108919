@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "agria",
+    "sourceLanguage": "hu",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9108919",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Agria"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Agria"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Agria"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Agria"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Agria"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Agria"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Agria"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Agria"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Agria"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Agria"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Agria"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Agria"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Αγρία"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Αγρία"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Agria"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Agria"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Agria"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Agria"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Agria"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Agria"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Agria"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Agria"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Agia"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Agia"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿W przypadku Agalria"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿W przypadku Agalria"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Agria"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Aga"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Agria"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Aga"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Agria"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Agria"
+    }
+  ]
+}

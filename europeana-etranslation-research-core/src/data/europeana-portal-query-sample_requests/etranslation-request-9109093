@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "la coulisse devant l'opinion publique",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109093",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿la Coulise devant l’opinion publique"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿la Coulise devant l’opinion publique"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿lausunto julkisesta taloudesta"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿lausunto julkisesta taloudesta"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿la coulise devant l’opinion publique"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿la coulise devant l’opinion publique"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿visuomenės darbas la Couso liste"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿visuomenės darbas la Couso liste"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿la Coulissse dévorer l’opinion publique"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿la Coulissse dévorer l’opinion publique"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿la Coisse devant l’opinion publique"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿la Coisse devant l’opinion publique"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿bekräftelse från regionen (”Coulise devant l’opinions”)"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿bekräftelse från regionen (”Coulise devant l’opinions”)"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿la Coulse devant l’Opinion publique"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿la Coulse devant l’Opinion publique"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿l'opinione pubblica la couillisse devant l'opinion publique"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿l'opinione pubblica la couillisse devant l'opinion publique"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿la couverte devant l’opinion publique"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿la couverte devant l’opinion publique"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿la Coulisse devant (avalik arvamus)"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿la Coulisse devant (avalik arvamus)"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿organizace veřejného mínění"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿organizace veřejného mínění"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿la Coulistse devant l’opinion publique"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿la Coulistse devant l’opinion publique"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿la Cousase devant l'opinion publique"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Republica Centrafricană (Lilissis devant l’opinie)"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿la Cousase devant l'opinion publique"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Republica Centrafricană (Lilissis devant l’opinie)"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿la Coulisse wdet „opinion”"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿la Coulisse wdet „opinion”"
+    }
+  ]
+}

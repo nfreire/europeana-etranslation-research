@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+
+    <parent>
+		<groupId>europeana.eu</groupId>
+		<artifactId>europeana-etranslation-research</artifactId>
+		<version>0.1</version>
+    </parent>
+	<artifactId>europeana-etranslation-research-callback</artifactId>
+	<packaging>war</packaging>
+	<name>Europeana's eTranslation API callback</name>
+ 	
+ 	<properties>
+    	<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    </properties>
+    
+	<build>
+		<defaultGoal>package</defaultGoal>
+		<finalName>etranslation-callback</finalName>
+  		  <plugins>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-compiler-plugin</artifactId>
+				<version>3.3</version>
+				<configuration>
+					<showDeprecation>true</showDeprecation>
+					<encoding>UTF-8</encoding>
+					<source>1.8</source>
+					<target>1.8</target>
+				</configuration>
+			</plugin>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-war-plugin</artifactId>
+				<version>2.6</version>
+				<configuration>
+					<webResources>
+						<resource>
+							<filtering>true</filtering>
+							<directory>src/main/webapp</directory>
+							<includes>
+								<include>**/web.xml</include>
+							</includes>
+						</resource>
+					</webResources>
+					<warSourceDirectory>src/main/webapp</warSourceDirectory>
+					<webXml>src/main/webapp/WEB-INF/web.xml</webXml>
+				</configuration>
+			</plugin>			
+		</plugins>
+		<resources>
+			<resource>
+				<directory>src/main/resources</directory>
+				<filtering>true</filtering>
+			</resource>
+		</resources>
+	</build>
+
+	<dependencies>
+		<dependency>
+			<groupId>europeana.eu</groupId>
+			<version>0.1</version>
+			<artifactId>europeana-etranslation-research-core</artifactId>
+		</dependency>
+		
+		<!-- CONTAINER DEPENDENCY -->
+		<dependency>
+			<groupId>javax.servlet</groupId>
+			<artifactId>servlet-api</artifactId>
+			<version>2.5</version>
+		</dependency>
+	</dependencies>
+</project>

@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Nascita di Venere",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109301",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Nasina di Venere"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Nasina di Venere"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Nassita di Venere"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Nassita di Venere"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Nascita di Venere"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Nascita di Venere"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Natanta di Venere"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Natanta di Venere"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Nascita di Venere"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Nascita di Venere"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Nascita di Venere"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Nascita di Venere"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Nascitola di Venere"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Nascitola di Venere"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Nascita di Venere"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Nascita di Venere"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Nascita di Venere"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Nascita di Venere"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Nasciga di Venere"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Nasciga di Venere"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Nascia di Venere"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Nascia di Venere"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Nascita di Venere"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Nascita di Venere"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Nascita di Venere"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Nascita di Venere"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Nascita di Venere"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Nascita di Venere"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Nascita di Venere"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Nascita di Venere"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Nascita di Venere"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Nascita di Venere"
+    }
+  ]
+}

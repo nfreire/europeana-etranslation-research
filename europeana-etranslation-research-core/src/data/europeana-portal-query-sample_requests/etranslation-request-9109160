@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "alberti sicilia isola",
+    "sourceLanguage": "it",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109160",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Insel Alberti sivilia"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Insel Alberti sivilia"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Alberti sicilia"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Alberti sicilia"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Alberti sisicilia Island"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Alberti sisicilia Island"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Alberti silia sala"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Alberti silia sala"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Île d’Alberti siccylia"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Île d’Alberti siccylia"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Alberti siciilia Island"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Alberti siciilia Island"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Alberti silia Island"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Alberti silia Island"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Alberti sicilia"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Alberti sicilia"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Alberti sicilia Island"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Alberti sicilia Island"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Alberti silia Island"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Alberti silia Island"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Alberti Ssicilia saar"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Alberti Ssicilia saar"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Alberti siclii Island"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Alberti siclii Island"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Alberti sicilia Island"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Alberti sicilia Island"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Alberti sicilia"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Insula Alberti Lsicilia"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Alberti sicilia"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Insula Alberti Lsicilia"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Alberti sicilia Island"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Alberti sicilia Island"
+    }
+  ]
+}

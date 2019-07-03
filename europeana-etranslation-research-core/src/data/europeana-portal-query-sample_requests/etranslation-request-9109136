@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Aguilar de Campoo",
+    "sourceLanguage": "es",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109136",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Aguilar de Campo"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Aguilar de Campo"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Aguilar de Campoo"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Aguilar de Campoo"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Aguilar de Campoo"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Aguilar de Campoo"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Aguilar de Campoo"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Aguilar de Campoo"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Aguilar de Campoo"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Aguilar de Campoo"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Aguilar de Campoo"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Aguilar de Campoo"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Aguilar de Campoo"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Aguilar de Campoo"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Aguilar de Campo"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Aguilar de Campo"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Aguilar de Campoo"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Aguilar de Campoo"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Aguilar de Campoo"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Aguilar de Campoo"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Aguilar de Campoo"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Aguilar de Campoo"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Aguilar de Campoo"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Aguilar de Campoo"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Aguilar de Campoo"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Aguilar de Campoo"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Aguilar de Campoo"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Aguilar de Campoo"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Aguilar de Campoo"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Aguilar de Campoo"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Aguilar de Campoo"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Aguilar de Campoo"
+    }
+  ]
+}

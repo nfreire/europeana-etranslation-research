@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "agenlli",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109203",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Agendli"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Agendli"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿agenlli"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿agenlli"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿agenciol"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿agenciol"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿agenlli"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿agenlli"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿agenlli"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿agenlli"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Attelli"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Attelli"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Europeiska unionens allmänna budget"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Europeiska unionens allmänna budget"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿aglli"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿aglli"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿agenlli"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿agenlli"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿agenlli"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿agenlli"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿agenlli"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿agenlli"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿agenlli"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿agenlli"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿AGENlli"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿AGENlli"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿agenlli"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿agenli"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿agenlli"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿agenli"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿agenlli"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿agenlli"
+    }
+  ]
+}

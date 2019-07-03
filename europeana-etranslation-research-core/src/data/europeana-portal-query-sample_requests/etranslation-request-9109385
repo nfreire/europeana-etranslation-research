@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "sancta rosa",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109385",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Sancta rosa"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Sancta rosa"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Sancta"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Sancta"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Sancta rosa"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Sancta rosa"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Sancta rosa"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Sancta rosa"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Santa rosa"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Santa rosa"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Sancta rosa"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Sancta rosa"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Sancta rosa"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Sancta rosa"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Sancta rosa"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Sancta rosa"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿santa rosa"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿santa rosa"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Sancta rosa"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Sancta rosa"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Sancta rosa"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Sancta rosa"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Sancta rosa"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Sancta rosa"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Sancta rosa"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Sancta rosa"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Sancta rosa"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Sancta rosa"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Sancta rosa"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Sancta rosa"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Sancta rosa"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Sancta rosa"
+    }
+  ]
+}

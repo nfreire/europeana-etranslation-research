@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Adam Frans van der Meulen",
+    "sourceLanguage": "es",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9108895",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Herrn Adam Frans van der Meulen"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Herrn Adam Frans van der Meulen"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Adam Frans van der Meulen"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Adam Frans van der Meulen"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Adam Frans van der Meulen"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Adam Frans van der Meulen"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Adam Frans van der Meulen"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Adam Frans van der Meulen"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿M. Adam Frans van der Meulen"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿M. Adam Frans van der Meulen"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Adam Frans van der Meulen"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Adam Frans van der Meulen"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Adam Frans van der Meulen"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Adam Frans van der Meulen"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Ο κ. Adam Frans van der Meulen"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Ο κ. Adam Frans van der Meulen"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Mr Adam Frans van der Meulen"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Mr Adam Frans van der Meulen"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Sig. Adam Frans van der Meulen."
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Sig. Adam Frans van der Meulen."
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Adam Frans van der Meulen"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Adam Frans van der Meulen"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Adam Frans van der Meulen"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Adam Frans van der Meulen"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Pan Adam Frans van der Meulen"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Pan Adam Frans van der Meulen"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Adam Frans van der Meulen"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Dl Adam Frans van der Meulen"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Adam Frans van der Meulen"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Dl Adam Frans van der Meulen"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿De heer Adam Frans van der Meulen"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿De heer Adam Frans van der Meulen"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "vincant van",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109158",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿van Andinant"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿van Andinant"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿vinantti"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿vinantti"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿vincrant van"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿vincrant van"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿vinkant van"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿vinkant van"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿vincant van"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿vincant van"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Vincantos van"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Vincantos van"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿vinckant van"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿vinckant van"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿vincit van"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿vincit van"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿furgone non"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿furgone non"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿vaninstant van"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿vaninstant van"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿vinnant van"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿vinnant van"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿vaninant van"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿vaninant van"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿vinant van"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿vinant van"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿vanincant van"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿ovinant van"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿vanincant van"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿ovinant van"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿vinant van"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿vinant van"
+    }
+  ]
+}

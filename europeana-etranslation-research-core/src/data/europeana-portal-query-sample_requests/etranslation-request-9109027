@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Madame Bovary de Gustave Flaubert",
+    "sourceLanguage": "fr",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109027",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Frau Bovary von Gustav Flaubert"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Frau Bovary von Gustav Flaubert"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Boary de Gustave Flaubert"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Boary de Gustave Flaubert"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Boy de Gustave Flaubert"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Boy de Gustave Flaubert"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Gustave de Gustave Flaubert"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Gustave de Gustave Flaubert"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Boary de Gustave Flaubert"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Boary de Gustave Flaubert"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Boary de Gustave Faubert"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Boary de Gustave Faubert"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Κα Boary de Gustave Flaubert"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Κα Boary de Gustave Flaubert"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Ms Boary de Gustave Flaubert"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Ms Boary de Gustave Flaubert"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Sig.ra Boary de Gustave Flaubert"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Sig.ra Boary de Gustave Flaubert"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Sra. Boary de Gustave Flaubert"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Sra. Boary de Gustave Flaubert"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Boary de Gustave Flubert"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Boary de Gustave Flubert"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Pí Boary de Gustave Flaubert"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Pí Boary de Gustave Flaubert"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Pani Boary de Gustave Flaubert"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Pani Boary de Gustave Flaubert"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Boary de Gustave Flaubert"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Dna Boary de Gustave Flaubert"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Boary de Gustave Flaubert"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Dna Boary de Gustave Flaubert"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Mevr. Boary de Gustave Flaubert"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Mevr. Boary de Gustave Flaubert"
+    }
+  ]
+}

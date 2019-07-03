@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "A Welsh Grammar",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109072",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Ein Welsh Gramamar"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Ein Welsh Gramamar"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿”Welsh Gammar”"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿”Welsh Gammar”"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿A Welsh Grammar"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿A Welsh Grammar"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿A Welsh Grammar"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿A Welsh Grammar"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿A Welsh Grammar"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿A Welsh Grammar"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿A Welsh Grammar"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿A Welsh Grammar"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿”Welsh Grmar”"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿”Welsh Grmar”"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Α Welsh Grammar"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Α Welsh Grammar"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Un gallese Grammar"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Un gallese Grammar"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿A Welsh Grammar"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿A Welsh Grammar"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿A Welsh Grammar"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿A Welsh Grammar"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿A Welsh Grammar"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿A Welsh Grammar"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Walijska Grammar"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Walijska Grammar"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿En walisisk"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿O gramar galez"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿En walisisk"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿O gramar galez"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Welshe Grammar"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Welshe Grammar"
+    }
+  ]
+}

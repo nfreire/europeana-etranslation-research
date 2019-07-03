@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Alcea striata",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109266",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Alcea striata"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Alcea striata"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Alcea striata"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Alcea striata"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Alcea strita"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Alcea strita"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Alcea dstriata"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Alcea dstriata"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Alcea striata"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Alcea striata"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Alcea striata"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Alcea striata"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Alcea striata"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Alcea striata"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Alcea striata"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Alcea striata"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Alcea striata"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Alcea striata"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Alcea stricata"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Alcea stricata"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Alcea trilata"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Alcea trilata"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Alcea striata"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Alcea striata"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Alcea striata"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Alcea striata"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Alcea striata"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Argentina silus"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Alcea striata"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Argentina silus"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Alcea striata"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Alcea striata"
+    }
+  ]
+}

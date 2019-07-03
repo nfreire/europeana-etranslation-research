@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "abeilles",
+    "sourceLanguage": "fr",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9108944",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Bienen"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Bienen"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿mehiläiset"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿mehiläiset"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿abelhas"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿abelhas"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿bitės"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿bitės"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿méhek"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿méhek"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿bin"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿bin"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿μέλισσες"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿μέλισσες"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿bees"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿bees"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿api"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿api"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿abejas"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿abejas"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿mesilased"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿mesilased"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿včely"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿včely"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿pszczoły"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿pszczoły"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿bier"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿albine"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿bier"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿albine"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿bijen"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿bijen"
+    }
+  ]
+}

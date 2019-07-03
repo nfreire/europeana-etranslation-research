@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "agostino masucci",
+    "sourceLanguage": "it",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109303",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Agostino Masucci"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Agostino Masucci"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Agostiet Maccuragi"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Agostiet Maccuragi"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Agostino Masucci"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Agostino Masucci"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Agostino Masucci"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Agostino Masucci"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Agostino Maconcluant"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Agostino Maconcluant"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Agostino Maucci"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Agostino Maucci"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Agostino Masucci"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Agostino Masucci"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Αφοστίμη Maocchi"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Αφοστίμη Maocchi"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Agostino Masucci"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Agostino Masucci"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Agostino Masucci"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Agostino Masucci"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Aglostino MagResci"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Aglostino MagResci"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Agostino Masucci"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Agostino Masucci"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Agostino Matursui"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Agostino Matursui"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Agostino Masucci"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Agostino Masucci"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Agostino Masucci"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Agostino Masucci"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Agostino Maucci"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Agostino Maucci"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "trap des ouderdom",
+    "sourceLanguage": "nl",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "ca"
+    ]
+  },
+  "requestId": "9109189",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Alter"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Alter"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿ikäryhmä"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿ikäryhmä"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿fase da idade"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿fase da idade"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿amžius"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿amžius"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿stade de l’âge"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿stade de l’âge"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿életszakasz"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿életszakasz"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿ålder"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿ålder"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿στάδιο της ηλικίας"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿στάδιο της ηλικίας"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿stage of age"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿stage of age"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿fascia di età"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿fascia di età"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿edad"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿edad"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿vanus"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿vanus"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿stupeň stáří"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿stupeň stáří"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿stadium"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿stadium"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿alder"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿vârsta"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿alder"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿vârsta"
+    }
+  ]
+}

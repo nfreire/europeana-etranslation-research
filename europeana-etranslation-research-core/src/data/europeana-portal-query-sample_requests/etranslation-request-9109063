@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "a magyar nemzethez",
+    "sourceLanguage": "hu",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109063",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿für die ungarische Nation"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿für die ungarische Nation"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Unkarin kansakunnan puolesta"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Unkarin kansakunnan puolesta"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿para a nação húngara"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿para a nação húngara"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Vengrijos tautai"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Vengrijos tautai"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿pour la nation hongroise"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿pour la nation hongroise"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿för den ungerska nationen"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿för den ungerska nationen"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿για το ουγγρικό έθνος"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿για το ουγγρικό έθνος"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿for the Hungarian nation"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿for the Hungarian nation"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿per la nazione ungherese"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿per la nazione ungherese"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿para la nación húngara"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿para la nación húngara"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Ungari rahva nimel"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Ungari rahva nimel"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿za maďarský národ"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿za maďarský národ"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿w imieniu narodu węgierskiego"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿w imieniu narodu węgierskiego"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿for den ungarske nation"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿pentru națiunea maghiară"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿for den ungarske nation"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿pentru națiunea maghiară"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿voor de Hongaarse natie"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿voor de Hongaarse natie"
+    }
+  ]
+}

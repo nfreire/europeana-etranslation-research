@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Albano Laziale",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109062",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Albano Laziale"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Albano Laziale"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Albano Laziale"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Albano Laziale"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Albano Laziale"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Albano Laziale"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Albano Lazale"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Albano Lazale"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Albano Laziale"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Albano Laziale"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Albano Laziale"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Albano Laziale"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Albano Laziale"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Albano Laziale"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Albano Laziale"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Albano Laziale"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Albania Laziale"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Albania Laziale"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Albano Laziale"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Albano Laziale"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Albano Laziale"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Albano Laziale"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Albana Laziale"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Albana Laziale"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Albano Laziale"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Albano Laziale"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Albano Laziale"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Albano Laziale"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Albano Laziale"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Albano Laziale"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Albano Laziale"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Albano Laziale"
+    }
+  ]
+}

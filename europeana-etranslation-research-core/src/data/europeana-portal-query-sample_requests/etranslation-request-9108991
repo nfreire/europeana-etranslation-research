@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Adolfo caccia",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9108991",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Adolfo Kaccia"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Adolfo Kaccia"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Adolfo cacciaa"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Adolfo cacciaa"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Adolfo cáccia"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Adolfo cáccia"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Adolfo caccia"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Adolfo caccia"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Adolfo caccia"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Adolfo caccia"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Adolfo caccia"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Adolfo caccia"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Adolfo caccia"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Adolfo caccia"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Adolfo caccia"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Adolfo caccia"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Paternità Adolfo"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Paternità Adolfo"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Adolfo caccia"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Adolfo caccia"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Adolfo caccia"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Adolfo caccia"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Adolfo kaktcia"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Adolfo kaktcia"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Adolfo caccia"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Adolfo caccia"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Adolfo caccia"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Adolfo Caccia"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Adolfo caccia"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Adolfo Caccia"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Adolfo caccia"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Adolfo caccia"
+    }
+  ]
+}

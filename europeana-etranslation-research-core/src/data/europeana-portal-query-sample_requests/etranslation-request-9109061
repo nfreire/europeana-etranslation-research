@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "aerial welfare",
+    "sourceLanguage": "de",
+    "targetLanguages": [
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109061",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "FI",
+      "translatedText": "﻿hengityselinten hyvinvointi"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿hengityselinten hyvinvointi"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿proteção respiratória"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿proteção respiratória"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿kvėpavimo takų apsauga"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿kvėpavimo takų apsauga"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Aerial welfare"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Aerial welfare"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿légzésvédelem"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿légzésvédelem"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿luftvägssjukdomar"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿luftvägssjukdomar"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿αναπνευστική πρόνοια"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿αναπνευστική πρόνοια"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿respiratory welfare"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿respiratory welfare"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿apparato respiratorio"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿apparato respiratorio"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿bienestar respiratorio"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿bienestar respiratorio"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿hingamisteede heaolu"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿hingamisteede heaolu"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿ochrana dýchacích cest"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿ochrana dýchacích cest"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿system ochrony dróg oddechowych"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿system ochrony dróg oddechowych"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿åndedrætsbesvær"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿protecție respiratorie"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿åndedrætsbesvær"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿protecție respiratorie"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿welzijn van de luchtwegen"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿welzijn van de luchtwegen"
+    }
+  ]
+}

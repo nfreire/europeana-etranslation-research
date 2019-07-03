@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Some fundamentals of the Indian problem",
+    "sourceLanguage": "pl",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109077",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Einige Grundelemente des indischen Problems"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Einige Grundelemente des indischen Problems"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Intian ongelman joitakin perusteita"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Intian ongelman joitakin perusteita"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Alguns aspetos fundamentais do problema indiano"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Alguns aspetos fundamentais do problema indiano"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Kai kurie Indijos problemos pagrindai"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Kai kurie Indijos problemos pagrindai"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Les fondamentaux du problème indien"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Les fondamentaux du problème indien"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Az indiai probléma alapvető elemei"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Az indiai probléma alapvető elemei"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Vissa grundläggande faktorer i det indiska problemet"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Vissa grundläggande faktorer i det indiska problemet"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Ορισμένα βασικά στοιχεία του ινδικού προβλήματος"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Ορισμένα βασικά στοιχεία του ινδικού προβλήματος"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Some fundamentals of the Indian problem"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Some fundamentals of the Indian problem"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Alcuni elementi fondamentali del problema indiano"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Alcuni elementi fondamentali del problema indiano"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Aspectos fundamentales del problema indio"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Aspectos fundamentales del problema indio"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿India probleemi mõned alused"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿India probleemi mõned alused"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Některé základní prvky indického problému"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Některé základní prvky indického problému"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Nogle grundlæggende elementer i det indiske problem"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Câteva elemente fundamentale ale problemei indiene"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Nogle grundlæggende elementer i det indiske problem"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Câteva elemente fundamentale ale problemei indiene"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Enkele fundamentele aspecten van het Indiase probleem"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Enkele fundamentele aspecten van het Indiase probleem"
+    }
+  ]
+}

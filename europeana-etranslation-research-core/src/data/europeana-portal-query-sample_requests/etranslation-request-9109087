@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "thomas minton",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109087",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Thomas Minton"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Thomas Minton"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Thomas Minton"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Thomas Minton"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Thomas Minton"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Thomas Minton"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Thomas Minton"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Thomas Minton"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Thomas Minton"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Thomas Minton"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Thomas Minton"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Thomas Minton"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Thomas Miniton"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Thomas Miniton"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Thomas Minton"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Thomas Minton"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Thomas Minton"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Thomas Minton"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Thomas Minton"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Thomas Minton"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Thomas Mindton"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Thomas Mindton"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Thomas Minton"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Thomas Minton"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Thomas Minton"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Thomas Minton"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Thomas Minton"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Thomas Minton"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Thomas Minton"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Thomas Minton"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Thomas Minton"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Thomas Minton"
+    }
+  ]
+}

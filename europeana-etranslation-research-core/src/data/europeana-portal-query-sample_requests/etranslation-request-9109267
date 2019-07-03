@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "john alston",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109267",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿John Alston"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿John Alston"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿John Alston"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿John Alston"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿John Alston"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿John Alston"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿John Alston"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿John Alston"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿John Alston"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿John Alston"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿John Alston"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿John Alston"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿John Alston"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿John Alston"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿John Alston"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿John Alston"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿John Alston"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿John Alston"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿John Alston"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿John Alston"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿John Alston"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿John Alston"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿John Alston"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿John Alston"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿John Alston"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿John Alston"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿John Alston"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿John Alston"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿John Alston"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿John Alston"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿John Alston"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿John Alston"
+    }
+  ]
+}

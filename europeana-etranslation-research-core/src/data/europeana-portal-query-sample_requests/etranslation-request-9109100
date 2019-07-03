@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "instituto escuela",
+    "sourceLanguage": "es",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109100",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Schule"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Schule"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿koulu"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿koulu"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿escola"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿escola"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿mokykla"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿mokykla"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿école"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿école"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿iskola"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿iskola"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿skola"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿skola"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿σχολείο"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿σχολείο"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿school"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿school"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿scuola"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿scuola"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿kool"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿kool"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿škola"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿škola"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿szkoła"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿szkoła"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿skole"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿școală"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿skole"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿școală"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿school"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿school"
+    }
+  ]
+}

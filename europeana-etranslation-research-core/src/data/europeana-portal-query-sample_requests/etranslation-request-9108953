@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "adrianople",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9108953",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Wirkstoff"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Wirkstoff"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿dripanrinaalit"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿dripanrinaalit"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Adriananicano"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Adriananicano"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿ADRIEKUOMENĖ"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿ADRIEKUOMENĖ"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿adriersonnes"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿adriersonnes"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿felbuzg"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿felbuzg"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿adrianon"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿adrianon"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿αδριανόλη"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿αδριανόλη"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Adrianescent"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Adrianescent"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Adrianistas"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Adrianistas"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿aadress"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿aadress"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Odpadání"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Odpadání"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿adrianlist"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿adrianlist"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿adresse:"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿adrianz"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿adresse:"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿adrianz"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿menselijk"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿menselijk"
+    }
+  ]
+}

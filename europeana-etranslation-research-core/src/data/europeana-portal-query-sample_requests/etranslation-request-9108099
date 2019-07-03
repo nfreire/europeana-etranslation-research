@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "La Rovtte et deffaitte dv camp",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9108099",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Camp et deffitte dv-Lager"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Camp et deffitte dv-Lager"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿La Rovtte et deffaite dv camp"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿La Rovtte et deffaite dv camp"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿La Rotte et defferte dv campo"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿La Rotte et defferte dv campo"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Rovtte et defticte dv Camp"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Rovtte et defticte dv Camp"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿La Rovtte et déffaitte dv camp"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿La Rovtte et déffaitte dv camp"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿La Rotttte et defafitte dv tábor"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿La Rotttte et defafitte dv tábor"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Lägret i Rovte et deffaite dv"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Lägret i Rovte et deffaite dv"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Cvette et deffaitte dv"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Cvette et deffaitte dv"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿La Rovette et deffauitte dv"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿La Rovette et deffauitte dv"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Campo de aplicación de la Rvette et defflicitte dV"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Campo de aplicación de la Rvette et defflicitte dV"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿La Rovtte et deffaitate dv"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿La Rovtte et deffaitate dv"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Tábor Rotovte et deffalate dv."
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Tábor Rotovte et deffalate dv."
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿La Rovte i Deffatte danv camp"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿La Rovte i Deffatte danv camp"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿La Rovtte et deffsatte dv lejr"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿La Rovtte et deffaitte dv"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿La Rovtte et deffsatte dv lejr"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿La Rovtte et deffaitte dv"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿La Rottte et desffitete dv camp"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿La Rottte et desffitete dv camp"
+    }
+  ]
+}

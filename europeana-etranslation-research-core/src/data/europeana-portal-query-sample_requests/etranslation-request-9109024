@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Mont Blanc stereoview",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109024",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Mont Blanc-Stereoview"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Mont Blanc-Stereoview"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Mont Blancin stereonäkökanta"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Mont Blancin stereonäkökanta"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Mont Blanc estereoótica"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Mont Blanc estereoótica"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Monblano stereorodinys"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Monblano stereorodinys"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Stéréoview du Mont-Blanc"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Stéréoview du Mont-Blanc"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Mont Blanc sztereonézet"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Mont Blanc sztereonézet"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Mont Blanc-stereoview"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Mont Blanc-stereoview"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Λευκή στερεότυπη έκθεση (Mont Blanc)"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Λευκή στερεότυπη έκθεση (Mont Blanc)"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Grammatica del Monte Bianco"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Grammatica del Monte Bianco"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Mont Blanc esteream"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Mont Blanc esteream"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Mont Blanc stereovaade"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Mont Blanc stereovaade"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Mont Blanc"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Mont Blanc"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Mont Blanc"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Mont Blanc"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Mont Blanc stereosis"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Mont Blanc;"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Mont Blanc stereosis"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Mont Blanc;"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Stereotype Mont Blanc"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Stereotype Mont Blanc"
+    }
+  ]
+}

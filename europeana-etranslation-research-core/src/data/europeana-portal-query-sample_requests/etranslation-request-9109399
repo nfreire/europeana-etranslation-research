@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Deutsche Arbeit in Amerika",
+    "sourceLanguage": "pl",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109399",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Deutsche Arbeit in Amerika"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Deutsche Arbeit in Amerika"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Deutsche Arbeit Amerikas"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Deutsche Arbeit Amerikas"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Deutsche Arbeit em America"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Deutsche Arbeit em America"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿„Deutsche Arbeit in Amelia“"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿„Deutsche Arbeit in Amelia“"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Deutsche Arbeit in Amerika"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Deutsche Arbeit in Amerika"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Deutsche Arbeit in Amerika"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Deutsche Arbeit in Amerika"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Deutsche Arbeit i Amerka"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Deutsche Arbeit i Amerka"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Deutsche Arbeit στην Amerika"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Deutsche Arbeit στην Amerika"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Deutsche Arbeit in Amerika"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Deutsche Arbeit in Amerika"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Deutsche Arbeit a Amerika"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Deutsche Arbeit a Amerika"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Empleo en Amerika"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Empleo en Amerika"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Deutsche Arbeit in Amerika"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Deutsche Arbeit in Amerika"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Deutsche Arbeit v Americku"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Deutsche Arbeit v Americku"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Deutsche Arbeit i Amerika"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Deutsche Arbeit din Achiika"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Deutsche Arbeit i Amerika"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Deutsche Arbeit din Achiika"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Deutsche Arbeit bij Amerska"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Deutsche Arbeit bij Amerska"
+    }
+  ]
+}

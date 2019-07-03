@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Adam van Vianen",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109167",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Adam van Vianen"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Adam van Vianen"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Adam van Vianen"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Adam van Vianen"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Adam van Vianen"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Adam van Vianen"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Adam van Vianen"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Adam van Vianen"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Adam van Vianen"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Adam van Vianen"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Ránné Adam van Vitoren"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Ránné Adam van Vitoren"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Adam van Vianen"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Adam van Vianen"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Adam van Vianen"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Adam van Vianen"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Adam van Vitanen"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Adam van Vitanen"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Adam van Vianen"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Adam van Vianen"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Adam van Vianen"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Adam van Vianen"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Adam van Vianen"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Adam van Vianen"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Adam van Vianen"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Adam van Vianen"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Adam van Vianen"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Adam van Vianen"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Adam van Vianen"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Adam van Vianen"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Adam van Vianen"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Adam van Vianen"
+    }
+  ]
+}

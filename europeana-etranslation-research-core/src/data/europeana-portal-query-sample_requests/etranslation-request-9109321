@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "aconitum paniculatum",
+    "sourceLanguage": "it",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109321",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Akonitum paniculatum"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Akonitum paniculatum"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Aconitu paniculatum"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Aconitu paniculatum"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Aconitum panicatum"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Aconitum panicatum"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Aitonum panculatum"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Aitonum panculatum"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Aconitum paniculatum"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Aconitum paniculatum"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Aconitum paniculatum"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Aconitum paniculatum"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Akonium paniculatum"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Akonium paniculatum"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Aconitum panicicatum"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Aconitum panicicatum"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿aconitum paniculatum"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿aconitum paniculatum"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Aconitum paniculatum"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Aconitum paniculatum"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿harilik paniculatum"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿harilik paniculatum"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Aconitum paniculatum"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Aconitum paniculatum"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Aconitum panniculatum"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Aconitum panniculatum"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Aconitum panculatum"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Aconitum paniculatum"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Aconitum panculatum"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Aconitum paniculatum"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Aconituum paniculatum"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Aconituum paniculatum"
+    }
+  ]
+}

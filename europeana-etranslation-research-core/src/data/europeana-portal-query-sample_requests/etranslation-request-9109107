@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "acuarela",
+    "sourceLanguage": "es",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109107",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Aquarell"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Aquarell"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Vesivärimaalaus"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Vesivärimaalaus"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿aguarela"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿aguarela"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿akvarelė"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿akvarelė"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿aquarelle"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿aquarelle"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Akvarell"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Akvarell"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Akvarell"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Akvarell"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿ακουαρέλα"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿ακουαρέλα"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿watercolour"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿watercolour"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿acquerello"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿acquerello"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿akvarell"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿akvarell"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Akvarel"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Akvarel"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Akwarela"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Akwarela"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Akvarel"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿acuarelă"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Akvarel"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿acuarelă"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿aquarelverf"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿aquarelverf"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Adressbuch Posen",
+    "sourceLanguage": "de",
+    "targetLanguages": [
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109428",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "FI",
+      "translatedText": "﻿Poznańin osoitekirja"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Poznańin osoitekirja"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Livro de endereço de Poznań"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Livro de endereço de Poznań"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Poznanės adresų knyga"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Poznanės adresų knyga"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Carnet d’adresses à Poznań"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Carnet d’adresses à Poznań"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿A poznańi cím könyve"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿A poznańi cím könyve"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Adressbok för Poznań"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Adressbok för Poznań"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Βιβλίο διευθύνσεων στο Poznań"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Βιβλίο διευθύνσεων στο Poznań"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Poznań address book"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Poznań address book"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Indirizzo di Poznań"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Indirizzo di Poznań"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Libro de direcciones de Poznan"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Libro de direcciones de Poznan"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Poznańi aadressiraamat"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Poznańi aadressiraamat"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Knížka v Poznani"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Knížka v Poznani"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Książka adresowa Poznania"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Książka adresowa Poznania"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Poznań-bogen"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Registrul de adrese Poznań"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Poznań-bogen"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Registrul de adrese Poznań"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿De adresboek van Poznań"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿De adresboek van Poznań"
+    }
+  ]
+}

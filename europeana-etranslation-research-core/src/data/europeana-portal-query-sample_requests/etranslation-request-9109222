@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "agarrado",
+    "sourceLanguage": "es",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109222",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿fassen"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿fassen"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿tarttuminen"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿tarttuminen"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿gripping"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿gripping"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Aptraukimas"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Aptraukimas"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿préhension"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿préhension"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿táska"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿táska"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿grippling"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿grippling"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿πιάσιμο"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿πιάσιμο"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿gripping"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿gripping"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿scalipare"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿scalipare"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿haarank"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿haarank"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿uchopení"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿uchopení"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿chwyt"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿chwyt"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿evne til at gribe fat"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿prindere"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿evne til at gribe fat"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿prindere"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿vastgrijpen"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿vastgrijpen"
+    }
+  ]
+}

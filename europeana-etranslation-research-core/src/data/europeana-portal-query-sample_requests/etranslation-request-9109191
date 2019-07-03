@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Acebo pays basque",
+    "sourceLanguage": "es",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109191",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Acebo pays baque"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Acebo pays baque"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Acebo maksaa basque"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Acebo maksaa basque"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Acebo paga basque"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Acebo paga basque"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿„Acebo moka“"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿„Acebo moka“"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Acebo pays basque"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Acebo pays basque"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Bástya bástya"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Bástya bástya"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Acebo betalar baque"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Acebo betalar baque"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Acebo pays basque"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Acebo pays basque"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Acebo pays basque"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Acebo pays basque"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Acebo paga il basque"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Acebo paga il basque"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Aebo maksab basque"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Aebo maksab basque"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Acebo platí baserque"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Acebo platí baserque"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Acebo płaci basque"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Acebo płaci basque"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Aceto pays basque"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Acebo achită criteriul de bază"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Aceto pays basque"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Acebo achită criteriul de bază"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Acebo betaalt basque"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Acebo betaalt basque"
+    }
+  ]
+}

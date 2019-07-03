@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "album magasin arts",
+    "sourceLanguage": "es",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109230",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Album Maasin arts"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Album Maasin arts"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿album Magasin art"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿album Magasin art"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿album Magasin arts"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿album Magasin arts"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿album Magasin menai"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿album Magasin menai"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿album Magasin arts"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿album Magasin arts"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿album, Magasin művészet"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿album, Magasin művészet"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿album Magsin konst"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿album Magsin konst"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿άλμπουμ Magasin"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿άλμπουμ Magasin"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿album Magasin arts"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿album Magasin arts"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿album economico"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿album economico"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿album Magasin kunts"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿album Magasin kunts"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Album Magdalasová umění"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Album Magdalasová umění"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿album Magisin artiture"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿album Magisin artiture"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿album Magdasin"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿albuz Magasin"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿album Magdasin"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿albuz Magasin"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿beeldende kunsten van album"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿beeldende kunsten van album"
+    }
+  ]
+}

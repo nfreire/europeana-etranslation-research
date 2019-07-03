@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "boudet du max",
+    "sourceLanguage": "fr",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9108936",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Budet an max."
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Budet an max."
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿suurempi:"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿suurempi:"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿superior do valor máximo"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿superior do valor máximo"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿didesnė nei didžiausia"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿didesnė nei didžiausia"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿nagyobb (max.)"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿nagyobb (max.)"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿större än max"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿större än max"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿μεγαλύτερο από το μέγιστο"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿μεγαλύτερο από το μέγιστο"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿greater of max"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿greater of max"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿maggiore del max"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿maggiore del max"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿mayor del máx."
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿mayor del máx."
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿suurem kui max"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿suurem kui max"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿vetší, max."
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿vetší, max."
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿większa z maks."
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿większa z maks."
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿større end"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿mai mare din"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿større end"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿mai mare din"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿groter dan max."
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿groter dan max."
+    }
+  ]
+}

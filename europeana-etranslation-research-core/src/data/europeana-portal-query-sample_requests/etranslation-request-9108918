@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Albert Renger",
+    "sourceLanguage": "it",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9108918",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Albert Renger"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Albert Renger"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Albert Renge"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Albert Renge"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Albert Renger"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Albert Renger"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Albert Roenger"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Albert Roenger"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Albert Renger"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Albert Renger"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Albert Renger"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Albert Renger"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Albert Renger"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Albert Renger"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Albert Renger"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Albert Renger"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Albert Renger"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Albert Renger"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Sr. Albert Renger"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Sr. Albert Renger"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Albert Rengger"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Albert Rengger"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Albert Renger"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Albert Renger"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Albert Renger"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Albert Renger"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Albert R"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Albert Renger"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Albert R"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Albert Renger"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Albert Renger"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Albert Renger"
+    }
+  ]
+}

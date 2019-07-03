@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "alba amicorum",
+    "sourceLanguage": "nl",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "ca"
+    ]
+  },
+  "requestId": "9108966",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Alba amimorum"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Alba amimorum"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿alba, amicus"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿alba, amicus"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Alba amicorum"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Alba amicorum"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿alba amcorum"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿alba amcorum"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿alba amomiorum"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿alba amomiorum"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿alba"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿alba"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿alba amicorum"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿alba amicorum"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿alba amalorum"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿alba amalorum"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿alba amicorum"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿alba amicorum"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿alba amicorum"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿alba amicorum"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Alba amicorum"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Alba amicorum"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿alba amiorum"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿alba amiorum"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Alba amicorum"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Alba amicorum"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿alba amikorum"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿alba amikorum"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿alba amiciorum"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿alba ichorum"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿alba amiciorum"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿alba ichorum"
+    }
+  ]
+}

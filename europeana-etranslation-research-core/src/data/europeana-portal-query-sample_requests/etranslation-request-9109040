@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "ACRIO",
+    "sourceLanguage": "it",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109040",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿ACRIO"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿ACRIO"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿ACRIO"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿ACRIO"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿ACRIO"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿ACRIO"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿ACRIO"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿ACRIO"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿ACRIO"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿ACRIO"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿ACRIO"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿ACRIO"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿ACRIO"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿ACRIO"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿ACRIO"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿ACRIO"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿ACRIO"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿ACRIO"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿ACRIO"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿ACRIO"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿ACRIO"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿ACRIO"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿ACRIO"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿ACRIO"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿ACIO"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿ACIO"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿ACRIO"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿ACRIO"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿ACRIO"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿ACRIO"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿ACRIO"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿ACRIO"
+    }
+  ]
+}

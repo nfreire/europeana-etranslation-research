@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Arthur von Gerlach",
+    "sourceLanguage": "de",
+    "targetLanguages": [
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109207",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "FI",
+      "translatedText": "﻿Arthur von Gerlach"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Arthur von Gerlach"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Arthur von Gerlach"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Arthur von Gerlach"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Arthur von Gerlach"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Arthur von Gerlach"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Arthur von Gerlach"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Arthur von Gerlach"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Arthur von Gerlach"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Arthur von Gerlach"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Arthur von Gerlach"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Arthur von Gerlach"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Ο κ. Arthur von Gerlach"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Ο κ. Arthur von Gerlach"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Arthur von Gerlach"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Arthur von Gerlach"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Arthur von Gerlach"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Arthur von Gerlach"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Arthur von Gerlach"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Arthur von Gerlach"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Arthur von Gerlach"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Arthur von Gerlach"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Arthur von Gerlach"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Arthur von Gerlach"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Arthur von Gerlach"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Arthur von Gerlach"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Arthur von Gerlach"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Arthur von Gerlach"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Arthur von Gerlach"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Arthur von Gerlach"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Arthur von Gerlach"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Arthur von Gerlach"
+    }
+  ]
+}

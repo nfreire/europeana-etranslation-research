@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Abbreviation",
+    "sourceLanguage": "fr",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109243",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Abkürzung"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Abkürzung"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Lyhenne"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Lyhenne"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Abreviatura"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Abreviatura"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Santrumpa"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Santrumpa"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Rövidítés"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Rövidítés"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Förkortning"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Förkortning"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Αρκτικόλεξο"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Αρκτικόλεξο"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Abbreviation"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Abbreviation"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Abbreviazione"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Abbreviazione"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Abreviatura"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Abreviatura"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Lühend"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Lühend"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Zkratka"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Zkratka"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Skrót"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Skrót"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Forkortelse"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Abreviere"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Forkortelse"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Abreviere"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Afkorting"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Afkorting"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "virgin mary",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109351",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Virgin"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Virgin"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿neitsytömay"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿neitsytömay"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿virgem"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿virgem"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Viršasis margasnapis"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Viršasis margasnapis"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿m me vierge"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿m me vierge"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿szűz"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿szűz"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿jungfruolja"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿jungfruolja"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Virgin mary"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Virgin mary"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿vergini"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿vergini"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Virgin"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Virgin"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Virgin"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Virgin"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿panenský olivový olej"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿panenský olivový olej"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Kary z pierwszego tłoczenia"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Kary z pierwszego tłoczenia"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿ubrugt masse"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿culoare virgină"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿ubrugt masse"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿culoare virgină"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿verkregen bij de eerste persing"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿verkregen bij de eerste persing"
+    }
+  ]
+}

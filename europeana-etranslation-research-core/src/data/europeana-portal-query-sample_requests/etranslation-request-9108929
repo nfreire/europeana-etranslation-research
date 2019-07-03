@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "divisa",
+    "sourceLanguage": "it",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9108929",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Währung"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Währung"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿valuutta"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿valuutta"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿moeda"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿moeda"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿valiuta"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿valiuta"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿monnaie"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿monnaie"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿pénznem"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿pénznem"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿valuta"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿valuta"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿νόμισμα"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿νόμισμα"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿currency"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿currency"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿moneda"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿moneda"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿vääring"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿vääring"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿měna"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿měna"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿waluta"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿waluta"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿valuta"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿moneda"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿valuta"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿moneda"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿valuta"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿valuta"
+    }
+  ]
+}

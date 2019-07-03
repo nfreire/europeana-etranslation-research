@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "language",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109290",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Sprache"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Sprache"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿kieli"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿kieli"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿língua"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿língua"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿kalba"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿kalba"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿langue"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿langue"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿nyelv"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿nyelv"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿språk"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿språk"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿γλώσσα"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿γλώσσα"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿lingua"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿lingua"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿lengua"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿lengua"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿keel"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿keel"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿jazyk"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿jazyk"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿język"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿język"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿sprog"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿limbă"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿sprog"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿limbă"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿taal"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿taal"
+    }
+  ]
+}

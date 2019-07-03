@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "actuality",
+    "sourceLanguage": "es",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109086",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Realität"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Realität"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿faktoja"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿faktoja"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿realidade"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿realidade"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿tikrovė"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿tikrovė"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿réalité"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿réalité"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿valóság"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿valóság"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿verklighet"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿verklighet"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿πραγματικότητα"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿πραγματικότητα"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿reality"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿reality"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿realtà"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿realtà"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿tegelikkus"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿tegelikkus"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿skutečnost"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿skutečnost"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿fakt"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿fakt"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿virkelighed"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿realitate"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿virkelighed"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿realitate"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿werkelijkheid"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿werkelijkheid"
+    }
+  ]
+}

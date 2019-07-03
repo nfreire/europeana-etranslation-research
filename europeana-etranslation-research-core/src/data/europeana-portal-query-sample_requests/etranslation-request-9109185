@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Acta pauli",
+    "sourceLanguage": "de",
+    "targetLanguages": [
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109185",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "FI",
+      "translatedText": "﻿ACTA Pauli"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿ACTA Pauli"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Ata Pauli do ATA"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Ata Pauli do ATA"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿ACTA Pauli"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿ACTA Pauli"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿ACTA Pauli"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿ACTA Pauli"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Az hamisítás elleni kereskedelmi megállapodás (ACTA)"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Az hamisítás elleni kereskedelmi megállapodás (ACTA)"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Acta-avtalet Pauli"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Acta-avtalet Pauli"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Η ACTA Pauli"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Η ACTA Pauli"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿ACTA Pauli"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿ACTA Pauli"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿ACTA Pai"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿ACTA Pai"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Acta Pauli"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Acta Pauli"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Võltsimisvastane kaubandusleping (ACTAH)"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Võltsimisvastane kaubandusleping (ACTAH)"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿ACTA Pauli"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿ACTA Pauli"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿ACTA Pauli"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿ACTA Pauli"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿ACTA Pauli"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿ACTA Pauli"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿ACTA Pauli"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿ACTA Pauli"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿ACTA Pauli"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿ACTA Pauli"
+    }
+  ]
+}

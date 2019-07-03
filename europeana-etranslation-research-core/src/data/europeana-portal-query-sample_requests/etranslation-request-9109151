@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Adult situations",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109151",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Situation von Erwachsenen"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Situation von Erwachsenen"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Aikuisten tilanteet"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Aikuisten tilanteet"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Situações em adultos"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Situações em adultos"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Suaugusiųjų padėtis"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Suaugusiųjų padėtis"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Situation des adultes"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Situation des adultes"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿A felnőttek helyzete"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿A felnőttek helyzete"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Situationen för vuxna"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Situationen för vuxna"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Περιπτώσεις ενηλίκων"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Περιπτώσεις ενηλίκων"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Situazioni degli adulti"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Situazioni degli adulti"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Situaciones de adulto"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Situaciones de adulto"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Täiskasvanute olukord"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Täiskasvanute olukord"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Situace dospělých osob"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Situace dospělých osob"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Sytuacje osób dorosłych"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Sytuacje osób dorosłych"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Voksne situationer"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Situații ale adulților"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Voksne situationer"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Situații ale adulților"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Situaties met betrekking tot volwassenen"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Situaties met betrekking tot volwassenen"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "ailleboust",
+    "sourceLanguage": "fr",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9108997",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿„illeboustanst“"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿„illeboustanst“"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿ailleboust"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿ailleboust"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿aileboust"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿aileboust"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿ailleboust"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿ailleboust"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿csailboulst"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿csailboulst"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Gailboust"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Gailboust"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿ailleboust"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿ailleboust"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿ailleboust"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿ailleboust"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿ailleboust"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿ailleboust"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Ileboust"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Ileboust"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿illebostist"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿illebostist"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿ailleboust"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿ailleboust"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿aillebousty"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿aillebousty"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿slileboust"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿elleboulst"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿slileboust"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿elleboulst"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿ailleboust"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿ailleboust"
+    }
+  ]
+}

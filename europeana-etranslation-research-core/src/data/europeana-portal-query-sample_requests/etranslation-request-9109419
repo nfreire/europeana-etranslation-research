@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Aalst",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109419",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Aalst"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Aalst"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Aalst"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Aalst"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Aalst"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Aalst"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Alstas"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Alstas"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Aalst"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Aalst"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Aalst"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Aalst"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Aalst"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Aalst"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Aalst"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Aalst"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Aalst"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Aalst"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Aalst"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Aalst"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Aalst"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Aalst"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Aalst"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Aalst"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Aalst"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Aalst"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Aalst"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Aalst"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Aalst"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Aalst"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Aalst"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Aalst"
+    }
+  ]
+}

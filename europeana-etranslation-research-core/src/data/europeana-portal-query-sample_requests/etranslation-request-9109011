@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "abba",
+    "sourceLanguage": "es",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109011",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿ABBA"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿ABBA"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿ABBA"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿ABBA"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿ABBA"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿ABBA"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿ABBA"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿ABBA"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿ABBA"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿ABBA"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿ABBA"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿ABBA"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿ABBA"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿ABBA"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿ABBA"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿ABBA"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿ABBA"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿ABBA"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿ABBA"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿ABBA"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿ABBA"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿ABBA"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿ABBA"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿ABBA"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿ABBA"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿ABBA"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿ABBA"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿ABBA"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿ABBA"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿ABBA"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿ABBA"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿ABBA"
+    }
+  ]
+}

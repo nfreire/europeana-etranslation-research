@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "agde",
+    "sourceLanguage": "fr",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109343",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Agde"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Agde"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Agde"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Agde"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Agde"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Agde"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Agde"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Agde"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Agde"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Agde"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Agde"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Agde"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Agde"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Agde"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Agde"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Agde"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Agde"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Agde"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Agde"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Agde"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Agde"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Agde"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Agde"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Agde"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Agde"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Agde"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Agde"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Agde"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Agde"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Agde"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Agde"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Agde"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "puig i cadafalch",
+    "sourceLanguage": "es",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109318",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Puig i cadAlach"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Puig i cadAlach"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Puig i cafallš"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Puig i cafallš"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Puig i cadafallch"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Puig i cadafallch"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Puig i Kabackech"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Puig i Kabackech"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Puig i cadafallch"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Puig i cadafallch"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Puig i cadafallch"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Puig i cadafallch"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Puig i cadafallch"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Puig i cadafallch"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Puig i cadafallch"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Puig i cadafallch"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Puig i cadafallch"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Puig i cadafallch"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Puig i cafrallh"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Puig i cafrallh"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Puig i cadaffall"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Puig i cadaffall"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Puig i cadaralch"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Puig i cadaralch"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Puig i cadaFalch"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Puig i cadaFalch"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Puig i cadafallch"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Puig i cadafalch"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Puig i cadafallch"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Puig i cadafalch"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Puig i cadafallch"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Puig i cadafallch"
+    }
+  ]
+}

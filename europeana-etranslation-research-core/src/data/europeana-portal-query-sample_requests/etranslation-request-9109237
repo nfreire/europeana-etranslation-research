@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "new dealers",
+    "sourceLanguage": "pl",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109237",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿neuer Händler"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿neuer Händler"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿uusi autoliike"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿uusi autoliike"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿nova concessão"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿nova concessão"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿naujas prekybos atstovybė"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿naujas prekybos atstovybė"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿nouvelle concession"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿nouvelle concession"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿új forgalmazói szolgáltatás"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿új forgalmazói szolgáltatás"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿ny återförsäljare"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿ny återförsäljare"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿νέα αντιπροσωπεία"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿νέα αντιπροσωπεία"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿new dealership"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿new dealership"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿nuova concessione"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿nuova concessione"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿nuevos concesionarios"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿nuevos concesionarios"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿uus vahendusfirma"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿uus vahendusfirma"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿nové obchodní zastoupení"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿nové obchodní zastoupení"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿ny forhandler"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿reprezentanță nouă"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿ny forhandler"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿reprezentanță nouă"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿nieuw dealerbedrijf"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿nieuw dealerbedrijf"
+    }
+  ]
+}

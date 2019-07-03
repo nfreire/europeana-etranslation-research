@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "amphora",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9108957",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Amphoren..."
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Amphoren..."
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿amphora..."
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿amphora..."
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿de ânfora..."
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿de ânfora..."
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿amcorra..."
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿amcorra..."
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿amphore..."
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿amphore..."
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿amphora..."
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿amphora..."
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Amkora..."
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Amkora..."
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿αμφοra..."
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿αμφοra..."
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Anfanora..."
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Anfanora..."
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Amforora..."
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Amforora..."
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿amfoora..."
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿amfoora..."
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿amphora..."
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿amphora..."
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿popr."
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿popr."
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿ampora..."
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿amora..."
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿ampora..."
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿amora..."
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿amfoor..."
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿amfoor..."
+    }
+  ]
+}

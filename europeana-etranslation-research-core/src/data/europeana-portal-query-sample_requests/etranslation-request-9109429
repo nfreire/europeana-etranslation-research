@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Alano di piave",
+    "sourceLanguage": "it",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109429",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Piave Alano di Piave"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Piave Alano di Piave"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Piave Alano di Piave"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Piave Alano di Piave"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Piave Alano di Piave"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Piave Alano di Piave"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Piave Alano di Piave"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Piave Alano di Piave"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Piave Alano di Piave"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Piave Alano di Piave"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Piave Allano di Piave"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Piave Allano di Piave"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Piave Alano di Piave"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Piave Alano di Piave"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Piave Alano di Piave"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Piave Alano di Piave"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Piave Alano di Piave"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Piave Alano di Piave"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Piave Alano di Piave"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Piave Alano di Piave"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Piave Alano di Piave"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Piave Alano di Piave"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Piave Alano di Piave"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Piave Alano di Piave"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Piave Alano di Piave"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Piave Alano di Piave"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Piave Alano di Piave"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Piave Alano di Piave"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Piave Alano di Piave"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Piave Alano di Piave"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Piave Alano di Piave"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Piave Alano di Piave"
+    }
+  ]
+}

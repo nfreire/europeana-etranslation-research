@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Gustav Mahler",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109404",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Gustav Mahler"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Gustav Mahler"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Gustav Mahler"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Gustav Mahler"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Gustav Mahler"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Gustav Mahler"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Gustav Mahler"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Gustav Mahler"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Gustav Mahler"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Gustav Mahler"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Gustav Mahler"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Gustav Mahler"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Gustav Mahler"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Gustav Mahler"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Ο Γκούσταβ Μάλερ"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Ο Γκούσταβ Μάλερ"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Gustav Mahler"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Gustav Mahler"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Gustav Mahler"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Gustav Mahler"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Gustav Mahler"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Gustav Mahler"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Gustav Mahler"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Gustav Mahler"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Gustav Mahler"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Gustav Mahler"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Gustav Mahler"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Gustav Mahler"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Gustav Mahler"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Gustav Mahler"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Gustav Mahler"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Gustav Mahler"
+    }
+  ]
+}

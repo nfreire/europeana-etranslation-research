@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Greek dilemma",
+    "sourceLanguage": "pl",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109228",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Griechisches Dilemma"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Griechisches Dilemma"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Kreikkalainen dilemma"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Kreikkalainen dilemma"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Dilema grego"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Dilema grego"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Graikijos dilema"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Graikijos dilema"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Le dilemme de la Grèce"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Le dilemme de la Grèce"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Görög dilemma"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Görög dilemma"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Grekiska dilemmat"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Grekiska dilemmat"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Ελληνικό δίλημμα"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Ελληνικό δίλημμα"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Greek dilemma"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Greek dilemma"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Dilemma greco"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Dilemma greco"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Dilema griego"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Dilema griego"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Kreeka dilemma"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Kreeka dilemma"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Řecké dilema"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Řecké dilema"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Græsk dilemma"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Dilema greacă"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Græsk dilemma"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Dilema greacă"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Grieks dilemma"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Grieks dilemma"
+    }
+  ]
+}

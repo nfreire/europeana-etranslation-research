@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "adorazione dei magi",
+    "sourceLanguage": "it",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109075",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Handhabung von Magi"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Handhabung von Magi"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿”maggin” käsittely"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿”maggin” käsittely"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿manuseamento de magi"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿manuseamento de magi"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿magi tvarkymas"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿magi tvarkymas"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿manipulation du magi"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿manipulation du magi"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Magi kezelése"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Magi kezelése"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿hantering av magi"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿hantering av magi"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿χειρισμός μαγείας"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿χειρισμός μαγείας"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿handling of magi"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿handling of magi"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿manipulación del magi"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿manipulación del magi"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿maguri käsitsemine"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿maguri käsitsemine"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿odbavení Mamagi"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿odbavení Mamagi"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿postępowanie w magi"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿postępowanie w magi"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿håndtering af magi"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿manipularea magi"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿håndtering af magi"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿manipularea magi"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿behandeling van mai"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿behandeling van mai"
+    }
+  ]
+}

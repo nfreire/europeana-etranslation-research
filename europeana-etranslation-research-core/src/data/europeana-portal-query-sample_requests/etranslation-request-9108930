@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Rafael Tejeo",
+    "sourceLanguage": "es",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9108930",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Rafael Tejo"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Rafael Tejo"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Rafael Tejo"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Rafael Tejo"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Rafael Tejo"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Rafael Tejo"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Rafael Tejo"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Rafael Tejo"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Rafael Tejo"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Rafael Tejo"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Rafael Tejo"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Rafael Tejo"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Rafael Tejo"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Rafael Tejo"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Rafael Tejo"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Rafael Tejo"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Rafael Tejo"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Rafael Tejo"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Rafael Tejo"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Rafael Tejo"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Rafael Tejo"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Rafael Tejo"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Rafael Tejo"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Rafael Tejo"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Rafael Tejo"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Rafael Tejo"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Rafael Tejo"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Rafael Tejo"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Rafael Tejo"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Rafael Tejo"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Rafael Tejo"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Rafael Tejo"
+    }
+  ]
+}

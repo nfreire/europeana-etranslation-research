@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "acta consistori secreti habiti sanctissimo domino nostro",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109026",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿das ACTA erstreckt sich auch auf die Lebensgefährten der Lebensgefährten."
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿das ACTA erstreckt sich auch auf die Lebensgefährten der Lebensgefährten."
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿ACTA on lajitellut -imosimo-liiton (ACTA)"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿ACTA on lajitellut -imosimo-liiton (ACTA)"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿ata realizada no âmbito do ATA — habitui habiti sansmsimo dominó nostro"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿ata realizada no âmbito do ATA — habitui habiti sansmsimo dominó nostro"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿kovos su klastojimu prekybos susitarimas"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿kovos su klastojimu prekybos susitarimas"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿l’ACAC compte non seulement le nostro, mais le nostro."
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿l’ACAC compte non seulement le nostro, mais le nostro."
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿az ACTA, a szektiti sanstiszímo-nostro szektiti"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿az ACTA, a szektiti sanstiszímo-nostro szektiti"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Acta (Acta) som utsöndras från habii sancho-veno, nostroo"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Acta (Acta) som utsöndras från habii sancho-veno, nostroo"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿συμφωνία μεταξύ του υπεύθυνου για την καταπολέμηση της παραποίησης/απομίμησης αντικειμένων (tori) που είναι υπεύθυνο για την επιβολή κυρώσεων"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿συμφωνία μεταξύ του υπεύθυνου για την καταπολέμηση της παραποίησης/απομίμησης αντικειμένων (tori) που είναι υπεύθυνο για την επιβολή κυρώσεων"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿l'ACTA consiste, in particolare, nel secreti habits resistant dtro"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿l'ACTA consiste, in particolare, nel secreti habits resistant dtro"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿ACTA, coherente secreti táti sancisísimos dominó, nostro"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿ACTA, coherente secreti táti sancisísimos dominó, nostro"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿võltsimisvastast võitlust käsitlev kaubandusleping (ACTAT)."
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿võltsimisvastast võitlust käsitlev kaubandusleping (ACTAT)."
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Obchodní dohoda proti padělání (ACTA), svazek tori sekreti accorti a sancsusimo domino nostro"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Obchodní dohoda proti padělání (ACTA), svazek tori sekreti accorti a sancsusimo domino nostro"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿ACTA parti ssantytissimo „nostro”"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿ACTA parti ssantytissimo „nostro”"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿ACTA, der består af en beboer, bimagsimo nostro"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿ACTA de la rândul său la „nostro” („nostro”);"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿ACTA, der består af en beboer, bimagsimo nostro"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿ACTA de la rândul său la „nostro” („nostro”);"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿voor de ACTA is het in handen van de inwoners i sanctissimo, domino-nostro."
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿voor de ACTA is het in handen van de inwoners i sanctissimo, domino-nostro."
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Aarschot",
+    "sourceLanguage": "nl",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "ca"
+    ]
+  },
+  "requestId": "9109212",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Aarschot"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Aarschot"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Aarchovy"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Aarchovy"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Aarschot"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Aarschot"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Aarschot"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Aarschot"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Aarschot"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Aarschot"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Aarchot"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Aarchot"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Aarchot"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Aarchot"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Aarschot"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Aarschot"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Aarschot"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Aarschot"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Aarschot"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Aarschot"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿3200 Aarschot"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿3200 Aarschot"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Aarschot"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Aarschot"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Aarschot"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Aarschot"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Aartchot"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Aartchot"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Aarchot"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Aarschot"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Aarchot"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Aarschot"
+    }
+  ]
+}

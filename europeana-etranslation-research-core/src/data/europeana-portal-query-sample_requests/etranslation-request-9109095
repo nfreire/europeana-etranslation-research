@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Antonio lluent",
+    "sourceLanguage": "es",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109095",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Antonio Illustration"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Antonio Illustration"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Antonio havainnointi"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Antonio havainnointi"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Antonio ilustração"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Antonio ilustração"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Antonio iliustracija"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Antonio iliustracija"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Antonio illustration"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Antonio illustration"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Antonio illusztráció"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Antonio illusztráció"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Antonio illustration"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Antonio illustration"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Αντόνιο"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Αντόνιο"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Antonio illustration"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Antonio illustration"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Illustrazione"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Illustrazione"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Antonio illustratsioon"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Antonio illustratsioon"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Vážený pane místopředsedo,"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Vážený pane místopředsedo,"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Antonio Illustration"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Antonio Illustration"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Antonio illustration"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Antonio ilustrație"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Antonio illustration"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Antonio ilustrație"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Voorbeeld voor de heer Antonio"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Voorbeeld voor de heer Antonio"
+    }
+  ]
+}

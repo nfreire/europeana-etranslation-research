@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "medaillon mode",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109193",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Medaillon"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Medaillon"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿medinllon toimintatila"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿medinllon toimintatila"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿modo da mecaLON"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿modo da mecaLON"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿medazimo režimas"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿medazimo režimas"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿mode de mesure"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿mode de mesure"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿medaillon üzemmód"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿medaillon üzemmód"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Medaillon"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Medaillon"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿medillon mode"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿medillon mode"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿medaillon"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿medaillon"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿modo Meillon"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿modo Meillon"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿laadiv režiim"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿laadiv režiim"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿aillonový režim"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿aillonový režim"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿tryb medialan"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿tryb medialan"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿medaillon mode"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿modul medalilon"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿medaillon mode"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿modul medalilon"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Medaillon"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Medaillon"
+    }
+  ]
+}

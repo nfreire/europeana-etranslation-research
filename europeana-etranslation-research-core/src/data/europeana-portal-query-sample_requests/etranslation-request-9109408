@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "BErlin Wall",
+    "sourceLanguage": "de",
+    "targetLanguages": [
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109408",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "FI",
+      "translatedText": "﻿Berlin Wall"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Berlin Wall"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Muro de Berlim"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Muro de Berlim"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Berlyno siena"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Berlyno siena"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Berlin Wall"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Berlin Wall"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿A berlini fal"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿A berlini fal"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Berlinmuren"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Berlinmuren"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Το Τείχος του Βερολίνου"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Το Τείχος του Βερολίνου"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Berlin Wall"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Berlin Wall"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Muro di Berlino"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Muro di Berlino"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Muro de Berlín"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Muro de Berlín"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Berliini müür"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Berliini müür"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Berlínská zeď"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Berlínská zeď"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Mur berliński"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Mur berliński"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Berlin Wall"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Zidul Berlinului"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Berlin Wall"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Zidul Berlinului"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Berlijnse Muur"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Berlijnse Muur"
+    }
+  ]
+}

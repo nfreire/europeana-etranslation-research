@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Addis Abeba",
+    "sourceLanguage": "it",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9108158",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Addis Abeba"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Addis Abeba"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Addis Abeba"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Addis Abeba"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Adis Abeba"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Adis Abeba"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Adis Abeba"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Adis Abeba"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Addis-Abeba"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Addis-Abeba"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Addisz-Abeba"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Addisz-Abeba"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Addis Abeba"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Addis Abeba"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Αντίς Αμπέμπα"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Αντίς Αμπέμπα"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Addis Ababa"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Addis Ababa"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Addis Abeba"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Addis Abeba"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Addis Abeba"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Addis Abeba"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Addis Abeba"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Addis Abeba"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Addis Abeba"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Addis Abeba"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Addis Abeba"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Addis Abeba"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Addis Abeba"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Addis Abeba"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Addis Abeba"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Addis Abeba"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Albert Londe",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109187",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Albert Londe"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Albert Londe"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Albert Londe"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Albert Londe"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Albert Londe"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Albert Londe"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Albert Londe"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Albert Londe"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Albert Londe"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Albert Londe"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Albert Londe"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Albert Londe"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Albert Lond"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Albert Lond"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Albert Londe"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Albert Londe"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Albert Londe"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Albert Londe"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Albert Londe"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Albert Londe"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Albert Londe"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Albert Londe"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Albert Londe"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Albert Londe"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Albert Londe"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Albert Londe"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Albert Londe"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Londe Albert Londe"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Albert Londe"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Londe Albert Londe"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Albert Londe"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Albert Londe"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Albanische",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109194",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Albaiche"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Albaiche"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Albanisiche"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Albanisiche"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Albanische"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Albanische"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Albananische"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Albananische"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Albanische"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Albanische"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Albanische"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Albanische"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Albanische"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Albanische"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Albananche"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Albananche"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Albanisoche"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Albanisoche"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Albanische"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Albanische"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Albische"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Albische"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Albanische"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Albanische"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Albaniche"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Albaniche"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Albianiche"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Albanische"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Albianiche"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Albanische"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Albaische"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Albaische"
+    }
+  ]
+}

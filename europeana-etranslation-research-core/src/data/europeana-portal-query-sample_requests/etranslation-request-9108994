@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "natale di sangue",
+    "sourceLanguage": "it",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9108994",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Weihnachtsfest"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Weihnachtsfest"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Vapaa"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Vapaa"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Natal do sangue"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Natal do sangue"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Kalėdinis kraujo Kalėdas"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Kalėdinis kraujo Kalėdas"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Noël du sang"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Noël du sang"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Vér karácsonyára"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Vér karácsonyára"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Julett"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Julett"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Χριστούγεννα του αίματος"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Χριστούγεννα του αίματος"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Christmas of blood"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Christmas of blood"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Sangre de Navidad"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Sangre de Navidad"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Jõulusaar"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Jõulusaar"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Vánoce krve"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Vánoce krve"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Boże Narodzenie"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Boże Narodzenie"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Julen af blod"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Crăciunul din sânge"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Julen af blod"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Crăciunul din sânge"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Kerstfeest"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Kerstfeest"
+    }
+  ]
+}

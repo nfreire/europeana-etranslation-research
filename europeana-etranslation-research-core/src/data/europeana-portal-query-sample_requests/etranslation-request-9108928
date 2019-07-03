@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "la eliana",
+    "sourceLanguage": "es",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9108928",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿EL Eliana"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿EL Eliana"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿EL Eliana"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿EL Eliana"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿EL Eliana"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿EL Eliana"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿EL Eliana"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿EL Eliana"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿EL Eliana"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿EL Eliana"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿El Elias"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿El Elias"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿El Eliana"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿El Eliana"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿EL Eliana"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿EL Eliana"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿EL Eliana"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿EL Eliana"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿EL Eliana"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿EL Eliana"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿EL Eliana"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿EL Eliana"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿EL Eliana"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿EL Eliana"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿EL Eliana"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿EL Eliana"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿El Eliana"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿El Eliana"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿El Eliana"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿El Eliana"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿EL Eliana"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿EL Eliana"
+    }
+  ]
+}

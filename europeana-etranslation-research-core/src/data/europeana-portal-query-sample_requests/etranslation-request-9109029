@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Access details",
+    "sourceLanguage": "es",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109029",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Angaben zum Zugang"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Angaben zum Zugang"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Käyttöoikeutta koskevat tiedot"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Käyttöoikeutta koskevat tiedot"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Informações de acesso"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Informações de acesso"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Prieigos duomenys"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Prieigos duomenys"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Modalités d’accès"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Modalités d’accès"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Hozzáférési adatok"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Hozzáférési adatok"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Uppgifter om tillträde"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Uppgifter om tillträde"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Λεπτομέρειες πρόσβασης"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Λεπτομέρειες πρόσβασης"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Access details"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Access details"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Modalità di accesso"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Modalità di accesso"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Juurdepääsu üksikasjad"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Juurdepääsu üksikasjad"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Podrobnosti o přístupu"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Podrobnosti o přístupu"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Dane dotyczące dostępu"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Dane dotyczące dostępu"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Adgangsoplysninger"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Detalii privind accesul"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Adgangsoplysninger"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Detalii privind accesul"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Toegangsgegevens"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Toegangsgegevens"
+    }
+  ]
+}

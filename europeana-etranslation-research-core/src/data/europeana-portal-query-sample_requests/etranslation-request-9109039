@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Kroaten und Slowenen",
+    "sourceLanguage": "pl",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109039",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Kroien und Scloenen"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Kroien und Scloenen"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Kronen und Slowenen"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Kronen und Slowenen"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Kropen und Sloenen"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Kropen und Sloenen"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Kroen und Slowenen"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Kroen und Slowenen"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Kroen und Slowenen"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Kroen und Slowenen"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Kroen und Slowenen"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Kroen und Slowenen"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Kroen und Slowenen"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Kroen und Slowenen"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Kroen und Slowenen"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Kroen und Slowenen"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Kroen und Slowenen"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Kroen und Slowenen"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Kgen und Slowenen"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Kgen und Slowenen"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Kroen und Sunlowenen"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Kroen und Sunlowenen"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿KROen und Solowenen"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿KROen und Solowenen"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Kroen und Soloenen"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Kroen und Soloenen"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Kroen und Slowenen"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Kroen und Skloenen"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Kroen und Slowenen"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Kroen und Skloenen"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Kroen und Slowenen"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Kroen und Slowenen"
+    }
+  ]
+}

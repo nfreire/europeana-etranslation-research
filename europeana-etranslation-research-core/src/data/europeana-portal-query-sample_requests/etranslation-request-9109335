@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Fifth report from theselect Committee on estimates",
+    "sourceLanguage": "pl",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109335",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Feigh-Bericht des Ausschusses für die Bewertung von Schätzern"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Feigh-Bericht des Ausschusses für die Bewertung von Schätzern"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Arviointikomitea on antanut Fitori-raportin estimaattoreista."
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Arviointikomitea on antanut Fitori-raportin estimaattoreista."
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Fitth report from contabilizing Committee on estimos"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Fitth report from contabilizing Committee on estimos"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Vertinimo komiteto ataskaita „Fitoth report on evalutes“"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Vertinimo komiteto ataskaita „Fitoth report on evalutes“"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Rapport du comité de comptage sur les estimateurs"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Rapport du comité de comptage sur les estimateurs"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿A számlálási bizottság Festith jelentése az estigross-zel kapcsolatban"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿A számlálási bizottság Festith jelentése az estigross-zel kapcsolatban"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Undersökningsutskottets rapport om estimates"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Undersökningsutskottets rapport om estimates"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Έκθεση Fitth από την επιτροπή μέτρησης σχετικά με τα συμπήγματα (mattes)"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Έκθεση Fitth από την επιτροπή μέτρησης σχετικά με τα συμπήγματα (mattes)"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Fitth report from counting Committee on estimattes"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Fitth report from counting Committee on estimattes"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Fitth report tratta dalla commissione per il conteggio delle stime"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Fitth report tratta dalla commissione per il conteggio delle stime"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Informe relativo al informe del Comité de recuento de cálculos"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Informe relativo al informe del Comité de recuento de cálculos"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Fitch’i aruanne hindamise kohta,"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Fitch’i aruanne hindamise kohta,"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Fitoth report od countering Committee on estimates"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Fitoth report od countering Committee on estimates"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Den \"Fitth report from tælleudvalget for estimates\""
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Raportul FFitth din cadrul Comitetului de numărare a datelor estimatele"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Den \"Fitth report from tælleudvalget for estimates\""
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Raportul FFitth din cadrul Comitetului de numărare a datelor estimatele"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Fitteverslag van de telcommissie voor de schatter"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Fitteverslag van de telcommissie voor de schatter"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "ojeda manti",
+    "sourceLanguage": "es",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109119",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Ojeda Manti"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Ojeda Manti"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Ojda Manti"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Ojda Manti"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Ojeda Mantas"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Ojeda Mantas"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Ojeda Manti"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Ojeda Manti"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿OJEDA Manti"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿OJEDA Manti"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Ojeda Manti"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Ojeda Manti"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Ojeda Manti"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Ojeda Manti"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Ojeda Manti"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Ojeda Manti"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Ojeda manti"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Ojeda manti"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Ojeda Manti"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Ojeda Manti"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Ojeda Manti"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Ojeda Manti"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Ojeda Manti"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Ojeda Manti"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Ojeda Manti"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Ojeda Manti"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Ojeda Manti"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Ojeda Mani"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Ojeda Manti"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Ojeda Mani"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Ojeda Manti"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Ojeda Manti"
+    }
+  ]
+}

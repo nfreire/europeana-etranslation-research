@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Albania",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109206",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Albanien"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Albanien"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Albania"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Albania"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Albânia"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Albânia"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Albanija"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Albanija"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Albanie"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Albanie"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Albánia"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Albánia"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Albanien"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Albanien"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Αλβανία"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Αλβανία"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Albania"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Albania"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Albania"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Albania"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Albaania"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Albaania"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Albánie"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Albánie"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Albania"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Albania"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Albanien"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Albania"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Albanien"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Albania"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Albanië"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Albanië"
+    }
+  ]
+}

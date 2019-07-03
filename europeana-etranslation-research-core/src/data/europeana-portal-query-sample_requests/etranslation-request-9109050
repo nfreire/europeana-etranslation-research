@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "agessai",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109050",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Aigessai"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Aigessai"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Sessai"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Sessai"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿agessai"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿agessai"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿agnoliai"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿agnoliai"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿agessai"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿agessai"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿agessai"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿agessai"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Ageessai"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Ageessai"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿agessai"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿agessai"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿agessai"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿agessai"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿agesai"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿agesai"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿agesai"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿agesai"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿agasoi"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿agasoi"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿agesai"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿agesai"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿agessai"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿sagai"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿agessai"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿sagai"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿agessai"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿agessai"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "masa rodriguez",
+    "sourceLanguage": "es",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109241",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Masse Rodriguez"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Masse Rodriguez"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿massa Rodriguez"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿massa Rodriguez"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿massa Rodriguez"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿massa Rodriguez"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿masė Rodriguez"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿masė Rodriguez"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿mass Rodriguez"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿mass Rodriguez"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Wense Rodriguez"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Wense Rodriguez"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿mass Rodriguez"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿mass Rodriguez"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿μάζα Rodriguez"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿μάζα Rodriguez"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿mass Rodriguez"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿mass Rodriguez"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿massa Rodriguez"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿massa Rodriguez"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿MasinRodriguez"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿MasinRodriguez"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿mass Rodriguez"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿mass Rodriguez"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Rodriguez"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Rodriguez"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿masse Rodriguez"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿masa Rodriguez"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿masse Rodriguez"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿masa Rodriguez"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿mass Rodriguez"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿mass Rodriguez"
+    }
+  ]
+}

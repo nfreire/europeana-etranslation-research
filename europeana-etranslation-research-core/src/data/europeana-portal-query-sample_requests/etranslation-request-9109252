@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "on the origin of species",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109252",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿über die Herkunft der Arten"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿über die Herkunft der Arten"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿lajien alkuperästä"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿lajien alkuperästä"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿sobre a origem das espécies"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿sobre a origem das espécies"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿dėl žuvų rūšių kilmės"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿dėl žuvų rūšių kilmės"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿sur l’origine des espèces"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿sur l’origine des espèces"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿a fajok eredetéről"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿a fajok eredetéről"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿om arternas ursprung"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿om arternas ursprung"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿σχετικά με την προέλευση των ειδών"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿σχετικά με την προέλευση των ειδών"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿sull'origine delle specie"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿sull'origine delle specie"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿sobre el origen de las especies"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿sobre el origen de las especies"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿liikide päritolu kohta"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿liikide päritolu kohta"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿o původu druhů"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿o původu druhů"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿w sprawie pochodzenia gatunków"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿w sprawie pochodzenia gatunków"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿om arternes oprindelse"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿privind originea speciei"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿om arternes oprindelse"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿privind originea speciei"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿over de oorsprong van de soorten"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿over de oorsprong van de soorten"
+    }
+  ]
+}

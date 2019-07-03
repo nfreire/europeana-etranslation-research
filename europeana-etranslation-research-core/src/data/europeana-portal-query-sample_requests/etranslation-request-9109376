@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "agustin espinosa",
+    "sourceLanguage": "es",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109376",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Spacina spp. (II)"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Spacina spp. (II)"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Spacina spp. (II)"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Spacina spp. (II)"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Spaceina spp. (II)"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Spaceina spp. (II)"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Sarda, spp. (II)"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Sarda, spp. (II)"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Spacina spp. (II)"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Spacina spp. (II)"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Solea solea (II)"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Solea solea (II)"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Spaginan spp. (II)"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Spaginan spp. (II)"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Spacina spp. (II)"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Spacina spp. (II)"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Spacina spp. (II)"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Spacina spp. (II)"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Spachina spp."
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Spachina spp."
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Sanorax spp. (II)"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Sanorax spp. (II)"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Spacina spp. (II)"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Spacina spp. (II)"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Scrana spp. (II)"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Scrana spp. (II)"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Rumina spp. (II)"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Sparina spp. (II)"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Rumina spp. (II)"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Sparina spp. (II)"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Spacina spp. (II)"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Spacina spp. (II)"
+    }
+  ]
+}

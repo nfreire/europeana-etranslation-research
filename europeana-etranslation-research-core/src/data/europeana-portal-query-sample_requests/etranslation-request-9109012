@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "albanaise",
+    "sourceLanguage": "de",
+    "targetLanguages": [
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109012",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "FI",
+      "translatedText": "﻿Itävallan tasavallan puolesta"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Itävallan tasavallan puolesta"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿pela República da Áustria"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿pela República da Áustria"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Austrijos Respublikos vardu"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Austrijos Respublikos vardu"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿albanaise..."
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿albanaise..."
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿az Osztrák Köztársaság részéről"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿az Osztrák Köztársaság részéről"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿för Republiken Österrike"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿för Republiken Österrike"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿για τη Δημοκρατία της Αυστρίας"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿για τη Δημοκρατία της Αυστρίας"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿for the Republic of Austria"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿for the Republic of Austria"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿per la Repubblica D'Austria"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿per la Repubblica D'Austria"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿por la República de Austria"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿por la República de Austria"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Austria Vabariigi nimel"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Austria Vabariigi nimel"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿za Rakouskou republiku"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿za Rakouskou republiku"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿w imieniu Republiki Austrii"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿w imieniu Republiki Austrii"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿for Republikken Østrig"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿pentru Republica Austria"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿for Republikken Østrig"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿pentru Republica Austria"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿voor de Republiek Oostenrijk"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿voor de Republiek Oostenrijk"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "affiches",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109268",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Werbehume"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Werbehume"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿nammikko"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿nammikko"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿affiches"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿affiches"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Efekckalai"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Efekckalai"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿affiches"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿affiches"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿1.8.Kivételek"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿1.8.Kivételek"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿affischer"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿affischer"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿aefficuris"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿aefficuris"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿affiche"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿affiche"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿affiches"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿affiches"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿(ei puuduta eestikeelset versiooni.)"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿(ei puuduta eestikeelset versiooni.)"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿fadffices"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿fadffices"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿skuteczność"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿skuteczność"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿AP"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿eficacitate"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿AP"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿eficacitate"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿werkzaamheid"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿werkzaamheid"
+    }
+  ]
+}

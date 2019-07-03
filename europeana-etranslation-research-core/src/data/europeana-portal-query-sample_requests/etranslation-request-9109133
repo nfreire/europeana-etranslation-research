@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Adrianus Eversen",
+    "sourceLanguage": "nl",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "ca"
+    ]
+  },
+  "requestId": "9109133",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Adrianus Eversen"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Adrianus Eversen"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Adrianus Everien"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Adrianus Everien"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Adrianus Eversen"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Adrianus Eversen"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Adjonus Everen"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Adjonus Everen"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Adrianus Eversen"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Adrianus Eversen"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Adrianus Eversen"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Adrianus Eversen"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Adrianus Eversen"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Adrianus Eversen"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Adrianus Eversen"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Adrianus Eversen"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Adrianus Eversen"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Adrianus Eversen"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Adrianus Eversen"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Adrianus Eversen"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Adrianus Eversen"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Adrianus Eversen"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Adrianus Eversan"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Adrianus Eversan"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Adrianus Eversen"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Adrianus Eversen"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Adrianus eversen"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Adrianus eversen"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Adrianus Eversen"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Adrianus Eversen"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Adrianus Eversen"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Adrianus Eversen"
+    }
+  ]
+}

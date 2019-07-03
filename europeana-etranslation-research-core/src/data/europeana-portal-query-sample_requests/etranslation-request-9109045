@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "aerial warfare",
+    "sourceLanguage": "de",
+    "targetLanguages": [
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109045",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "FI",
+      "translatedText": "﻿erial-lippu"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿erial-lippu"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿fixação do preço do bilhete"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿fixação do preço do bilhete"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿erialiniai bilietai"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿erialiniai bilietai"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Aerial warfare"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Aerial warfare"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿erial-viteldíj"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿erial-viteldíj"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿erial"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿erial"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿erial-fare"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿erial-fare"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿erial-fare"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿erial-fare"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿eria-tariffa aerea"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿eria-tariffa aerea"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿tarifa erial-@@"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿tarifa erial-@@"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿eripiletihind"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿eripiletihind"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿eral-tarif"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿eral-tarif"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿cena za zakupy"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿cena za zakupy"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿prisen på"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿tarif aerian"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿prisen på"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿tarif aerian"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿erial-tarief"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿erial-tarief"
+    }
+  ]
+}

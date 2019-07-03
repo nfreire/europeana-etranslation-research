@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Charles Plisnier",
+    "sourceLanguage": "fr",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109319",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Charles Palinier"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Charles Palinier"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Charles Plisnier"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Charles Plisnier"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Charles Plinier"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Charles Plinier"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Charles Paulinier"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Charles Paulinier"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Charles Plisnier"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Charles Plisnier"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Charles Plisnier"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Charles Plisnier"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Charles Plisnier"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Charles Plisnier"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Charles Plisnier"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Charles Plisnier"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Charles Plisnier"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Charles Plisnier"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Charles Pelisnier"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Charles Pelisnier"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Charles Plisnier"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Charles Plisnier"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Charles Plisnier"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Charles Plisnier"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Charles PICnier"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Charles PICnier"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Charles Pallinier"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Charles Phlinier"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Charles Pallinier"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Charles Phlinier"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Charles PAILNIER"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Charles PAILNIER"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Alonso sanchez de alarcon",
+    "sourceLanguage": "es",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109433",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Alonso Sanchez de alarma"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Alonso Sanchez de alarma"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Alonso Sánchez de varotti"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Alonso Sánchez de varotti"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Alonso Sanchez de alma"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Alonso Sanchez de alma"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Alonso Sanchez de alma"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Alonso Sanchez de alma"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Alonso Sanchez de alarme"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Alonso Sanchez de alarme"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Alonso Sanchez de alma"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Alonso Sanchez de alma"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Alonso Sanchez de alma"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Alonso Sanchez de alma"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Alonso Sanchez de alma"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Alonso Sanchez de alma"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Alonso Sanchez de alarma"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Alonso Sanchez de alarma"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Alonso Sanchez de alarma"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Alonso Sanchez de alarma"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Alonso Sanchez de alma"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Alonso Sanchez de alma"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Alonso Sanchez de Alstarma"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Alonso Sanchez de Alstarma"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Alonso Sanchez de alstarma"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Alonso Sanchez de alstarma"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Alonso Sanchez de alstarma"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Alonso Sanchez de alarma"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Alonso Sanchez de alstarma"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Alonso Sanchez de alarma"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Alonso Sanchez de alstarma"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Alonso Sanchez de alstarma"
+    }
+  ]
+}

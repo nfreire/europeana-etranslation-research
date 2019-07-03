@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "albarracin",
+    "sourceLanguage": "es",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109023",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Albarracin"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Albarracin"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Albarracin"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Albarracin"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Albarcina"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Albarcina"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Albarracinas"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Albarracinas"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Albarracine"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Albarracine"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Albarracein"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Albarracein"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Albarracin"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Albarracin"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Albarrain"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Albarrain"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Albarracin"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Albarracin"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Albarracin"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Albarracin"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Albarracin"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Albarracin"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Albarracin"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Albarracin"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Albarracin"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Albarracin"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Albarracin"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Albarracin"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Albarracin"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Albarracin"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Albarracin"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Albarracin"
+    }
+  ]
+}

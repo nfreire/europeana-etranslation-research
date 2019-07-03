@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "PALACIO DE LINARES",
+    "sourceLanguage": "es",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109171",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿LINARES DE LINARES"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿LINARES DE LINARES"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿LINARES DE LINARES"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿LINARES DE LINARES"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿LINARES DE LINARES"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿LINARES DE LINARES"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿LINARES DE LINARES"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿LINARES DE LINARES"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿LINARES DE LINARES"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿LINARES DE LINARES"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿LINARES DE LINARES"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿LINARES DE LINARES"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿LINARES DE LINARES"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿LINARES DE LINARES"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿LINARES DE LINARES"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿LINARES DE LINARES"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿LINARES DE LINARES"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿LINARES DE LINARES"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿LINARES DE LINARES"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿LINARES DE LINARES"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿LINARES DE LINARES"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿LINARES DE LINARES"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿LINARES DE LINARES"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿LINARES DE LINARES"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿LINARES DE LINARES"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿LINARES DE LINARES"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿LINARES DE LINARES"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿LINARES DE LINARES"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿LINARES DE LINARES"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿LINARES DE LINARES"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿LINARES DE LINARES"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿LINARES DE LINARES"
+    }
+  ]
+}

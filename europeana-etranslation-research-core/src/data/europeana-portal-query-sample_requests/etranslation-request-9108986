@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "adele list",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9108986",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Adel-Liste"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Adel-Liste"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Adelen luettelo"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Adelen luettelo"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿lista Adele"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿lista Adele"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Adele sąrašas"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Adele sąrašas"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿liste d’Adele"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿liste d’Adele"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Adele-lista"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Adele-lista"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Adele lista"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Adele lista"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿κατάλογος Adele"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿κατάλογος Adele"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿elenco di Adele"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿elenco di Adele"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Adelle list"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Adelle list"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Adele nimekiri"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Adele nimekiri"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿seznam Adele"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿seznam Adele"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Adeile list"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Adeile list"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Adele list"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿lista Aderilor"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Adele list"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿lista Aderilor"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Adele-lijst"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Adele-lijst"
+    }
+  ]
+}

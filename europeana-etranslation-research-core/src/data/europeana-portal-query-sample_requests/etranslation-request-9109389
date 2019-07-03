@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "tobias michael",
+    "sourceLanguage": "de",
+    "targetLanguages": [
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109389",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "FI",
+      "translatedText": "﻿Tobias mishael"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Tobias mishael"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Tobias milhel"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Tobias milhel"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Tobias mishael"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Tobias mishael"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Tobias michael"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Tobias michael"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Tobias mishael"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Tobias mishael"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Tobias michael"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Tobias michael"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Tobias mishel"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Tobias mishel"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Tobias mishael"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Tobias mishael"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Tobias mishel"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Tobias mishel"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Tobias mishael"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Tobias mishael"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Tobias mishael"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Tobias mishael"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Tobias špatně hael"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Tobias špatně hael"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Tobias mihael"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Tobias mihael"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Tobias mishael"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Tobias mihael"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Tobias mishael"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Tobias mihael"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Tobias mishael"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Tobias mishael"
+    }
+  ]
+}

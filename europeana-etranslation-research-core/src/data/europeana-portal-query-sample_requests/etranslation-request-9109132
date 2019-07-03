@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "accounting equation",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109132",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Gleichung für die Verbuchung"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Gleichung für die Verbuchung"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Laskentayhtälö"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Laskentayhtälö"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿equação contabilística"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿equação contabilística"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿apskaitos lygtis"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿apskaitos lygtis"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿équation comptable"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿équation comptable"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿elszámolási egyenlet"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿elszámolási egyenlet"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿redovisningsekvationen"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿redovisningsekvationen"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿λογιστικός εξίσωση"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿λογιστικός εξίσωση"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿equazione contabile"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿equazione contabile"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿ecuación contable"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿ecuación contable"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿arvestusvalem"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿arvestusvalem"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿účetní rovnice"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿účetní rovnice"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿równanie księgowe"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿równanie księgowe"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿regnskabsligning"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿ecuație de contabilitate"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿regnskabsligning"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿ecuație de contabilitate"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿boekhoudkundige vergelijking"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿boekhoudkundige vergelijking"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "gdpr",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109358",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Datenschutz-Grundverordnung"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Datenschutz-Grundverordnung"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿yleinen tietosuoja-asetus"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿yleinen tietosuoja-asetus"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿RGPD"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿RGPD"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿BDAR"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿BDAR"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿RGPD"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿RGPD"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿általános adatvédelmi rendelet"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿általános adatvédelmi rendelet"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿dataskyddsförordning"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿dataskyddsförordning"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿ΓΚΠΔ"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿ΓΚΠΔ"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿RGPD"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿RGPD"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿RGPD"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿RGPD"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿isikuandmete kaitse üldmäärus"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿isikuandmete kaitse üldmäärus"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿GDPR, obecné nařízení o ochraně údajů"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿GDPR, obecné nařízení o ochraně údajů"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿RODO"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿RODO"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿generel forordning om databeskyttelse"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿RGPD"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿generel forordning om databeskyttelse"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿RGPD"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿AVG"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿AVG"
+    }
+  ]
+}

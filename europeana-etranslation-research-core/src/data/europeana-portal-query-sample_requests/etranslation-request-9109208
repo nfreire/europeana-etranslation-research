@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "ACREICE",
+    "sourceLanguage": "fr",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109208",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿ACRESICE"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿ACRESICE"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿ACREICE"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿ACREICE"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿ACREICE"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿ACREICE"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿ACREICE"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿ACREICE"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿ACREICE"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿ACREICE"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿ACRICE"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿ACRICE"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿ACREICE"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿ACREICE"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿ACREICE"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿ACREICE"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿ACRECE"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿ACRECE"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿ACIICE"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿ACIICE"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿ACREICE"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿ACREICE"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿ACREICE"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿ACREICE"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿ACREICE"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿ACREICE"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿ACCINICE"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿ACREEC"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿ACCINICE"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿ACREEC"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿ACREICE"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿ACREICE"
+    }
+  ]
+}

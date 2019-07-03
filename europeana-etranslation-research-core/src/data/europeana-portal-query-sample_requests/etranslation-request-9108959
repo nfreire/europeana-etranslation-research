@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "martinus monachus",
+    "sourceLanguage": "nl",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "ca"
+    ]
+  },
+  "requestId": "9108959",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Martius monachus"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Martius monachus"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Martinus monachus"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Martinus monachus"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Martinus monachus"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Martinus monachus"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Martinus monachus"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Martinus monachus"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Martinus monachus"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Martinus monachus"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Martinus monachus"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Martinus monachus"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Martinus monachus"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Martinus monachus"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Martinus monachus"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Martinus monachus"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Martinus monachus"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Martinus monachus"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Martinus monachus"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Martinus monachus"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Martinus monachus"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Martinus monachus"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Martinus monachus"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Martinus monachus"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Jeřáb Martinus monachus"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Jeřáb Martinus monachus"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Martinus monachus"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Martinus monachus"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Martinus monachus"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Martinus monachus"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Martinus monachus"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Martinus monachus"
+    }
+  ]
+}

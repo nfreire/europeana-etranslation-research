@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "achieving Student Reading Competency In Digital And Print Text",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109003",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿LesekompetenzkompetenzIn Digital und Print Text"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿LesekompetenzkompetenzIn Digital und Print Text"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿oppimistulosten saavuttaminen digitaali- ja tulostussatelliittitiedostossa"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿oppimistulosten saavuttaminen digitaali- ja tulostussatelliittitiedostossa"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿obtenção de competências em matéria de leitura de estudantes no texto"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿obtenção de competências em matéria de leitura de estudantes no texto"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿pasiekti studentų skaitymo gebėjimų skaitmeninio ir spausdinto teksto skaitymo dalykus"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿pasiekti studentų skaitymo gebėjimų skaitmeninio ir spausdinto teksto skaitymo dalykus"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿mise en place d’une compétence en matière de lecture pour les étudiants en format numérique et d’impression"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿mise en place d’une compétence en matière de lecture pour les étudiants en format numérique et d’impression"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿a diákok olvasásával kapcsolatos készségek elérése a digitális és nyomtatott szöveg tekintetében"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿a diákok olvasásával kapcsolatos készségek elérése a digitális és nyomtatott szöveg tekintetében"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿att uppnå kompetens i läsförståelse för digitala och tryckta texter"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿att uppnå kompetens i läsförståelse för digitala och tryckta texter"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿επίτευξη επάρκειας ανάγνωσης δεξιοτήτων σε ψηφιακή μορφή και κειμένου εκτύπωσης"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿επίτευξη επάρκειας ανάγνωσης δεξιοτήτων σε ψηφιακή μορφή και κειμένου εκτύπωσης"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿conoscenza delle competenze per la lettura degli studenti. testo in materia di digitalizzazione e di lettura"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿conoscenza delle competenze per la lettura degli studenti. testo in materia di digitalizzazione e di lettura"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿superación de la aptitud para la lectura del estudiante en el texto digital y en formato digital"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿superación de la aptitud para la lectura del estudiante en el texto digital y en formato digital"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Readinitiative Reading Exampling (Student Reading exmp@@"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Readinitiative Reading Exampling (Student Reading exmp@@"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿dosažení nezpůsobilosti studentů a čtenářů v digitálním a tištěném textu"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿dosažení nezpůsobilosti studentů a čtenářů v digitálním a tištěném textu"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿osiągnięcie umiejętności czytania w czytelniach w sektorze cyfrowym i w czytelnictwie cyfrowym"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿osiągnięcie umiejętności czytania w czytelniach w sektorze cyfrowym i w czytelnictwie cyfrowym"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿opnåelse af studiekompetencer i Digital og Print Text"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿obținerea competențelor de citire a studenților În textul digital și imprimat"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿opnåelse af studiekompetencer i Digital og Print Text"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿obținerea competențelor de citire a studenților În textul digital și imprimat"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿het behalen van het kunstleer van leerlingen in digitale en gedrukte tekst"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿het behalen van het kunstleer van leerlingen in digitale en gedrukte tekst"
+    }
+  ]
+}

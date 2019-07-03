@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "masaki yodogawa",
+    "sourceLanguage": "es",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109030",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Maaki Ydagawa"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Maaki Ydagawa"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿massiaki Yobgawa"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿massiaki Yobgawa"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿masaki Yodgawa"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿masaki Yodgawa"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿masakaki Yograwa"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿masakaki Yograwa"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿maki Ydgawa"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿maki Ydgawa"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿masaki Yodgawa"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿masaki Yodgawa"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿mastiki Yogalawa"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿mastiki Yogalawa"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿masaki Yodgawa"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿masaki Yodgawa"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿masaki Yodgawa"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿masaki Yodgawa"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿masaki Yodawa"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿masaki Yodawa"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿maski Yodgawa"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿maski Yodgawa"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Makaki Yodgawa"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Makaki Yodgawa"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿maki Yodgawa"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿maki Yodgawa"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿maakaki Ydgawa"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿maasaki Ydgawa"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿maakaki Ydgawa"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿maasaki Ydgawa"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿masaki Yogadawa"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿masaki Yogadawa"
+    }
+  ]
+}

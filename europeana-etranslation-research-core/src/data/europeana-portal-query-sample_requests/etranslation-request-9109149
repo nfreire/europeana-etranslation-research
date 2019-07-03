@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "ainstain",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109149",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Overhead-ina"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Overhead-ina"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿aine"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿aine"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿pós-coloração"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿pós-coloração"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿ainoleumas"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿ainoleumas"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Aïlasure"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Aïlasure"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿elszíneződés"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿elszíneződés"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿ainfärgning"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿ainfärgning"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿καινδόξη"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿καινδόξη"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿antimacchia"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿antimacchia"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿ina"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿ina"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿plekk"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿plekk"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿ainbarvení"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿ainbarvení"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿alplamy"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿alplamy"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿infarvning"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿alb (ă)"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿infarvning"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿alb (ă)"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿ininakleur"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿ininakleur"
+    }
+  ]
+}

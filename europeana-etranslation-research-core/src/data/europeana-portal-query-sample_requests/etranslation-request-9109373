@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "la rambla cordoba",
+    "sourceLanguage": "es",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109373",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Mambba Cordoba"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Mambba Cordoba"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Mamola Cordoba"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Mamola Cordoba"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Mambla Córdoba"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Mambla Córdoba"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Mambla Cordoba"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Mambla Cordoba"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Mamblla Cordoba"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Mamblla Cordoba"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Mambla Cordoba"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Mambla Cordoba"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Mamabla Córdoba"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Mamabla Córdoba"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Mambla Cordoba"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Mambla Cordoba"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Mambla Cordoba"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Mambla Cordoba"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Cordoba Mabbla"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Cordoba Mabbla"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Mambra Cordoba"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Mambra Cordoba"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Mombla Córdoba"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Mombla Córdoba"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Mamla Cordoba"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Mamla Cordoba"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Mambla Cordoba"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Mambla Cordoba"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Mambla Cordoba"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Mambla Cordoba"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Mambla Cordoba"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Mambla Cordoba"
+    }
+  ]
+}

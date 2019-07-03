@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "adriano sousa lopes",
+    "sourceLanguage": "fr",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109173",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Adriano sousa Lopes"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Adriano sousa Lopes"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Adriano susa Lopes"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Adriano susa Lopes"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Sr. Adriano Lopes"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Sr. Adriano Lopes"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿„Adriano susa Lopes“"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿„Adriano susa Lopes“"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Adriano susa Lopes"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Adriano susa Lopes"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Adriano osousa Lopes"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Adriano osousa Lopes"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Adriano susa Lopes"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Adriano susa Lopes"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Adriano sousa Lopes"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Adriano sousa Lopes"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Adriano incandescente Lopes"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Adriano incandescente Lopes"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Adriano susa Lopes"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Adriano susa Lopes"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Adriano souso Lopes"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Adriano souso Lopes"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Adriano svusa Lopes"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Adriano svusa Lopes"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Adriano sausa Lopes"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Adriano sausa Lopes"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Adriano Sousa Lopes"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Adriano soufa Lopes"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Adriano Sousa Lopes"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Adriano soufa Lopes"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Adriano sousa Lopes"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Adriano sousa Lopes"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Portugal dans la monde",
+    "sourceLanguage": "pl",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109380",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Portugal dans la monde"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Portugal dans la monde"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Portugali"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Portugali"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Portugal dans la monde"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Portugal dans la monde"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Portugalija"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Portugalija"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Portugal dans la monde"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Portugal dans la monde"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿— Portugália dans la monde"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿— Portugália dans la monde"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Portugal i enlighet med"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Portugal i enlighet med"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Πορτογαλία dans la monde"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Πορτογαλία dans la monde"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Portugal dans la monde"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Portugal dans la monde"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Portogallo dans la monde"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Portogallo dans la monde"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Portugal dans la monde"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Portugal dans la monde"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Portugal dans la mode"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Portugal dans la mode"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Portugalský dans la monde"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Portugalský dans la monde"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Portugal dans la monde"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Portugal dans la monde"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Portugal dans la monde"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Portugal dans la monde"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Portugal dans la monde"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Portugal dans la monde"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Albert casimir",
+    "sourceLanguage": "nl",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "ca"
+    ]
+  },
+  "requestId": "9108996",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Albert Casimir"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Albert Casimir"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Albert Casimir"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Albert Casimir"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Albert Casimir"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Albert Casimir"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Albert Caasimir"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Albert Caasimir"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Albert Casimir"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Albert Casimir"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Albert Casmir"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Albert Casmir"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Albert Casimir"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Albert Casimir"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Albert Casimir"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Albert Casimir"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Albert casimir"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Albert casimir"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Albert Casimis"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Albert Casimis"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Albert Casimir"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Albert Casimir"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Albert Casimir"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Albert Casimir"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Albert Casimir"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Albert Casimir"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Albert Casimir"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Albert Casimir"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Albert Casimir"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Albert Casimir"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Albert Casimir"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Albert Casimir"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "aaron florian",
+    "sourceLanguage": "ro",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109004",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Aaron Florian"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Aaron Florian"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Aaron Florian"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Aaron Florian"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Aaron Florian"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Aaron Florian"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Aaron Florian"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Aaron Florian"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Aaron Florian"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Aaron Florian"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Aaron Florian"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Aaron Florian"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Aaron Florian"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Aaron Florian"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Aaron Florian"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Aaron Florian"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Aaron Florian"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Aaron Florian"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Aaron Florian"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Aaron Florian"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Aaron Florian"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Aaron Florian"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Aaron Florian"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Aaron Florian"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Aaron Florian"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Aaron Florian"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Florian Aaron Florian"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Florian Aaron Florian"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Aaron Florian"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Aaron Florian"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Aaron Florian"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Aaron Florian"
+    }
+  ]
+}

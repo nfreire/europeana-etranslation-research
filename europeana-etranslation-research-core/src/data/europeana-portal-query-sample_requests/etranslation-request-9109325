@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Principes de la science de la Bourse",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109325",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿The principes de la science de la Bourse"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿The principes de la science de la Bourse"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿The principes de la science de la Bourse"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿The principes de la science de la Bourse"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Princípios da «ciência da bolsa»"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Princípios da «ciência da bolsa»"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Rinkos principas de la science de la Bourse"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Rinkos principas de la science de la Bourse"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Principes de la science de la bourse"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Principes de la science de la bourse"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Princies de la Science de la Bourse"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Princies de la Science de la Bourse"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Princiles de la science de la Bourse"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Princiles de la science de la Bourse"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Principes de la science de la bourse"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Principes de la science de la bourse"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Principi della scienza della cassa"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Principi della scienza della cassa"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Principios de la Bolsa"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Principios de la Bolsa"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Principas de la Bourse"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Principas de la Bourse"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Principles de la science de la Bourse"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Principles de la science de la Bourse"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Zasady nauki"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Zasady nauki"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Princippers de la science de la bourse"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Principii de la Bourse"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Princippers de la science de la bourse"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Principii de la Bourse"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Beginselen van de la science de la Bourse"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Beginselen van de la science de la Bourse"
+    }
+  ]
+}

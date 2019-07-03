@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "aldershot",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109378",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Aldershot"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Aldershot"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿ampulli"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿ampulli"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Aldershot"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Aldershot"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Alderšamas"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Alderšamas"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Aldershot"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Aldershot"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Alderseelőtt"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Alderseelőtt"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿hagel"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿hagel"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Alderβολής"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Alderβολής"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Aldershot"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Aldershot"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Aldershot"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Aldershot"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Alderhaat"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Alderhaat"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Alderranin"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Alderranin"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Alderbut"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Alderbut"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Aldershot"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Alderalice"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Aldershot"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Alderalice"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Alderschoten"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Alderschoten"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "abraham abendroth",
+    "sourceLanguage": "de",
+    "targetLanguages": [
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9108950",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "FI",
+      "translatedText": "﻿Abraham ilta"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Abraham ilta"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Noite Abraham"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Noite Abraham"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Abrahamo vakaras"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Abrahamo vakaras"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Abraham du soir"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Abraham du soir"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Abraham est"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Abraham est"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Abraham kväll"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Abraham kväll"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Abramingham το βράδυ"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Abramingham το βράδυ"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Abraham evening"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Abraham evening"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Abraham sera"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Abraham sera"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Abraham por la tarde"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Abraham por la tarde"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Abrahami õhtu"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Abrahami õhtu"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Abrahamův večer"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Abrahamův večer"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Wieczór Abrahama"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Wieczór Abrahama"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Abraham aften"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Seara Abraham"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Abraham aften"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Seara Abraham"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Abraham avonds"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Abraham avonds"
+    }
+  ]
+}

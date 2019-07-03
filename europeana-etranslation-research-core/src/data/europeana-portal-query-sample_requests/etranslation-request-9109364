@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "san juan de duero",
+    "sourceLanguage": "es",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109364",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿San Juan de Duero"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿San Juan de Duero"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿San juan de Duero"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿San juan de Duero"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿San juan de Duero"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿San juan de Duero"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿San juan de Duero"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿San juan de Duero"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿San juan de Duero"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿San juan de Duero"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿San juan de Duero"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿San juan de Duero"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿San juan de Duero"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿San juan de Duero"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿San jukan de Duero"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿San jukan de Duero"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿San juan de duero"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿San juan de duero"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿San Giava del Duero"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿San Giava del Duero"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿San juran de Duero"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿San juran de Duero"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿San juan de Duero"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿San juan de Duero"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿San juan de Duero"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿San juan de Duero"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿San juan de Duero"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Universitatea din San juan de Duero"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿San juan de Duero"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Universitatea din San juan de Duero"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿San juan de Duero"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿San juan de Duero"
+    }
+  ]
+}

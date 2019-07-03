@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "alberti",
+    "sourceLanguage": "es",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109106",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Alberti"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Alberti"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Alberti"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Alberti"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Alberti"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Alberti"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Alberti"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Alberti"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Alberti"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Alberti"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Alberti"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Alberti"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Alberti"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Alberti"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Alberti"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Alberti"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Alberti"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Alberti"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Alberti"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Alberti"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Alberti"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Alberti"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Alberti"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Alberti"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Alberti"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Alberti"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Alberti"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Alberti"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Alberti"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Alberti"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Alberti"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Alberti"
+    }
+  ]
+}

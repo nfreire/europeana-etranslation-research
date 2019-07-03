@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "adelqui",
+    "sourceLanguage": "es",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109330",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Verschlankung"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Verschlankung"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿laihdus"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿laihdus"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿emagrecer"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿emagrecer"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿lieknėjimas"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿lieknėjimas"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿amaigrissement"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿amaigrissement"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿fogyás"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿fogyás"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿bantning"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿bantning"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿μείωση του χρέους"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿μείωση του χρέους"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿slimming"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿slimming"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿dimagrante"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿dimagrante"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿kõhnumine"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿kõhnumine"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿hubená"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿hubená"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿odchudzające"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿odchudzające"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿slankning"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿slăbit"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿slankning"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿slăbit"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿afslankvorming"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿afslankvorming"
+    }
+  ]
+}

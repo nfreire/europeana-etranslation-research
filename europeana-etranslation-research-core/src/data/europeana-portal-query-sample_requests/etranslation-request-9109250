@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Rafael Tegeo",
+    "sourceLanguage": "es",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109250",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Rafael Tegeo"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Rafael Tegeo"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Rafael Teeo"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Rafael Teeo"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Rafael Tegeo"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Rafael Tegeo"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Rafael Tegeo"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Rafael Tegeo"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Rafael Tegeo"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Rafael Tegeo"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Rafael Tegeo"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Rafael Tegeo"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Rafael Tegleo"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Rafael Tegleo"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Rafael Tegeo"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Rafael Tegeo"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Rafael Tegeo"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Rafael Tegeo"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Rafael Tegeo"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Rafael Tegeo"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Rafael Tegeo"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Rafael Tegeo"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Rafael Teeo"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Rafael Teeo"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Rafael Tego"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Rafael Tego"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Rafael Tegeo"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Rafael Tegeo"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Rafael Tegeo"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Rafael Tegeo"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Rafael Tegeo"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Rafael Tegeo"
+    }
+  ]
+}

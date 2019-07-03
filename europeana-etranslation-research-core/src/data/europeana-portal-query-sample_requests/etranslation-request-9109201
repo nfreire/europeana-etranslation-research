@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "adriano de sousa lopes",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109201",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Adriano de susa lopes"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Adriano de susa lopes"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Adriano de susa lopes"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Adriano de susa lopes"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Adriano de sausa lopes"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Adriano de sausa lopes"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Adriano de sousa lopes"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Adriano de sousa lopes"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Adriano de sousa lopes"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Adriano de sousa lopes"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Adriano de susza lopes"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Adriano de susza lopes"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Adriano de saussoa"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Adriano de saussoa"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Adriano de susa lopes"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Adriano de susa lopes"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Adriano de scleropes"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Adriano de scleropes"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Adriano de susa Lopes"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Adriano de susa Lopes"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Adriano de sousa lopes"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Adriano de sousa lopes"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Adriano de svusa lopes"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Adriano de svusa lopes"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Adriano de soussa lopes"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Adriano de soussa lopes"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Adriano de Sousa lopes"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Adriano de sousa lopes"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Adriano de Sousa lopes"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Adriano de sousa lopes"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Adriano de soupes"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Adriano de soupes"
+    }
+  ]
+}

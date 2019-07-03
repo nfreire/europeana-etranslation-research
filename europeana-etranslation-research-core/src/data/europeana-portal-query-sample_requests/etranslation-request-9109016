@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Studien zur Geschichte des deutschen Imperialismus",
+    "sourceLanguage": "pl",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109016",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Studien zur Geschichte des deutschen Imperialismus"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Studien zur Geschichte des deutschen Imperialismus"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Deutschen Imperialmus Studien zur Geschichte"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Deutschen Imperialmus Studien zur Geschichte"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Studien zur Geschichte des deutschen Imperalimus"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Studien zur Geschichte des deutschen Imperalimus"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Studien zur Geschichte des deutschen Imperialalizmus"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Studien zur Geschichte des deutschen Imperialalizmus"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Studien zur Geschichte des deutschen Imperialismus"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Studien zur Geschichte des deutschen Imperialismus"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Studien zur Geschicchte des deutschen Imperialismus"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Studien zur Geschicchte des deutschen Imperialismus"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Studie zur Geschichte des deutschen Imperialismus"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Studie zur Geschichte des deutschen Imperialismus"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Studien zur Geschichte des deutschen Imperalismus"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Studien zur Geschichte des deutschen Imperalismus"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Studien zur Geschichte des deutschen Imperialismus"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Studien zur Geschichte des deutschen Imperialismus"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Studien zur Geschichte des deutschen Imperialismo"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Studien zur Geschichte des deutschen Imperialismo"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Studien zur Geschichte des deutschen Imperialismus"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Studien zur Geschichte des deutschen Imperialismus"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Studien zur Geschicte des deutschen Imperimus"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Studien zur Geschicte des deutschen Imperimus"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Studien zur Gesschichte des deutschen Imperialismus"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Studien zur Gesschichte des deutschen Imperialismus"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Studioen zur Geschte des deutschen Imperialimus"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Studien zur Geschichte des deutschen Imperialimus"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Studioen zur Geschte des deutschen Imperialimus"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Studien zur Geschichte des deutschen Imperialimus"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Studienten des deutschen Imperialismus"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Studienten des deutschen Imperialismus"
+    }
+  ]
+}

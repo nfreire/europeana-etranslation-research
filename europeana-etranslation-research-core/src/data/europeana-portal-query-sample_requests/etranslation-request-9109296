@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Albert Einstein and God",
+    "sourceLanguage": "hu",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109296",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Albert Einstein und Gott"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Albert Einstein und Gott"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Albert Einstein ja Jumala"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Albert Einstein ja Jumala"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Albert Einstein e Deus"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Albert Einstein e Deus"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Albertas Einšteinas ir Dievas"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Albertas Einšteinas ir Dievas"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Albert Einstein et Dieu"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Albert Einstein et Dieu"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Albert Einstein och Gud"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Albert Einstein och Gud"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Albert Einstein και Θεός"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Albert Einstein και Θεός"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Albert Einstein and God"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Albert Einstein and God"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Albert Einstein e Dio"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Albert Einstein e Dio"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Albert Einstein y Dios"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Albert Einstein y Dios"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Albert Einstein ja God"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Albert Einstein ja God"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Albert Einstein a Boha"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Albert Einstein a Boha"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Albert Einstein i Bóg"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Albert Einstein i Bóg"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Albert Einstein og Gud"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Albert Einstein și Dumnezeu"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Albert Einstein og Gud"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Albert Einstein și Dumnezeu"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Albert Einstein en God"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Albert Einstein en God"
+    }
+  ]
+}

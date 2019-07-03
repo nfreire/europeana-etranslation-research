@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "actionnaire",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9108921",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Maßnahme"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Maßnahme"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿toimi"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿toimi"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿ação"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿ação"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿idetionnaire"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿idetionnaire"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿actionnaire"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿actionnaire"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿actionnaire"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿actionnaire"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿actionnaire"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿actionnaire"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Actinaire"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Actinaire"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿actionnaire"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿actionnaire"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿actionnaire"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿actionnaire"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿meede"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿meede"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿akcenaire"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿akcenaire"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿actionaire"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿actionaire"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿actionnaire"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿acțiune"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿actionnaire"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿acțiune"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿actionaire"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿actionaire"
+    }
+  ]
+}

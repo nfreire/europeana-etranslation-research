@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Un congreso de gitanos",
+    "sourceLanguage": "es",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109195",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Roma-Kongress"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Roma-Kongress"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Roma Congress"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Roma Congress"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Congresso dos Ciganos"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Congresso dos Ciganos"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Romų kongresas"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Romų kongresas"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Congrès des Roms"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Congrès des Roms"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Roma Kongresszus"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Roma Kongresszus"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Den romska kongressen"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Den romska kongressen"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Κογκρέσο των Ρομά"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Κογκρέσο των Ρομά"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Roma Congress"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Roma Congress"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Congresso dei comuni Rom"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Congresso dei comuni Rom"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Romade kongress"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Romade kongress"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Kongres romské vlády"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Kongres romské vlády"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Kongres Romów"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Kongres Romów"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Roma Congress"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Congresul romilor"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Roma Congress"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Congresul romilor"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Roma-congres"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Roma-congres"
+    }
+  ]
+}

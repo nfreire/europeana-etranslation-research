@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "aeolian harp",
+    "sourceLanguage": "fr",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109239",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿äolian Harp"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿äolian Harp"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Aean Harp"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Aean Harp"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Eolian Harp"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Eolian Harp"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Aeolian Harp"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Aeolian Harp"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Aoli-Harp"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Aoli-Harp"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Eoliska Harp"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Eoliska Harp"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Eolie Harp"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Eolie Harp"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿aeolian Harp"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿aeolian Harp"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Harp Eolie"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Harp Eolie"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Aean HIP"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Aean HIP"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Liparan Harp"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Liparan Harp"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Liparských Harp"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Liparských Harp"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Heolian Harp"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Heolian Harp"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Liparan Harp"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Harp de consum de energie electrică de peste H@@"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Liparan Harp"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Harp de consum de energie electrică de peste H@@"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Eolische Harp"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Eolische Harp"
+    }
+  ]
+}

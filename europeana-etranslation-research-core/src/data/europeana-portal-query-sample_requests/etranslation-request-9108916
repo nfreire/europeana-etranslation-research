@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Actos de Cortes del Reyno de Aragon",
+    "sourceLanguage": "es",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9108916",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Akte von Cortes del Reyno von Aragonien"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Akte von Cortes del Reyno von Aragonien"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Säädökset Cortes del Reyno (Aragonian alue)"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Säädökset Cortes del Reyno (Aragonian alue)"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Atos das Cortes del Reyno de Aragão"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Atos das Cortes del Reyno de Aragão"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Aragono Cortes del Reynno veiksmai"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Aragono Cortes del Reynno veiksmai"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Actes des Cortes del Reyno d’Aragon"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Actes des Cortes del Reyno d’Aragon"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Aragónia Cortes del Reyno cselekményei"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Aragónia Cortes del Reyno cselekményei"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Aragons Cortes del Reyno"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Aragons Cortes del Reyno"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Cortes del Reyno της Αραγονίας"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Cortes del Reyno της Αραγονίας"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Acts of Cortes del Reyno of Aragon"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Acts of Cortes del Reyno of Aragon"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Atti del Cortes del Reyno of Aragona"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Atti del Cortes del Reyno of Aragona"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Aragóni Cortes del Reyno"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Aragóni Cortes del Reyno"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Zákony společnosti Cortes del Reyno z Aragonie"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Zákony společnosti Cortes del Reyno z Aragonie"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Akty Kortetes del Reyno w Aragonii"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Akty Kortetes del Reyno w Aragonii"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Cortes del Reyno i Aragon"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Acte ale Cortes del Reyno de Aragon"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Cortes del Reyno i Aragon"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Acte ale Cortes del Reyno de Aragon"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Handelingen van Cortes del Reyno van Aragon"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Handelingen van Cortes del Reyno van Aragon"
+    }
+  ]
+}

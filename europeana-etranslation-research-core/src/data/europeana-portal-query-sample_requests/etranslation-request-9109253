@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "valentin cespedes",
+    "sourceLanguage": "es",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109253",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Herrn Valentin Céspedes"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Herrn Valentin Céspedes"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Valentin Céspedes"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Valentin Céspedes"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Valentin Céspedes"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Valentin Céspedes"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Valentin Céspedes"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Valentin Céspedes"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Valentin Céspedes"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Valentin Céspedes"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Valentin Céleleges"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Valentin Céleleges"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Valentin Céspedes"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Valentin Céspedes"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Ο κ. Valentin Céspedes"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Ο κ. Valentin Céspedes"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Mr Valentin Céspedes"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Mr Valentin Céspedes"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Valentin Céspedes"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Valentin Céspedes"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Valentin Céspedes"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Valentin Céspedes"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Pan Valentin Céspedes"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Pan Valentin Céspedes"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Valentin Céspedes"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Valentin Céspedes"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Valentin Céspedes"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Dl Valentin Céspedes"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Valentin Céspedes"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Dl Valentin Céspedes"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿De heer Valentin Céspedes"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿De heer Valentin Céspedes"
+    }
+  ]
+}

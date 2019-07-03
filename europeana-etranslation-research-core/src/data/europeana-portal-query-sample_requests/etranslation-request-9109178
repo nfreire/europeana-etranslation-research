@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "abel paz",
+    "sourceLanguage": "es",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109178",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Frieden"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Frieden"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿rauha"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿rauha"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿paz"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿paz"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿taikos"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿taikos"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿paix"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿paix"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿béke"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿béke"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿fred"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿fred"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿ειρήνη"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿ειρήνη"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿peace"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿peace"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿pace"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿pace"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿rahu"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿rahu"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿mír"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿mír"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿pokój"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿pokój"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿fred"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿pace"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿fred"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿pace"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿vrede"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿vrede"
+    }
+  ]
+}

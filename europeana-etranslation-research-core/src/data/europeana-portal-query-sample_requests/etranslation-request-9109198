@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Solidaridad Obrera",
+    "sourceLanguage": "es",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109198",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Solidarität Obrera Solidarität"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Solidarität Obrera Solidarität"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Yhteisvastuu – Obreran yhteisvastuullisuus"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Yhteisvastuu – Obreran yhteisvastuullisuus"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Solidariedade solidária Obrera"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Solidariedade solidária Obrera"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Solidarumas Obrera solidarumas"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Solidarumas Obrera solidarumas"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Solidarité Obreera"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Solidarité Obreera"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Az obrerai szolidaritás"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Az obrerai szolidaritás"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Solidaritet Obrera solidaritet"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Solidaritet Obrera solidaritet"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Αλληλεγγύη Όμπρρα η αλληλεγγύη"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Αλληλεγγύη Όμπρρα η αλληλεγγύη"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Solidarity Obrera solidarity"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Solidarity Obrera solidarity"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Solidarietà Obrea"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Solidarietà Obrea"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Solidaarsus ja solidaarsus"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Solidaarsus ja solidaarsus"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Solidarita v rámci solidarity Obrera"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Solidarita v rámci solidarity Obrera"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Solidarność Obrera)"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Solidarność Obrera)"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Solidaritet Obrera-solidaritet"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Solidaritate Obrera"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Solidaritet Obrera-solidaritet"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Solidaritate Obrera"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Solidariteit Obrera"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Solidariteit Obrera"
+    }
+  ]
+}

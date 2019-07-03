@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Trieste clef de voute de la paix",
+    "sourceLanguage": "pl",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109067",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Wahl bei Triest de vote de la paix"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Wahl bei Triest de vote de la paix"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Triesten halkaista de la paix"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Triesten halkaista de la paix"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Trieste clef de vote de la paix"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Trieste clef de vote de la paix"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Trieste clef de la paix"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Trieste clef de la paix"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Le point de vote de Trieste de la paix"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Le point de vote de Trieste de la paix"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿A triesztre vonatkozó szavazás de la paix"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿A triesztre vonatkozó szavazás de la paix"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿”Triestesi de la paix” de la paix"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿”Triestesi de la paix” de la paix"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Trieste Clef de la paix"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Trieste Clef de la paix"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Trieste clef de vote de la paix"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Trieste clef de vote de la paix"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Clef di Trieste de la paix"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Clef di Trieste de la paix"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Trieste clef de vote de la paix"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Trieste clef de vote de la paix"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Trieste Clef de la paix"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Trieste Clef de la paix"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Terstf de hlasování de la paix"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Terstf de hlasování de la paix"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Trieste clef de la paix"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Triest Clef de la vot de la paix"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Trieste clef de la paix"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Triest Clef de la vot de la paix"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Stemming in Triëst de la paix"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Stemming in Triëst de la paix"
+    }
+  ]
+}

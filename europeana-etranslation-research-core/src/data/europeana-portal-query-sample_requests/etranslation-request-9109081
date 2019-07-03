@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Art Nouveau",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109081",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Jugendstil-Niveau"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Jugendstil-Niveau"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Uusi taide"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Uusi taide"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Arte Nova"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Arte Nova"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Art Nouveau"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Art Nouveau"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Art nouveau"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Art nouveau"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Szecesszió"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Szecesszió"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Art. Nouveau"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Art. Nouveau"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Αρ Νουβό"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Αρ Νουβό"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Art Nouveau"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Art Nouveau"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Art Nouveau"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Art Nouveau"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Juugend"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Juugend"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Nový"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Nový"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Art. Nouveau"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Art. Nouveau"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Art nouveau"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Art Nouveau"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Art nouveau"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Art Nouveau"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Art Nouveau"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Art Nouveau"
+    }
+  ]
+}

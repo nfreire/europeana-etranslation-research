@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "abstract",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109271",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Kurzbeschreibung"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Kurzbeschreibung"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿abstrakti"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿abstrakti"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿abstrato"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿abstrato"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿santrauka"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿santrauka"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿résumé"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿résumé"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿kivonat"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿kivonat"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿sammandrag"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿sammandrag"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿σύνοψη"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿σύνοψη"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿astratto"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿astratto"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿abstracto"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿abstracto"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿lühikokkuvõte"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿lühikokkuvõte"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿abstraktní"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿abstraktní"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿streszczenie"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿streszczenie"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿sammendrag"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿rezumat"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿sammendrag"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿rezumat"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿abstract"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿abstract"
+    }
+  ]
+}

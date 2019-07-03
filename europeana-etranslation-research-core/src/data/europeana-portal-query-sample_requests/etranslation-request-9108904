@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "ahnenprobe",
+    "sourceLanguage": "cs",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9108904",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Naehamat"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Naehamat"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿(ahenereto)"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿(ahenereto)"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿adiproato"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿adiproato"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿oficialus patvirtinimas"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿oficialus patvirtinimas"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿ahéprobate"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿ahéprobate"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Ahenobservation"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Ahenobservation"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿ahenprorat"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿ahenprorat"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿αέναη επαγωγή"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿αέναη επαγωγή"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿ahenprobate"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿ahenprobate"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿ahenprobato"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿ahenprobato"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿ahenprobato"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿ahenprobato"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿aheentestament"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿aheentestament"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿iahenprobat"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿iahenprobat"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿ahenprobat"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Aenzprobat"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿ahenprobat"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Aenzprobat"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿ahenproaat"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿ahenproaat"
+    }
+  ]
+}

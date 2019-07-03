@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "luciano albertini",
+    "sourceLanguage": "de",
+    "targetLanguages": [
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9108898",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "FI",
+      "translatedText": "﻿Luciano ALBERTINI"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Luciano ALBERTINI"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Luciano ALBERTINI"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Luciano ALBERTINI"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Luciano ALBERTINI"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Luciano ALBERTINI"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Luciano ALBETTINI"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Luciano ALBETTINI"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Luciano ALBERTINI"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Luciano ALBERTINI"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Luciano Albertini"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Luciano Albertini"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Ο κ. Luciano ALBERTINI"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Ο κ. Luciano ALBERTINI"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Luciano ALBERTINI"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Luciano ALBERTINI"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Luciano ALBERTINI"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Luciano ALBERTINI"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Luciano ALBERTINI"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Luciano ALBERTINI"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Luciano ALBERTINI"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Luciano ALBERTINI"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Luciano ALBERTINI"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Luciano ALBERTINI"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Luciano ALBERTINI"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Luciano ALBERTINI"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Luciano ALBERTINI"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Dl Luciano ALBERTINI"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Luciano ALBERTINI"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Dl Luciano ALBERTINI"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿De heer ALBERTINI"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿De heer ALBERTINI"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Der Welt Spiegel",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9108961",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Der Weltspiegel"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Der Weltspiegel"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Der Welt Spiegel"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Der Welt Spiegel"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Der Welt Spiegel"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Der Welt Spiegel"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Der Welt Spiegel"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Der Welt Spiegel"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Der Welt Spiegel"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Der Welt Spiegel"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Der Welt Spiegel"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Der Welt Spiegel"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Der Welt Spiegel"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Der Welt Spiegel"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Der Welt Spiegel"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Der Welt Spiegel"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Der Welt Spiegel"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Der Welt Spiegel"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Der Welt Spiegel"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Der Welt Spiegel"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Der Welt Spiegel"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Der Welt Spiegel"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Der Welt Spiegel"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Der Welt Spiegel"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Der Welt Spiegel"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Der Welt Spiegel"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Der Welt Spiegel"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Der Welt Spiegel"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Der Welt Spiegel"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Der Welt Spiegel"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Der Weldt Spiegel"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Der Weldt Spiegel"
+    }
+  ]
+}

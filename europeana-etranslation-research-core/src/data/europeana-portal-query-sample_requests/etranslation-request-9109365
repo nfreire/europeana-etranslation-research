@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "aircraft",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109365",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Luftfahrzeuge"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Luftfahrzeuge"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿ilma-alukset"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿ilma-alukset"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿aeronaves"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿aeronaves"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿orlaivis"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿orlaivis"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿aéronefs"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿aéronefs"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿repülőgép"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿repülőgép"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿luftfartyg"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿luftfartyg"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿αεροσκάφος"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿αεροσκάφος"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿aeromobili"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿aeromobili"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿aeronave"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿aeronave"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿õhusõidukid"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿õhusõidukid"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿letadla"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿letadla"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿samolot"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿samolot"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿fly"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿aeronave"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿fly"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿aeronave"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿luchtvaartuigen"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿luchtvaartuigen"
+    }
+  ]
+}

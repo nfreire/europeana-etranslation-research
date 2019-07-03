@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "abdulhamid",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109354",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Abdulhamid"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Abdulhamid"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Abdulhamid"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Abdulhamid"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Abdulhamid"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Abdulhamid"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Abdulhamid"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Abdulhamid"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Abdulhamid"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Abdulhamid"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Abdulhamid"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Abdulhamid"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Abdulhamid"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Abdulhamid"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Abdulhamid"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Abdulhamid"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿id Abdulhamid"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿id Abdulhamid"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Abdulhamid"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Abdulhamid"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Abdulhamid"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Abdulhamid"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Abdulhamid"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Abdulhamid"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Abdulhamid"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Abdulhamid"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Abdulhamid"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Abdhamid"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Abdulhamid"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Abdhamid"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Abdulhamid"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Abdulhamid"
+    }
+  ]
+}

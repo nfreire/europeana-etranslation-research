@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Agua",
+    "sourceLanguage": "es",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109154",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Wasser"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Wasser"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Vesi"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Vesi"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Água"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Água"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Vandens"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Vandens"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Eau"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Eau"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Víz"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Víz"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Vatten"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Vatten"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Νερό"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Νερό"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Water"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Water"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Acqua"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Acqua"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Vesi"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Vesi"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Voda"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Voda"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Woda"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Woda"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Vand"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Apă"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Vand"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Apă"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Water"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Water"
+    }
+  ]
+}

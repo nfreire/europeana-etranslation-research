@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "guerra de invierno",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109345",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Guerra de mera"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Guerra de mera"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿guerra de invierno"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿guerra de invierno"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Guerra de Inerno"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Guerra de Inerno"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿guerra de erkeerno"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿guerra de erkeerno"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Guerra de viererno"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Guerra de viererno"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Guerra de tagrierno"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Guerra de tagrierno"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Guerra de vierno"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Guerra de vierno"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Guerra de vierno"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Guerra de vierno"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿guerra"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿guerra"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿guerra"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿guerra"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Guerra de invierno"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Guerra de invierno"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Guerra de invierno"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Guerra de invierno"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Guerra de vierno"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Guerra de vierno"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Guerra de inviderno"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Guerra de Anerno"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Guerra de inviderno"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Guerra de Anerno"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Guerra de messenno"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Guerra de messenno"
+    }
+  ]
+}

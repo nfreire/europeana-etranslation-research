@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "nova lisboa",
+    "sourceLanguage": "pt",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9108948",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿der neue Vertrag von Lissabon"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿der neue Vertrag von Lissabon"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿uusi Lissabon"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿uusi Lissabon"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿nauja Lisabonos strategija"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿nauja Lisabonos strategija"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿New Lisbon"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿New Lisbon"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿új Lisszabon"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿új Lisszabon"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿den nya Lissabonstrategin"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿den nya Lissabonstrategin"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿η νέα Συνθήκη της Λισαβόνας"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿η νέα Συνθήκη της Λισαβόνας"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿new Lisbon"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿new Lisbon"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿New Lisbon"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿New Lisbon"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿New Lisboa"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿New Lisboa"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿uus Lissaboni strateegia"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿uus Lissaboni strateegia"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿nová Lisabonská strategie"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿nová Lisabonská strategie"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿nowy traktat lizboński"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿nowy traktat lizboński"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿ny Lissabon"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Lisabona (nouă)"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿ny Lissabon"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Lisabona (nouă)"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿nieuwe Lissabon"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿nieuwe Lissabon"
+    }
+  ]
+}

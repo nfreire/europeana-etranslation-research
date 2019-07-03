@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "alain cuny",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109413",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Alain Cuny"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Alain Cuny"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Alain Cuny"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Alain Cuny"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Alain Cuny"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Alain Cuny"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Alain Cuny"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Alain Cuny"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Alain Cuny"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Alain Cuny"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Alain Cuny"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Alain Cuny"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Alain Cuny"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Alain Cuny"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿ο κ. Alain Cuny"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿ο κ. Alain Cuny"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Alain Casse"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Alain Casse"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Alain Cuny"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Alain Cuny"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Alain Cluny"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Alain Cluny"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Alain Cuny"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Alain Cuny"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Alain Cuny"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Alain Cuny"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Alain Cuny"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Alain Cuny"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Alain Cuny"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Alain Cuny"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Alain Cuny"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Alain Cuny"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "academie royale musique",
+    "sourceLanguage": "es",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109069",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Academie royale musique"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Academie royale musique"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Danie Royale musique"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Danie Royale musique"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Academie royale musique"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Academie royale musique"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Academie royale musique"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Academie royale musique"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Academie royale musique"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Academie royale musique"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Academie royale musique"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Academie royale musique"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Akademiker"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Akademiker"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Academie royale musique"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Academie royale musique"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Academie royale musique"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Academie royale musique"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Mondo accademico"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Mondo accademico"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Academie royale musique"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Academie royale musique"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Akademie royale musique"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Akademie royale musique"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Academie royale musique"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Academie royale musique"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Academie royale musique"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Royale musique"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Academie royale musique"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Royale musique"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Academia royale musique"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Academia royale musique"
+    }
+  ]
+}

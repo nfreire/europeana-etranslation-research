@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "la nostalgie africaine",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109094",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿la nostalgie africain"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿la nostalgie africain"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿la nostalgie africaine"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿la nostalgie africaine"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿la nostalgie africaine"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿la nostalgie africaine"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿„La nostagie africaine“"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿„La nostagie africaine“"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿la nostalgie africaine"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿la nostalgie africaine"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿la nosztgie africaine"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿la nosztgie africaine"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿la nostalgie afrikaine"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿la nostalgie afrikaine"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿la nodoragie africaine"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿la nodoragie africaine"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿la nostalgie africana"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿la nostalgie africana"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿la nostalgie africaine"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿la nostalgie africaine"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿la nostagie africaine"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿la nostagie africaine"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿la nostagie africine"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿la nostagie africine"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿la nostalgie africaine"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿la nostalgie africaine"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿la nostalgie africain"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿la nostalgie africaină"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿la nostalgie africain"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿la nostalgie africaină"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿la nostalgie africcaine"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿la nostalgie africcaine"
+    }
+  ]
+}

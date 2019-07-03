@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "acne",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9108926",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Akne"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Akne"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿akne"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿akne"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿acne"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿acne"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿aknė"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿aknė"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿acné"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿acné"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿akné"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿akné"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿akne"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿akne"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿ακμή"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿ακμή"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿acne"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿acne"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿acné"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿acné"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿akne"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿akne"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿akné"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿akné"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿akne"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿akne"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿acne"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿acne"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿acne"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿acne"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿acne"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿acne"
+    }
+  ]
+}

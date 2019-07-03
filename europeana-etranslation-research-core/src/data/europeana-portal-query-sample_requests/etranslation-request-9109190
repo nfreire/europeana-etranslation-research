@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "DIEGO DE VALERA",
+    "sourceLanguage": "es",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109190",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿DIEGO DE VALERA"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿DIEGO DE VALERA"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿DIEGO DE VALERO"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿DIEGO DE VALERO"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿DIEGO DE VALERA"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿DIEGO DE VALERA"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿DIEGO DE VALERIA"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿DIEGO DE VALERIA"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿DIEGO DE VALERA"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿DIEGO DE VALERA"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿DIEGO DE VALERA"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿DIEGO DE VALERA"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿DIEGO DE VALERA"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿DIEGO DE VALERA"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿DIEGO DE VALERA"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿DIEGO DE VALERA"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿DIEGO DE VALERA"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿DIEGO DE VALERA"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿DIEGO DE VALERA"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿DIEGO DE VALERA"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿DIEGO DE VALERIA"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿DIEGO DE VALERIA"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿DIEGO DE VALERA"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿DIEGO DE VALERA"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿DIEGO DE VALERA"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿DIEGO DE VALERA"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿DIEGO DE VALERA"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿DIEGO DE VALERIA"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿DIEGO DE VALERA"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿DIEGO DE VALERIA"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿DIEGO DE VALERA"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿DIEGO DE VALERA"
+    }
+  ]
+}

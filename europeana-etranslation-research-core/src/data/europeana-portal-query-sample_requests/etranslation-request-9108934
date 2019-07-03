@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "agia marina skillouras cyprus",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9108934",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Jachthäfen Jachthafen"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Jachthäfen Jachthafen"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Agia marski-seuruurus syprius"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Agia marski-seuruurus syprius"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Agria marina competências como cipró"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Agria marina competências como cipró"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Agia marina goduuras ciprus"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Agia marina goduuras ciprus"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Agia marina skillouras cyprus"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Agia marina skillouras cyprus"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Agia sportkikötő: skipprus"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Agia sportkikötő: skipprus"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Agia småbåtsi kompetenser som cypern"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Agia småbåtsi kompetenser som cypern"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Ιμάντες από δεξιές μαρίνες, Κυπρίδες"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Ιμάντες από δεξιές μαρίνες, Κυπρίδες"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Isa marina skillouras cyprus"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Isa marina skillouras cyprus"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿mentalidad marina de Agia"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿mentalidad marina de Agia"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Agia jahilisadam kui cypraus"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Agia jahilisadam kui cypraus"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Nomencovité dovednosti (Agia marina)"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Nomencovité dovednosti (Agia marina)"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Agia Marmarina Skills"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Agia Marmarina Skills"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Agia marina goalas cyprus"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿portul Agia Skipsoas cicprus"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Agia marina goalas cyprus"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿portul Agia Skipsoas cicprus"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Agia margaralouthopas cyprus"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Agia margaralouthopas cyprus"
+    }
+  ]
+}

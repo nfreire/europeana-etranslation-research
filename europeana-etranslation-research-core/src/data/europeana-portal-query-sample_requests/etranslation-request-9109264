@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "garnati",
+    "sourceLanguage": "es",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109264",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Ohrnati"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Ohrnati"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Garati"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Garati"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Gearnati"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Gearnati"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Gearnati"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Gearnati"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Gearnati"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Gearnati"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Gearnati"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Gearnati"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Gearati"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Gearati"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Gearnati"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Gearnati"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Gearnati"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Gearnati"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Berati"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Berati"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Garanati"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Garanati"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Garnati"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Garnati"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Geearnati"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Geearnati"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Gearnati"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Learnati"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Gearnati"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Learnati"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Gearnati"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Gearnati"
+    }
+  ]
+}

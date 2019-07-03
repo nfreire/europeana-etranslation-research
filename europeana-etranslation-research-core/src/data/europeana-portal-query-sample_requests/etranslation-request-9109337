@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "achille varzi",
+    "sourceLanguage": "de",
+    "targetLanguages": [
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109337",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "FI",
+      "translatedText": "﻿Aichille Varzi"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Aichille Varzi"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Achille Varzi"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Achille Varzi"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Achille Varzi"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Achille Varzi"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Achille Varzi"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Achille Varzi"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Achille Varzi"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Achille Varzi"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Achille Varzi"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Achille Varzi"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Achille Varzi"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Achille Varzi"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Achille Varzi"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Achille Varzi"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Achille Varzi"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Achille Varzi"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Achille Varzi"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Achille Varzi"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Achille Varzi"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Achille Varzi"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Achille Varzi"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Achille Varzi"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Achille Varzi"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Achille Varzi"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Achille Varzi"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Achille Varzi"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Achille Varzi"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Achille Varzi"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Achille Varzi"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Achille Varzi"
+    }
+  ]
+}

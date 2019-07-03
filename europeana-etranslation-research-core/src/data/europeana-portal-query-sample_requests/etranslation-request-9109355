@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "veuves de guerre",
+    "sourceLanguage": "fr",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109355",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Witwen des Krieges"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Witwen des Krieges"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿sotalesket"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿sotalesket"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿viúvas de guerra"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿viúvas de guerra"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿karo našlys"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿karo našlys"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿háborús özvegyek"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿háborús özvegyek"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿krigsmateriel"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿krigsmateriel"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿χήρες πολέμου"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿χήρες πολέμου"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿war widows"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿war widows"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿vedove di guerra"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿vedove di guerra"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿viudas en conflicto"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿viudas en conflicto"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Sõjalesed"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Sõjalesed"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿vdovy"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿vdovy"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿wdowy wojenne"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿wdowy wojenne"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿krigsenker"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿văduvi de război"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿krigsenker"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿văduvi de război"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿oorlogsweduwen"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿oorlogsweduwen"
+    }
+  ]
+}

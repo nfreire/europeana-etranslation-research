@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "aktfoto",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109036",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Aktfoto"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Aktfoto"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿aktfoto"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿aktfoto"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿aktfoto"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿aktfoto"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿laktfoto"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿laktfoto"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿aktfoto"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿aktfoto"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿aktfoto"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿aktfoto"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿aktfoto"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿aktfoto"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿aktfoto"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿aktfoto"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿aktfoato"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿aktfoato"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿aktfoto"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿aktfoto"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿akksfoso"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿akksfoso"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿aktfoto"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿aktfoto"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿aktfona"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿aktfona"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿akttfoo"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿aktfoto"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿akttfoo"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿aktfoto"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿aktfoto"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿aktfoto"
+    }
+  ]
+}

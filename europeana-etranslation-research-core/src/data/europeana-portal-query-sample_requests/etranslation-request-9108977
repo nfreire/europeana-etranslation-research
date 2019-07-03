@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "gatto nero",
+    "sourceLanguage": "it",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9108977",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿schwarze Katze"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿schwarze Katze"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿mustakissat"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿mustakissat"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Gato-bravo preto"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Gato-bravo preto"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Juodoji katė"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Juodoji katė"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿chat noir"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿chat noir"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿fekete macska"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿fekete macska"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿svart katt"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿svart katt"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿μαύρη αγριόγατα"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿μαύρη αγριόγατα"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿black cat"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿black cat"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿gato negro"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿gato negro"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿must kass"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿must kass"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿kočka obecná"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿kočka obecná"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿kot czarny"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿kot czarny"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿sort kat"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿pisică neagră"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿sort kat"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿pisică neagră"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿zwarte kat"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿zwarte kat"
+    }
+  ]
+}

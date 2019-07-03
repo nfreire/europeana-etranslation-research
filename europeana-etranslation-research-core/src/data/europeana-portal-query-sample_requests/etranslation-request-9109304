@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "al kalifa",
+    "sourceLanguage": "de",
+    "targetLanguages": [
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109304",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "FI",
+      "translatedText": "﻿al Kalifa"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿al Kalifa"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Al Kalifa"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Al Kalifa"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Al Kaliffa"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Al Kaliffa"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Al Kalifa"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Al Kalifa"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿al Kalifa"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿al Kalifa"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿al Kalifa"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿al Kalifa"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿al Kalifa"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿al Kalifa"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿al Kalifa"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿al Kalifa"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿al Kalie"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿al Kalie"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿social Kalifa"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿social Kalifa"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Al Kalifa"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Al Kalifa"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿al Kalifa"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿al Kalifa"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿al-Kalifa"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿al-Kalifa"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿al Kalifa"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿din Kalifa"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿al Kalifa"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿din Kalifa"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿al Kalifa"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿al Kalifa"
+    }
+  ]
+}

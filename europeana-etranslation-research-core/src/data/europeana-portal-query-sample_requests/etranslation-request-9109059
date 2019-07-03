@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "A world war",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109059",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Ein Weltkrieg"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Ein Weltkrieg"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Maailmansota"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Maailmansota"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Uma guerra mundial"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Uma guerra mundial"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Pasaulinis karas"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Pasaulinis karas"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Une guerre mondiale"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Une guerre mondiale"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Világháború"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Világháború"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Ett världskrig"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Ett världskrig"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿ΠΑΓΚΟΣΜΙΟΣ ΠΟΛΕΜΟΣ"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿ΠΑΓΚΟΣΜΙΟΣ ΠΟΛΕΜΟΣ"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Una guerra mondiale"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Una guerra mondiale"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Una guerra mundial"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Una guerra mundial"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Ülemaailmne sõda"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Ülemaailmne sõda"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Světová válka"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Světová válka"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Wojna światowa"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Wojna światowa"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿En verdenskrige"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Un război mondial"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿En verdenskrige"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Un război mondial"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Een wereldoorlog"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Een wereldoorlog"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "ignacia martinez",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109329",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Züncnicia Martinez"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Züncnicia Martinez"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿ignancia Martinez"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿ignancia Martinez"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Ignacia maritinez"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Ignacia maritinez"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿ignacia Martinez"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿ignacia Martinez"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿allumacia Martinez"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿allumacia Martinez"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Activacia Martinez"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Activacia Martinez"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Crigacia Martinez"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Crigacia Martinez"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿ignacia Martinez"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿ignacia Martinez"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Ignacia martinez"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Ignacia martinez"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Ignacia martinez"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Ignacia martinez"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Ligcia Martinez"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Ligcia Martinez"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Zaigancia Martinez"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Zaigancia Martinez"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿igcia Martinez"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿igcia Martinez"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿igncia Martinez"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿igacia Martinez"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿igncia Martinez"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿igacia Martinez"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿ignacia Martinez"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿ignacia Martinez"
+    }
+  ]
+}

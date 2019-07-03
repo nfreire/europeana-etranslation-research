@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "alaia",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9108907",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Alaia"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Alaia"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Aaia"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Aaia"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿alaia"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿alaia"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿alaia"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿alaia"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿alaia"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿alaia"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿alaia"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿alaia"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Alaia"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Alaia"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿alaia"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿alaia"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿alaia"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿alaia"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿ALaia"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿ALaia"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Gaia spp."
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Gaia spp."
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿alaia"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿alaia"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿alaia"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿alaia"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿alaia"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿alaia"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿alaia"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿alaia"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿alaia"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿alaia"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Albania Country",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109170",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Land Albanien"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Land Albanien"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Albania maa"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Albania maa"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿País da Albânia"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿País da Albânia"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Albanijos šalis"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Albanijos šalis"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Albanie"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Albanie"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Albánia ország"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Albánia ország"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Albanien Land"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Albanien Land"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Χώρα Αλβανία"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Χώρα Αλβανία"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Paese"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Paese"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Albania"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Albania"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Albaania riik"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Albaania riik"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Země Albánie"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Země Albánie"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Kraj Albanii"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Kraj Albanii"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Albanien Land"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Albania"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Albanien Land"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Albania"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Albanië land"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Albanië land"
+    }
+  ]
+}

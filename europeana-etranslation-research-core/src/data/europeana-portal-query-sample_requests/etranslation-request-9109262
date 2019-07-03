@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Neoliberalismus und Katholische soziallehre",
+    "sourceLanguage": "pl",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109262",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Neoliberismus und Kalrische sozialallehre"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Neoliberismus und Kalrische sozialallehre"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Neoliberismus und Kallische soziallehre"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Neoliberismus und Kallische soziallehre"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Neoliberismus und Kalische sozialehre"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Neoliberismus und Kalische sozialehre"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Neliberismus ir Kallische soziallehre"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Neliberismus ir Kallische soziallehre"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Neolivberismus und Kallische soziallehre"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Neolivberismus und Kallische soziallehre"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Neoliberismus und Kallische sizalalle"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Neoliberismus und Kallische sizalalle"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Neoliberismus und Kallischer soziallere"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Neoliberismus und Kallischer soziallere"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Neoliberismus und Kallische soziallehre"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Neoliberismus und Kallische soziallehre"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Neoliberismus und Kallische soziallehre"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Neoliberismus und Kallische soziallehre"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Neolibermus und Kallische soziallehre"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Neolibermus und Kallische soziallehre"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Neoliberismus und Kallische sozialhre"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Neoliberismus und Kallische sozialhre"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Neolistmus und Kallische soziallehre"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Neolistmus und Kallische soziallehre"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Neoliberismus und Kallische sziallere"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Neoliberismus und Kallische sziallere"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Neoliberismus und Kallische soziallehre"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Neoliberismus und Kallistsche sozilehre"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Neoliberismus und Kallische soziallehre"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Neoliberismus und Kallistsche sozilehre"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Neoliberismus und Kallische soziallehre"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Neoliberismus und Kallische soziallehre"
+    }
+  ]
+}

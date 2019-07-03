@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "alabarda",
+    "sourceLanguage": "es",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109057",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Alabarg"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Alabarg"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿aldriini"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿aldriini"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿respeitar"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿respeitar"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿tvirtai"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿tvirtai"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿alose"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿alose"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿alkód"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿alkód"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿labid"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿labid"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿aluffit"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿aluffit"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿alabide"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿alabide"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿alaccia"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿alaccia"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿alik"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿alik"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿allesidae"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿allesidae"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿alloprad"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿alloprad"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿alvnud"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿alte tipuri de respect"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿alvnud"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿alte tipuri de respect"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿aluin"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿aluin"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "MIERES",
+    "sourceLanguage": "es",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9108980",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿POLIZEI"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿POLIZEI"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿POLIISI"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿POLIISI"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿POLÍCIA"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿POLÍCIA"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿POLICIJA"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿POLICIJA"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿POLICE"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿POLICE"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿RENDŐRSÉG"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿RENDŐRSÉG"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿POLIS"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿POLIS"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿ΑΣΤΥΝΟΜΊΑ"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿ΑΣΤΥΝΟΜΊΑ"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿POLICE"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿POLICE"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿POLIZIA"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿POLIZIA"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿POLITSEI"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿POLITSEI"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿POLICIE"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿POLICIE"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿POLICJA"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿POLICJA"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿POLITI"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿POLIȚIE"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿POLITI"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿POLIȚIE"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿POLITIE"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿POLITIE"
+    }
+  ]
+}

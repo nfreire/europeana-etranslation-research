@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "afrika",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9108963",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Afrika"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Afrika"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Afrika"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Afrika"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Afrika"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Afrika"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Afrika"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Afrika"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Afrique"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Afrique"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Afrika"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Afrika"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Afrika"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Afrika"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Afrika"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Afrika"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Afrika"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Afrika"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Afrika"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Afrika"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Afrika"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Afrika"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Afrika"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Afrika"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Afrika"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Afrika"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Afrika"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿AFRIKA"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Afrika"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿AFRIKA"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Afrika"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Afrika"
+    }
+  ]
+}

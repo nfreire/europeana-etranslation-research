@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "aerial warfare",
+    "sourceLanguage": "da",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9108989",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Risiko des Schranks aus der Luft"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Risiko des Schranks aus der Luft"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Herauskaapin riski"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Herauskaapin riski"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿risco de armários de antenas"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿risco de armários de antenas"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿oro šaldymo spintos rizika"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿oro šaldymo spintos rizika"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿risque lié à une armoire aérienne"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿risque lié à une armoire aérienne"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿légi bútorkockázat"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿légi bútorkockázat"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿luftskåpets risk"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿luftskåpets risk"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿κίνδυνος του εναέριου θαλάμου"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿κίνδυνος του εναέριου θαλάμου"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿aerial cabinet risk"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿aerial cabinet risk"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿rischio aereo"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿rischio aereo"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿riesgo de armario aéreo"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿riesgo de armario aéreo"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Kater-kabinetirisk"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Kater-kabinetirisk"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿riziko letecké techniky"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿riziko letecké techniky"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿ryzyko związane z gabinetem z powietrza"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿ryzyko związane z gabinetem z powietrza"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿risc de cabinet de pilotaj"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿risc de cabinet de pilotaj"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿risico door de antenne"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿risico door de antenne"
+    }
+  ]
+}

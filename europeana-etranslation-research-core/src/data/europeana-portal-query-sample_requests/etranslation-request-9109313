@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Alchemy",
+    "sourceLanguage": "it",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109313",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Alchemie"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Alchemie"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Alchey"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Alchey"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Alchemy"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Alchemy"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Alchemy"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Alchemy"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Alchemy"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Alchemy"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Alchém"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Alchém"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Alechy"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Alechy"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Alchemy"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Alchemy"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Alchemy"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Alchemy"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Alchemy"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Alchemy"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Alchegy"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Alchegy"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Alchemie"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Alchemie"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Alchechy"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Alchechy"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Alchey"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Alchemy"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Alchey"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Alchemy"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Alchemy"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Alchemy"
+    }
+  ]
+}

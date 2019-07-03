@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "djamila boupacha",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109369",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Djamila boupacha"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Djamila boupacha"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Djaila boupacha"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Djaila boupacha"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Djamila boupacha"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Djamila boupacha"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Djamila boupcha"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Djamila boupcha"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Djamila boupaacha"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Djamila boupaacha"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Djamila boaracha"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Djamila boaracha"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Djamila boupacha"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Djamila boupacha"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Djamila boupacha"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Djamila boupacha"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿dott. Djamla boupacha"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿dott. Djamla boupacha"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Djila bopacha"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Djila bopacha"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Djamila boupacha"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Djamila boupacha"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Djamila boupacha"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Djamila boupacha"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Djamila bopacha"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Djamila bopacha"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Djamila boupacha"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Djamila boupacha"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Djamila boupacha"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Djamila boupacha"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Djamila boupacha"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Djamila boupacha"
+    }
+  ]
+}

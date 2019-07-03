@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "agram",
+    "sourceLanguage": "it",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109322",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿AGRAM"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿AGRAM"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿AGRAM"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿AGRAM"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿AGRAM"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿AGRAM"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿AGRAM"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿AGRAM"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿AGRAM"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿AGRAM"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿AGRAM"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿AGRAM"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿AGRAM"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿AGRAM"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿AGRAM"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿AGRAM"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿AGRAM"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿AGRAM"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿AGRAM"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿AGRAM"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿AGRAM"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿AGRAM"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿AGRAM"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿AGRAM"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿AGRAM"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿AGRAM"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿AGRAM"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿AGRAM"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿AGRAM"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿AGRAM"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿AGRM"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿AGRM"
+    }
+  ]
+}

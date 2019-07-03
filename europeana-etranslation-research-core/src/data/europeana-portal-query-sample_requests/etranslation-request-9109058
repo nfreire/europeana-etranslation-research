@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Francisco COll",
+    "sourceLanguage": "es",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109058",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Francisco Coll."
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Francisco Coll."
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Francisco Coll."
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Francisco Coll."
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Deputado Francisco Coll."
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Deputado Francisco Coll."
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Francisco Coll."
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Francisco Coll."
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Francisco Coll."
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Francisco Coll."
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Francisco Coll."
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Francisco Coll."
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Francisco Coll."
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Francisco Coll."
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Francisco Coll."
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Francisco Coll."
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Francisco Coll."
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Francisco Coll."
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Francisco Coll."
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Francisco Coll."
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Francisco Coll."
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Francisco Coll."
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Pan Francisco Coll."
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Pan Francisco Coll."
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Francisco Coll."
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Francisco Coll."
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Francisco Coll."
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Francisco Coll."
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Francisco Coll."
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Francisco Coll."
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Francisco Coll."
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Francisco Coll."
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "affiche",
+    "sourceLanguage": "it",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109098",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿difficher"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿difficher"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Abstadg"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Abstadg"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿mostrar"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿mostrar"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Efektyvas"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Efektyvas"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿affiche"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿affiche"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿OPMITHER"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿OPMITHER"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Afficking"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Afficking"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿της αποτελεσματικότητας"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿της αποτελεσματικότητας"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿afficher"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿afficher"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿mostrar"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿mostrar"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Afficer"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Afficer"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿účinnost"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿účinnost"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿AVITHER"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿AVITHER"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿dazher"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Afiche"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿dazher"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Afiche"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Expannes"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Expannes"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Juan Clemente",
+    "sourceLanguage": "es",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109114",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Juan Clemente"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Juan Clemente"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Juan Clemente"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Juan Clemente"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Juan Clemente"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Juan Clemente"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Juan Clemente"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Juan Clemente"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Juan Clemente"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Juan Clemente"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Juan Clemente"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Juan Clemente"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Juan Clemente"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Juan Clemente"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Juan Clemente"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Juan Clemente"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Juan Clemente"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Juan Clemente"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Juan Clemente"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Juan Clemente"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Juan Clemente"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Juan Clemente"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Juan Clemente"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Juan Clemente"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Clemente"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Clemente"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Juan Clemente"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Juan Clemente"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Juan Clemente"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Juan Clemente"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Juan Clemente"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Juan Clemente"
+    }
+  ]
+}

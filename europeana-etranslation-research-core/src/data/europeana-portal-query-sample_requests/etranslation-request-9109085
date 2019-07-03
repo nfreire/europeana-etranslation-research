@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Kun Tibor",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109085",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Kkun Tibor"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Kkun Tibor"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Kun Tibor"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Kun Tibor"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Kun Tibor"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Kun Tibor"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Kun Tibor"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Kun Tibor"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Kun"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Kun"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Kun Tibor"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Kun Tibor"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Kun Tibor"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Kun Tibor"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Kun Tibor"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Kun Tibor"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿S-kun Tibor"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿S-kun Tibor"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Kun kun"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Kun kun"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Kun Tibor"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Kun Tibor"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Kun Tibor"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Kun Tibor"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Kun – Tibor"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Kun – Tibor"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Kun for deltagelse"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Kun Tibor"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Kun for deltagelse"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Kun Tibor"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Kun je je helpen?"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Kun je je helpen?"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "merza",
+    "sourceLanguage": "es",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109371",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿merza"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿merza"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿merza"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿merza"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿merza"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿merza"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿merza"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿merza"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿merza"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿merza"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿merza"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿merza"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿merza"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿merza"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿merza"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿merza"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿merza"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿merza"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿merza"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿merza"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿merikoger"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿merikoger"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿merza"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿merza"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿merza"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿merza"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿merza"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿merza"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿merza"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿merza"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿merza"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿merza"
+    }
+  ]
+}

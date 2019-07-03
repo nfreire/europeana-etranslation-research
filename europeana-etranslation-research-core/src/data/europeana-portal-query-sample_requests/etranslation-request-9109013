@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Consuegra",
+    "sourceLanguage": "es",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109013",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Consuegra"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Consuegra"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Consulegra"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Consulegra"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Consuegra"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Consuegra"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Consuegra"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Consuegra"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Consuegra"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Consuegra"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Consuegra"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Consuegra"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Consuegra"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Consuegra"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Consuegra"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Consuegra"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Consuegra"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Consuegra"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Consuegra"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Consuegra"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Consuegra"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Consuegra"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Consuegra"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Consuegra"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Consuegra"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Consuegra"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Consuegra"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Consuegra"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Consuegra"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Consuegra"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Consuegra"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Consuegra"
+    }
+  ]
+}

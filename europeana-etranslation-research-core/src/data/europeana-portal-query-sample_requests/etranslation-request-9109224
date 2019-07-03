@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "al signor giacomo moretti",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109224",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿al-Sigor giacomo Moretti"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿al-Sigor giacomo Moretti"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿al Signior giacomo Moretti"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿al Signior giacomo Moretti"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Al sigor giacomo moretti"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Al sigor giacomo moretti"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Al Signor giacomo Moretti"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Al Signor giacomo Moretti"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Al Sigans giacomo Moretti"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Al Sigans giacomo Moretti"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿al Signor giiacomo Moretti"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿al Signor giiacomo Moretti"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿al Sigor giacomo Moretti"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿al Sigor giacomo Moretti"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿al Signor giacomo Moretti"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿al Signor giacomo Moretti"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿al"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿al"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿col o giacomo moretti"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿col o giacomo moretti"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿al Sig- või gicomo Moretti"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿al Sig- või gicomo Moretti"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿al Sign nebo giacomo Moretti"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿al Sign nebo giacomo Moretti"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Al Signor giacomo Moretti"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Al Signor giacomo Moretti"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿al Signe og giacomo Moretti"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Signor giacomo Moretti"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿al Signe og giacomo Moretti"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Signor giacomo Moretti"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿al Siggiacor giacomo Moretti"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿al Siggiacor giacomo Moretti"
+    }
+  ]
+}

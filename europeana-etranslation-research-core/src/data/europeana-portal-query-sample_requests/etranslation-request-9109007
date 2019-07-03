@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "alhajas de luto",
+    "sourceLanguage": "es",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109007",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿kleine Risse"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿kleine Risse"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿pienet halkeamat"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿pienet halkeamat"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿pequenas fissuras"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿pequenas fissuras"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿smulkūs įtrūkimai"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿smulkūs įtrūkimai"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿petites fissures"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿petites fissures"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿kis repedések"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿kis repedések"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿små sprickor"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿små sprickor"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿μικρές σχισμές"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿μικρές σχισμές"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿small cracks"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿small cracks"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿piccole incrinature"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿piccole incrinature"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿väikesed praod"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿väikesed praod"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿drobné praskliny"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿drobné praskliny"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿małe pęknięcia"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿małe pęknięcia"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿små revner"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿crăpături mici"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿små revner"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿crăpături mici"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿barsten in kleine barsten"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿barsten in kleine barsten"
+    }
+  ]
+}

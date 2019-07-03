@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Alces",
+    "sourceLanguage": "fi",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109273",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Alces"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Alces"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Alces"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Alces"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Alces"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Alces"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Table des matières"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Table des matières"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Alces"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Alces"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Alces"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Alces"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Alces"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Alces"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Alces"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Alces"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Alces"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Alces"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Alces"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Alces"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Alces"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Alces"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Alces"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Alces"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Alces"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Alces"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Alces"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Alces"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Alces"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Alces"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Alces"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Alces"
+    }
+  ]
+}

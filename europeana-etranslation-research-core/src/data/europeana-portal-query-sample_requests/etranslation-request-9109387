@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "adamello",
+    "sourceLanguage": "it",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109387",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Adamello Adamello"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Adamello Adamello"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Adamello Adamello"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Adamello Adamello"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Adamello Adamello"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Adamello Adamello"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Adamello Adamello"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Adamello Adamello"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Adamello Adacello"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Adamello Adacello"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Adamello Adaello"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Adamello Adaello"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Adamello Adamo"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Adamello Adamo"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Adamello Adamello"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Adamello Adamello"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Adamello Adamello"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Adamello Adamello"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Adamello Adameello"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Adamello Adameello"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Adatello Adamello"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Adatello Adamello"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Adamello Adamelo"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Adamello Adamelo"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Adarmello Adamello"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Adarmello Adamello"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Adamello Adamello"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Adamelo Adamelo"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Adamello Adamello"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Adamelo Adamelo"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Adamello Adamello"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Adamello Adamello"
+    }
+  ]
+}

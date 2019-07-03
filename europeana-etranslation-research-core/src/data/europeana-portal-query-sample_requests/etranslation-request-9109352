@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Histoire de la dialectique",
+    "sourceLanguage": "pl",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109352",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Histoire de la dialektique"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Histoire de la dialektique"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Histoire de la dialectique"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Histoire de la dialectique"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿História da dialética"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿História da dialética"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Dialectique Histoire de la diectique"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Dialectique Histoire de la diectique"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Histoire de la dialoptique"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Histoire de la dialoptique"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Dialektique"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Dialektique"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Dialeire de la dialectique"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Dialeire de la dialectique"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Histoire de la dialectique"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Histoire de la dialectique"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Histoire de la dialectique"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Histoire de la dialectique"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Histoire de la dialettique"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Histoire de la dialettique"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Histoire de la dialéctica"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Histoire de la dialéctica"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Histoire de la diaque"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Histoire de la diaque"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Histoire de la dialetique"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Histoire de la dialetique"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Histoire de la dialetique"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Hispitoire de la dialectique"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Histoire de la dialetique"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Hispitoire de la dialectique"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Historire de la dialectique"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Historire de la dialectique"
+    }
+  ]
+}

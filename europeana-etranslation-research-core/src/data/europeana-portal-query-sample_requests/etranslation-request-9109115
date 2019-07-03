@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Afonso XIII de Espanha",
+    "sourceLanguage": "pt",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109115",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Afonso XIII von Spanien"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Afonso XIII von Spanien"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Afonso XIII (Espanja)"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Afonso XIII (Espanja)"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Afonso XIII, Ispanijos"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Afonso XIII, Ispanijos"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Afonso XIII d’Espagne"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Afonso XIII d’Espagne"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Afonso XIII. Spanyolország"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Afonso XIII. Spanyolország"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Afonso XIII i Spanien"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Afonso XIII i Spanien"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Afonso XIII Ισπανίας"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Afonso XIII Ισπανίας"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Afonso XIII of Spain"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Afonso XIII of Spain"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Afonso XIII della Spagna"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Afonso XIII della Spagna"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Afonso XIII de España"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Afonso XIII de España"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Afonso XIII,"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Afonso XIII,"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Afonso XIII Španělska"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Afonso XIII Španělska"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Afonso XIII Hiszpania"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Afonso XIII Hiszpania"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Afonso XIII i Spanien"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Afonso XIII din Spania"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Afonso XIII i Spanien"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Afonso XIII din Spania"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Afonso XIII van Spanje"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Afonso XIII van Spanje"
+    }
+  ]
+}

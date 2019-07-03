@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "akkadische lesestucke",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9108987",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿akkale lesestucke"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿akkale lesestucke"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿akkdische lesestuucke"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿akkdische lesestuucke"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿akkadische lesestucke"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿akkadische lesestucke"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿akkische lessestucke"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿akkische lessestucke"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿akkadische lesestucke"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿akkadische lesestucke"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿akkiadische ledestucke"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿akkiadische ledestucke"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿akkadische lesestucke"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿akkadische lesestucke"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿akkadische leevucke"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿akkadische leevucke"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿akkadische lesestucke"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿akkadische lesestucke"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿kkadische leseluccke"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿kkadische leseluccke"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿akkadinische lesestucke"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿akkadinische lesestucke"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿akkardasche lesestucke"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿akkardasche lesestucke"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿akkarsche lesestucke"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿akkarsche lesestucke"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Akkadische lesestucke"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿akkadische lesestucke"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Akkadische lesestucke"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿akkadische lesestucke"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿akkadische lebleucke"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿akkadische lebleucke"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "gerty cori",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109229",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Gerty Cori"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Gerty Cori"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Gerty Cori"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Gerty Cori"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Gerty Cori"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Gerty Cori"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Gerty Cori"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Gerty Cori"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Ginty Cori"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Ginty Cori"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Gerty Cori"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Gerty Cori"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Gerty Cori"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Gerty Cori"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Gerty Cori"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Gerty Cori"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Gerty Cori"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Gerty Cori"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Gerty Cori"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Gerty Cori"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Geraty Cori"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Geraty Cori"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Gerty Cori"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Gerty Cori"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Gerty Cori"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Gerty Cori"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Gery Cori"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Gerty Cori"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Gery Cori"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Gerty Cori"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Gerty Cori"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Gerty Cori"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "alban berg lyrische",
+    "sourceLanguage": "de",
+    "targetLanguages": [
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109340",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "FI",
+      "translatedText": "﻿ALBAN-berg"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿ALBAN-berg"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿ALBAN berg"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿ALBAN berg"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿ALBAN berg"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿ALBAN berg"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Alban berg lyrise"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Alban berg lyrise"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿ALBAN berg"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿ALBAN berg"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Alban berg"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Alban berg"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿ALBAN berg"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿ALBAN berg"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Alban berg"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Alban berg"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿ALBAN berg"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿ALBAN berg"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿ALBAN berg"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿ALBAN berg"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿ALBAN berg"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿ALBAN berg"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿ALBAN BERG"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿ALBAN BERG"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿ALBAN BERG"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿ALBAN BERG"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿ALBAN berg"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿ALBAN berg"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿ALBAN berg"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿ALBAN berg"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Alban berg"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Alban berg"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "alamut",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9108969",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Alamut"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Alamut"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Alam"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Alam"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Alamut"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Alamut"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿alamut"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿alamut"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Alamut"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Alamut"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Alamut"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Alamut"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Alamut"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Alamut"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Alamut"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Alamut"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Alamut"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Alamut"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿alamut"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿alamut"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Alamut"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Alamut"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿amlamut"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿amlamut"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Alamut"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Alamut"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Alamit"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Alamut"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Alamit"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Alamut"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Alamant"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Alamant"
+    }
+  ]
+}

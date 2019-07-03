@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "abschied",
+    "sourceLanguage": "de",
+    "targetLanguages": [
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109339",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "FI",
+      "translatedText": "﻿jäähyväiset"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿jäähyväiset"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿despedida"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿despedida"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿atsisveikinimas"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿atsisveikinimas"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿adieu"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿adieu"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿búcsúztató"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿búcsúztató"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿farewell"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿farewell"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿αποχαιρετιστήρια"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿αποχαιρετιστήρια"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿farewell"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿farewell"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿arrivederci"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿arrivederci"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿despedida"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿despedida"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿lõppsõna"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿lõppsõna"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿závěrem"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿závěrem"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿pożegnanie"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿pożegnanie"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿farvel"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿farewell"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿farvel"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿farewell"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿afscheid"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿afscheid"
+    }
+  ]
+}

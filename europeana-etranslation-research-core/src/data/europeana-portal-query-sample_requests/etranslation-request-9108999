@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "aerial warfare",
+    "sourceLanguage": "cs",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9108999",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿zufällige Optionsscheine"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿zufällige Optionsscheine"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿varsinaiset warrantit"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿varsinaiset warrantit"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿warrants acidentais"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿warrants acidentais"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿netyčiniai varantai"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿netyčiniai varantai"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿les mandats accidentels"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿les mandats accidentels"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿baleseti warrantok"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿baleseti warrantok"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿oförutsedda teckningsoptioner"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿oförutsedda teckningsoptioner"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿πιστοποιητικά τυχαίας επιλογής"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿πιστοποιητικά τυχαίας επιλογής"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿accidental warrants"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿accidental warrants"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿mandati accidentali"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿mandati accidentali"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿certificados de opción (warrants) accidentales"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿certificados de opción (warrants) accidentales"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿juhuslikud ostutähed"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿juhuslikud ostutähed"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿warranty"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿warranty"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿uagtsomme warrants"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿warrante accidentale"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿uagtsomme warrants"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿warrante accidentale"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿ongewenste warrants"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿ongewenste warrants"
+    }
+  ]
+}

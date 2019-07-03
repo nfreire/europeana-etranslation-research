@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Africa Colonial",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109235",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Afrika – Koloniale"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Afrika – Koloniale"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Afrikan kolonialainen alue"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Afrikan kolonialainen alue"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Colonial de África"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Colonial de África"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Afrikos kolonijinė"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Afrikos kolonijinė"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Afrique Colonial"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Afrique Colonial"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Africa Colonium"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Africa Colonium"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Africa Colonial"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Africa Colonial"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Η ΑΦΡΙΚΗ"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Η ΑΦΡΙΚΗ"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Africa Colonial"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Africa Colonial"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Colonial África"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Colonial África"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Aafrika kolonial"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Aafrika kolonial"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Colloon Africa"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Colloon Africa"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Africa Coloil"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Africa Coloil"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Africa Colonial"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Africa Coloniale"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Africa Colonial"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Africa Coloniale"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Afrikaans-Colata"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Afrikaans-Colata"
+    }
+  ]
+}

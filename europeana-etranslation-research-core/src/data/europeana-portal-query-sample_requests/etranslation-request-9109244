@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Londonderry",
+    "sourceLanguage": "es",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109244",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Londonderry"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Londonderry"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Londonderry"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Londonderry"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Londonderry"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Londonderry"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Londonerry"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Londonerry"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Londonderry"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Londonderry"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Londonderry"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Londonderry"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Londonderry"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Londonderry"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Londonderry"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Londonderry"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Londonderry"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Londonderry"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Londonderry"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Londonderry"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Londonderry"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Londonderry"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Londonderry"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Londonderry"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Londonderry"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Londonderry"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Londonderry"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Londonderry"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Londonderry"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Londonderry"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Kern (Stansted) *"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Kern (Stansted) *"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "aifle tower",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109349",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Gewehrturm"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Gewehrturm"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿AIflen torni"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿AIflen torni"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿torre da ajuda"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿torre da ajuda"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿pagalbos bokštas"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿pagalbos bokštas"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿tour de l’aifle"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿tour de l’aifle"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿aifle torony"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿aifle torony"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿torntorn"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿torntorn"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿πύργος aifle"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿πύργος aifle"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿torre di aiutoa"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿torre di aiutoa"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿aïfle torre"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿aïfle torre"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Toitorn"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Toitorn"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿věž"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿věž"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿wieża aproksylu"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿wieża aproksylu"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿støtte til tårn"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿turn de ajutor"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿støtte til tårn"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿turn de ajutor"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿aifle toren"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿aifle toren"
+    }
+  ]
+}

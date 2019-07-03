@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "A cual tipo de carbon se le considera combustible fosil",
+    "sourceLanguage": "es",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109289",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Zu welcher Art von Kohlenstoff wird als Schaumstoffbrennstoff angesehen"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Zu welcher Art von Kohlenstoff wird als Schaumstoffbrennstoff angesehen"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Minkä tyyppistä hiiltä pidetään vaahdon polttoaineena"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Minkä tyyppistä hiiltä pidetään vaahdon polttoaineena"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿A que tipo de carbono é considerado combustível de espuma"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿A que tipo de carbono é considerado combustível de espuma"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Į kurį laikoma, kad anglies rūšis yra putų kuras."
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Į kurį laikoma, kad anglies rūšis yra putų kuras."
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Vers quel type de carbone est considéré comme un carburant en mousse"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Vers quel type de carbone est considéré comme un carburant en mousse"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿A szén mely típusa minősül habtüzelőanyagnak"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿A szén mely típusa minősül habtüzelőanyagnak"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Till vilken typ av kol betraktas som skumbränsle."
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Till vilken typ av kol betraktas som skumbränsle."
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Στον οποίο το είδος άνθρακα θεωρείται καύσιμο από αφρώδες υλικό"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Στον οποίο το είδος άνθρακα θεωρείται καύσιμο από αφρώδες υλικό"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿To which type of carbon is considered as a foam fuel"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿To which type of carbon is considered as a foam fuel"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿A quale tipo di carbonio è considerato combustibile a schiuma"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿A quale tipo di carbonio è considerato combustibile a schiuma"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Millist tüüpi süsinikku kasutatakse vahu kütusena"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Millist tüüpi süsinikku kasutatakse vahu kütusena"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Do kterého typu uhlíku se nakládá jako s pěnovým palivem."
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Do kterého typu uhlíku se nakládá jako s pěnovým palivem."
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Do jakiego typu węgla uznaje się jako paliwo piankowe."
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Do jakiego typu węgla uznaje się jako paliwo piankowe."
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Til hvilken type kulstof betragtes som skumbrændsel"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Tipul de carbon este considerat drept combustibil cu spumă."
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Til hvilken type kulstof betragtes som skumbrændsel"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Tipul de carbon este considerat drept combustibil cu spumă."
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Voor welk soort koolstof wordt beschouwd als een schuimbrandstof"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Voor welk soort koolstof wordt beschouwd als een schuimbrandstof"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Albertina Stouvart",
+    "sourceLanguage": "sv",
+    "targetLanguages": [
+      "de",
+      "no",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109102",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Frau Albertina Stouvar"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Frau Albertina Stouvar"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Albertina Stouvar"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Albertina Stouvar"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Albertina Souvar"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Albertina Souvar"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Albertina Stouvaro"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Albertina Stouvaro"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Mme Albertina Stouvar"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Mme Albertina Stouvar"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Albertina Styouvar"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Albertina Styouvar"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Albertina Stouvar"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Albertina Stouvar"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Ms Albertina Stouvar"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Ms Albertina Stouvar"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Sig.ra Albertina Stouvar"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Sig.ra Albertina Stouvar"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Albertina Stouvar"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Albertina Stouvar"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Pr Albertina Stourevar"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Pr Albertina Stourevar"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Paní Albertina Stouvar"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Paní Albertina Stouvar"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Pani Albertina Stovar"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Pani Albertina Stovar"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Albertina Stoouvar"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Dna Albertina Stouvar"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Albertina Stoouvar"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Dna Albertina Stouvar"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Mevrouw Albertina Stouvar"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Mevrouw Albertina Stouvar"
+    }
+  ]
+}

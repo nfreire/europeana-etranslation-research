@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "bartolome domenech",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109017",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Bartolome Domenech"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Bartolome Domenech"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Bartoperme Domenech"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Bartoperme Domenech"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Bartodome Domech"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Bartodome Domech"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Domenech Bartolome"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Domenech Bartolome"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Bartolome Domenech"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Bartolome Domenech"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Bartolome Domenech"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Bartolome Domenech"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Bartolome Domenich"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Bartolome Domenich"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Bartolome Domenech"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Bartolome Domenech"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Bartolo-Domenech"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Bartolo-Domenech"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Bartoloome Domenech"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Bartoloome Domenech"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Bartotoom Domenech"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Bartotoom Domenech"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Bartotomu Domenech"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Bartotomu Domenech"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿pozyskane ze środowiska naturalnego"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿pozyskane ze środowiska naturalnego"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Bartolome Domenech"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Bartolom Domenech"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Bartolome Domenech"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Bartolom Domenech"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Bartolome Domieech"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Bartolome Domieech"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "uniformen",
+    "sourceLanguage": "it",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109130",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Normierung"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Normierung"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿standardoidaan"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿standardoidaan"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿normalizar"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿normalizar"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿standartizuoti"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿standartizuoti"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿normalisation"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿normalisation"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿szabványosítás"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿szabványosítás"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿standardisera"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿standardisera"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿τυποποίηση"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿τυποποίηση"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿standardise"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿standardise"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿normalizar"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿normalizar"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿standardiseerimine"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿standardiseerimine"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿standardizovat"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿standardizovat"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿zeznormalizować"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿zeznormalizować"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿standardisering"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿standardizare"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿standardisering"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿standardizare"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿standaardiseren"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿standaardiseren"
+    }
+  ]
+}

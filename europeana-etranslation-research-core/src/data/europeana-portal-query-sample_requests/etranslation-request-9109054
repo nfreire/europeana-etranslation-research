@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "kota cina'",
+    "sourceLanguage": "fr",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109054",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿KOTA Cina‘"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿KOTA Cina‘"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Kota Cina ”"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Kota Cina ”"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Kota Cina»"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Kota Cina»"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Kota Cina“"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Kota Cina“"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Kota Cina”"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Kota Cina”"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Kota Cina ”"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Kota Cina ”"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Kota Ciina»"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Kota Ciina»"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Kota Cina’"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Kota Cina’"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Kota Cina\""
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Kota Cina\""
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Kota Cina»"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Kota Cina»"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Kota Cina”"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Kota Cina”"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Kota Cina“"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Kota Cina“"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Kota Cina”"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Kota Cina”"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Kota Cina\""
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Kota Cina”"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Kota Cina\""
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Kota Cina”"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Kota Cina”"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Kota Cina”"
+    }
+  ]
+}

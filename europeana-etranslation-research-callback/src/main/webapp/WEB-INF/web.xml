@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app version="2.5" xmlns="http://java.sun.com/xml/ns/javaee"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd">
+    <!-- General description of your web application -->
+
+    <display-name>eTranslation API callback</display-name>
+    <description>
+	    A webapp to receive the results of translations sent to the eTranslation API
+    </description>
+    <context-param>
+        <description>Location of the repository for storing the translations</description>
+        <param-name>translations.folder</param-name>
+        <param-value>${translations.folder}</param-value>
+    </context-param>
+    <!--  context-param>
+        <description>Credentials for etranslatioin API</description>
+        <param-name>etranslation.credentials</param-name>
+        <param-value>${etranslation.credentials}</param-value>
+    </context-param>
+    <context-param>
+        <description>Credentials for etranslatioin API</description>
+        <param-name>etranslation.username</param-name>
+        <param-value>${etranslation.username}</param-value>
+    </context-param>
+    <context-param>
+        <description>URL for etranslatioin API</description>
+        <param-name>etranslation.url</param-name>
+        <param-value>${etranslation.url}</param-value>
+    </context-param-->
+
+	<servlet>
+        <servlet-name>default</servlet-name>
+        <servlet-class>org.apache.catalina.servlets.DefaultServlet</servlet-class>
+        <init-param>
+            <param-name>debug</param-name>
+            <param-value>1</param-value>
+        </init-param>
+        <init-param>
+            <param-name>listings</param-name>
+            <param-value>true</param-value>
+        </init-param>
+        <load-on-startup>1</load-on-startup>
+    </servlet>
+    
+    <servlet>
+      <servlet-name>CallbackHandler</servlet-name>
+      <servlet-class>eu.europeana.research.etranslation.CallbackServlet</servlet-class>
+      <load-on-startup>5</load-on-startup>
+    </servlet>
+       
+    <servlet>
+      <servlet-name>ErrorHandler</servlet-name>
+      <servlet-class>eu.europeana.research.etranslation.ErrorServlet</servlet-class>
+      <load-on-startup>5</load-on-startup>
+    </servlet>
+       
+    <servlet-mapping>
+      <servlet-name>CallbackHandler</servlet-name>
+      <url-pattern>/callback</url-pattern>
+    </servlet-mapping>
+       
+    <servlet-mapping>
+      <servlet-name>ErrorHandler</servlet-name>
+      <url-pattern>/error</url-pattern>
+    </servlet-mapping>
+
+   <servlet-mapping>
+       <servlet-name>default</servlet-name>
+       <url-pattern>/*</url-pattern>
+   </servlet-mapping>
+   
+    <session-config>
+      <session-timeout>1</session-timeout>
+    </session-config>
+
+</web-app>

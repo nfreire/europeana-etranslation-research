@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "A painting of gauguin",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109162",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Gemälde von Gauguin"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Gemälde von Gauguin"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Gauguinin maalaus"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Gauguinin maalaus"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿A pintura de Gauguin"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿A pintura de Gauguin"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Gauguino dažymas"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Gauguino dažymas"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Une peinture de Gauguin"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Une peinture de Gauguin"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Gauguin festménye"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Gauguin festménye"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Målning av Gautin"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Målning av Gautin"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Βαφή κολόκου"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Βαφή κολόκου"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Pittura di Gauguin"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Pittura di Gauguin"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Un cuadro de Gauguin"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Un cuadro de Gauguin"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Gauguin’i maali"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Gauguin’i maali"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Obraz Gauguin"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Obraz Gauguin"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Malowanie sera Gauguin"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Malowanie sera Gauguin"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Maling af gauin"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿O pictură din Gauguin"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Maling af gauin"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿O pictură din Gauguin"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Een schilderij van Gauguin"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Een schilderij van Gauguin"
+    }
+  ]
+}

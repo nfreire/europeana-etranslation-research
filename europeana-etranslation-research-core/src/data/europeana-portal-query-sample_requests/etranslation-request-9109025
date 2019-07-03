@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "potlist",
+    "sourceLanguage": "de",
+    "targetLanguages": [
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109025",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "FI",
+      "translatedText": "﻿teho"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿teho"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿atividade"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿atividade"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿stiprumas"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿stiprumas"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿potager"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿potager"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿hatásosság"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿hatásosság"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿styrka"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿styrka"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿δραστικότητα"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿δραστικότητα"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿potency"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿potency"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿potenza"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿potenza"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿actividad"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿actividad"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿tugevus"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿tugevus"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿účinnost"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿účinnost"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿aktywność"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿aktywność"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿styrkebestemmelse"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿potența"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿styrkebestemmelse"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿potența"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿werkzaamheid"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿werkzaamheid"
+    }
+  ]
+}

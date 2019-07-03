@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "albert espinosa",
+    "sourceLanguage": "es",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109432",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Albert spinosa"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Albert spinosa"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Albert spinosa"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Albert spinosa"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Albert spinosa"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Albert spinosa"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Albert spinosa"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Albert spinosa"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Albert spinosa"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Albert spinosa"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Albert spinosa"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Albert spinosa"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Albert spinosa"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Albert spinosa"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Albert spinosa"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Albert spinosa"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Albert spinosa"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Albert spinosa"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Albert spinosa"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Albert spinosa"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Albert spinosa"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Albert spinosa"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Albert spinosa"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Albert spinosa"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Albert spinosa"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Albert spinosa"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Albert spinosa"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Albert spinosa"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Albert spinosa"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Albert spinosa"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Albert spinosa"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Albert spinosa"
+    }
+  ]
+}

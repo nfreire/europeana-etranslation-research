@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Melchor cano",
+    "sourceLanguage": "es",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109270",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Melchor cano"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Melchor cano"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Melchtai cano"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Melchtai cano"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Mechor cano"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Mechor cano"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Melchor cano"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Melchor cano"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Melchor cano"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Melchor cano"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Melchor"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Melchor"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Melchor cano"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Melchor cano"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Melchor cano"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Melchor cano"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Melchor cano"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Melchor cano"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Melchor cano"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Melchor cano"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Melchor cano"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Melchor cano"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Melchor cano"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Melchor cano"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Melchor cano"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Melchor cano"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Melchor cano"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Melchor cano"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Melchor cano"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Melchor cano"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Melchor cano"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Melchor cano"
+    }
+  ]
+}

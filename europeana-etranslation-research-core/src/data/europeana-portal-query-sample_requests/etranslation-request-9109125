@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Albert ganado Map collection",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109125",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Sammlung der „Albert ganado Map“ -Sammlung"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Sammlung der „Albert ganado Map“ -Sammlung"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Albertin kangadon kartoittaminen"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Albertin kangadon kartoittaminen"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Coleção do mapa do pórtico Albert"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Coleção do mapa do pórtico Albert"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Albert’o ganado collection"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Albert’o ganado collection"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Collecte des cartes «Albert ganado»"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Collecte des cartes «Albert ganado»"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Albert ganado gyűjtemény"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Albert ganado gyűjtemény"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Albert ganado Karta namninsamling"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Albert ganado Karta namninsamling"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Συλλογή δεδομένων Albert ganado"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Συλλογή δεδομένων Albert ganado"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Ufficio per la raccolta delle mappe di Albert ganado"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Ufficio per la raccolta delle mappe di Albert ganado"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Recogida de mapas de Albert ganado"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Recogida de mapas de Albert ganado"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Albert ganado kaardi kogumine"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Albert ganado kaardi kogumine"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Sbírka per ganalado (Map)"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Sbírka per ganalado (Map)"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Zbiór map Albert ganado"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Zbiór map Albert ganado"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Indsamling af afganado (Albert ganado Map)"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Colecția Albert gantado"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Indsamling af afganado (Albert ganado Map)"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Colecția Albert gantado"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Verzameling van Albert ganado"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Verzameling van Albert ganado"
+    }
+  ]
+}

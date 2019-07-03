@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "adam and the ants",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109288",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Adam und die Ameisen"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Adam und die Ameisen"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Adam ja aineet"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Adam ja aineet"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Adam e os formigas"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Adam e os formigas"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Adam ir kiti asmenys"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Adam ir kiti asmenys"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Adam et les fourmis"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Adam et les fourmis"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Adam és ants"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Adam és ants"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Adam och medlemmarna"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Adam och medlemmarna"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Adam και τα μέλη"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Adam και τα μέλη"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Adam e former"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Adam e former"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Adam y las hormigas"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Adam y las hormigas"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Adam and the ants"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Adam and the ants"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Adam a látky"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Adam a látky"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Adam i antety"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Adam i antety"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Adam og midlerne"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Adam și ants"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Adam og midlerne"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Adam și ants"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Adam en de ants"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Adam en de ants"
+    }
+  ]
+}

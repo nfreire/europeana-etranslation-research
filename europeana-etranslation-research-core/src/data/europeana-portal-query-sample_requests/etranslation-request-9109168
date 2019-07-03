@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "I saw the new Poland",
+    "sourceLanguage": "pl",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109168",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Und Interne Prüfung des neuen Polen"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Und Interne Prüfung des neuen Polen"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Ja uuden Puolan sisäinen tarkastus"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Ja uuden Puolan sisäinen tarkastus"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿E Auditoria Interna da nova Polónia"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿E Auditoria Interna da nova Polónia"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Ir naujosios Lenkijos vidaus audito skyrius"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Ir naujosios Lenkijos vidaus audito skyrius"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Et l’audit interne de la nouvelle Pologne"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Et l’audit interne de la nouvelle Pologne"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿És az új Lengyelország belső ellenőrzése"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿És az új Lengyelország belső ellenőrzése"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Och internrevision av det nya Polen"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Och internrevision av det nya Polen"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Και εσωτερικός έλεγχος της νέας Πολωνίας"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Και εσωτερικός έλεγχος της νέας Πολωνίας"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿And Internal Audit of the new Poland"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿And Internal Audit of the new Poland"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿E Audit interno della nuova Polonia"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿E Audit interno della nuova Polonia"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Y Auditoría Interna del nuevo Polonia"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Y Auditoría Interna del nuevo Polonia"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Ja uue Poola siseaudit"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Ja uue Poola siseaudit"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿A Internal Audit of the new Poland"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿A Internal Audit of the new Poland"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Og Intern Revision i det nye Polen"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Și auditul intern al noii Polonia"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Og Intern Revision i det nye Polen"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Și auditul intern al noii Polonia"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿En Interne Audit van het nieuwe Polen"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿En Interne Audit van het nieuwe Polen"
+    }
+  ]
+}

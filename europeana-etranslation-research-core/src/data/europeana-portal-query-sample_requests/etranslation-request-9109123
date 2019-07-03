@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Al oeste de Roma",
+    "sourceLanguage": "es",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109123",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Westlich von Rom"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Westlich von Rom"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Lännestä Roomaan"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Lännestä Roomaan"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿A oeste de Roma"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿A oeste de Roma"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Į vakarus nuo Romos"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Į vakarus nuo Romos"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿À l’ouest de Rome"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿À l’ouest de Rome"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Rómától nyugatra"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Rómától nyugatra"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Väster om Rom"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Väster om Rom"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Δυτικά της Ρώμης"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Δυτικά της Ρώμης"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿To the west of Rome"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿To the west of Rome"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿A ovest di Roma"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿A ovest di Roma"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Rooma jõest lääne pool"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Rooma jõest lääne pool"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Na západ od Říma"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Na západ od Říma"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Na zachód od Rzymu"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Na zachód od Rzymu"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Vest for Rom"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿La vest de Roma"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Vest for Rom"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿La vest de Roma"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Ten westen van Rome"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Ten westen van Rome"
+    }
+  ]
+}

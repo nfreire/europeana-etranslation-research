@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Advanced materiales energy system",
+    "sourceLanguage": "es",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9108947",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Energiesystem für fortgeschrittene Werkstoffe"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Energiesystem für fortgeschrittene Werkstoffe"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Kehittynyt materiaalien energiajärjestelmä"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Kehittynyt materiaalien energiajärjestelmä"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Sistema de energia de materiais avançados"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Sistema de energia de materiais avançados"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Pažangiųjų medžiagų energetikos sistema"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Pažangiųjų medžiagų energetikos sistema"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Système énergétique des matériaux avancés"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Système énergétique des matériaux avancés"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Fejlett anyagenergia-rendszer"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Fejlett anyagenergia-rendszer"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Energisystem med avancerade material"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Energisystem med avancerade material"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Προηγμένο ενεργειακό σύστημα υλικών"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Προηγμένο ενεργειακό σύστημα υλικών"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Advanced materials energy system"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Advanced materials energy system"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Sistema energetico per i materiali avanzati"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Sistema energetico per i materiali avanzati"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Arenenud materjalienergia süsteem"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Arenenud materjalienergia süsteem"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Energetický systém vyspělých materiálů"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Energetický systém vyspělých materiálů"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿System energetyczny materiałów zaawansowanych"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿System energetyczny materiałów zaawansowanych"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Energisystem for avancerede materialer"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Sistemul energetic al materialelor avansate"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Energisystem for avancerede materialer"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Sistemul energetic al materialelor avansate"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Geavanceerd energievoorzieningssysteem"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Geavanceerd energievoorzieningssysteem"
+    }
+  ]
+}

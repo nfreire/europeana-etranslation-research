@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "aisne",
+    "sourceLanguage": "fr",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109258",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Aisne"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Aisne"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Aisne"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Aisne"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Aisne"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Aisne"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Aisne"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Aisne"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Aisne"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Aisne"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Aisne"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Aisne"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Aisne"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Aisne"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Aisne"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Aisne"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Aisne"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Aisne"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Aisne"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Aisne"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Aisne"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Aisne"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Aisne"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Aisne"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Aisne"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Aisne"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Aisne"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Aisne"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Aisne"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Aisne"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Aisne"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Aisne"
+    }
+  ]
+}

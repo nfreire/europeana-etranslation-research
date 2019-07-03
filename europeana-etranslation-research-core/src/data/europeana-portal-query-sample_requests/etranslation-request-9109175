@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "leopoldino de las cuevas",
+    "sourceLanguage": "es",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109175",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Höhlen,"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Höhlen,"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿luolat;"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿luolat;"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿grutas skie"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿grutas skie"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿olurgi opolskie"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿olurgi opolskie"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿grottes"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿grottes"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Małopolskie"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Małopolskie"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿grotters leopolskie"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿grotters leopolskie"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿σπηλιές"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿σπηλιές"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿caves leopolskie"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿caves leopolskie"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿grotte di Opole"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿grotte di Opole"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Pileopolskie"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Pileopolskie"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿jeskyně leopolskie"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿jeskyně leopolskie"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿opolskie"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿opolskie"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿huler leopolskie"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿grote leopolskie"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿huler leopolskie"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿grote leopolskie"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿grotten"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿grotten"
+    }
+  ]
+}

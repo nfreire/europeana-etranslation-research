@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Abel Combes",
+    "sourceLanguage": "fr",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109186",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Abel Combes"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Abel Combes"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Abel Combes"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Abel Combes"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Abel Combines"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Abel Combines"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Abel Combes"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Abel Combes"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Abel Combes"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Abel Combes"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Abel Combes"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Abel Combes"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Abel Combes"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Abel Combes"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Abel Combes"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Abel Combes"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Abel Combines"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Abel Combines"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Abel Combes"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Abel Combes"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Abel Combes"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Abel Combes"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Abel Combes"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Abel Combes"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Abel Combes"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Abel Combes"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Abel Combes"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Abel Combes"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Abel Combes"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Abel Combes"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Abel Combes"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Abel Combes"
+    }
+  ]
+}

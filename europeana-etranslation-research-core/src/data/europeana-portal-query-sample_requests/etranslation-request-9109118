@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "adulto mayor",
+    "sourceLanguage": "es",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109118",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Erwachsener"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Erwachsener"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿aikuinen"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿aikuinen"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿adultos"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿adultos"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿suaugusiųjų"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿suaugusiųjų"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿adulte"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿adulte"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿felnőtt"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿felnőtt"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿vuxen"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿vuxen"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿ενήλικοι"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿ενήλικοι"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿adult"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿adult"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿adulti"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿adulti"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿täiskasvanud"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿täiskasvanud"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿dospělí"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿dospělí"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿dorośli"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿dorośli"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿voksen"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿adulți"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿voksen"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿adulți"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿volwassen"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿volwassen"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "africa orientale italiana",
+    "sourceLanguage": "it",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109382",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Ostafrika"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Ostafrika"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Itä-Afrikka"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Itä-Afrikka"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿África Oriental"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿África Oriental"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Rytų Afrika"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Rytų Afrika"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Afrique orientale"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Afrique orientale"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Kelet-Afrika"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Kelet-Afrika"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Östra Afrika"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Östra Afrika"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Ανατολική Αφρική"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Ανατολική Αφρική"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Eastern Africa"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Eastern Africa"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿África oriental"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿África oriental"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Ida-Aafrika"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Ida-Aafrika"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Východní Afrika"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Východní Afrika"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Afryka Wschodnia"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Afryka Wschodnia"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Østafrika"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Africa de Est"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Østafrika"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Africa de Est"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Oost-Afrika"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Oost-Afrika"
+    }
+  ]
+}

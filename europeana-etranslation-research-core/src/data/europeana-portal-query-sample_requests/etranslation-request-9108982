@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "aballea",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9108982",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Aballea..."
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Aballea..."
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿aballesa..."
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿aballesa..."
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿abala..."
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿abala..."
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿ableera..."
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿ableera..."
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿abslea..."
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿abslea..."
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿ABALABA..."
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿ABALABA..."
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿aballela..."
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿aballela..."
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿aballea..."
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿aballea..."
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿aballeli..."
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿aballeli..."
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿aboralcosa..."
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿aboralcosa..."
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿aballea..."
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿aballea..."
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿ablea..."
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿ablea..."
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿aballela..."
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿aballela..."
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿aballea..."
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿aballea..."
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿aballea..."
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿aballea..."
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Ballea..."
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Ballea..."
+    }
+  ]
+}

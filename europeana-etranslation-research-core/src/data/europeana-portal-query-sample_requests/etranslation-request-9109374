@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "airplane",
+    "sourceLanguage": "sv",
+    "targetLanguages": [
+      "de",
+      "no",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109374",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Flugzeug"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Flugzeug"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Lentokone"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Lentokone"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Avião"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Avião"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Lėktuvas"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Lėktuvas"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Avion"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Avion"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Repülőgép"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Repülőgép"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Αεροπλάνο"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Αεροπλάνο"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Airplane"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Airplane"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Aeroplano"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Aeroplano"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Avión"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Avión"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Lennuk"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Lennuk"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Letadlo"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Letadlo"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Samolot"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Samolot"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Fly"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Avion"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Fly"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Avion"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Vliegtuig"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Vliegtuig"
+    }
+  ]
+}

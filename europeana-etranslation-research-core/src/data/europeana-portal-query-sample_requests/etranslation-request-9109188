@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Traditional Outfits Germany",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109188",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Klassisches Muster in Deutschland"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Klassisches Muster in Deutschland"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Perinteinen Saksa"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Perinteinen Saksa"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Saída tradicional Alemanha"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Saída tradicional Alemanha"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Tradicinės avarijos Vokietijoje"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Tradicinės avarijos Vokietijoje"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Résultat traditionnel de l’Allemagne"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Résultat traditionnel de l’Allemagne"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Hagyományos kitelepítésű Németország"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Hagyományos kitelepítésű Németország"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Traditionsenligt i Tyskland"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Traditionsenligt i Tyskland"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Παραδοσιακές εκδηλώσεις εκτός Γερμανίας"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Παραδοσιακές εκδηλώσεις εκτός Γερμανίας"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Un'uscita tradizionale dalla Germania"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Un'uscita tradizionale dalla Germania"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Resultados tradicionales en Alemania"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Resultados tradicionales en Alemania"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Traditsioonilised margid: saksamaa"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Traditsioonilised margid: saksamaa"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Tradiční přeplňování v Německu"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Tradiční přeplňování v Německu"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Tradycyjne wyjścia Niemiec"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Tradycyjne wyjścia Niemiec"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Traditionelt udpassede Tyskland"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿În mod tradițional, Germania"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Traditionelt udpassede Tyskland"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿În mod tradițional, Germania"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Traditioneel Duitsland"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Traditioneel Duitsland"
+    }
+  ]
+}

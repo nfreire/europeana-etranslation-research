@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "adefonsus",
+    "sourceLanguage": "es",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109112",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Rajiformes"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Rajiformes"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿adefonsus"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿adefonsus"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿adef"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿adef"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿adefonsus"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿adefonsus"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿adfonsus"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿adfonsus"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Adadessus"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Adadessus"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿adefonus"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿adefonus"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿ADefontus"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿ADefontus"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿adefonsus"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿adefonsus"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿adecis"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿adecis"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿adefonsus"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿adefonsus"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿adefonsus"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿adefonsus"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿adefonsus"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿adefonsus"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿adefonsus"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿adefonsus"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿adefonsus"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿adefonsus"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Aadefsus"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Aadefsus"
+    }
+  ]
+}

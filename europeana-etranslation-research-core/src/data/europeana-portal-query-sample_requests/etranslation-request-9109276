@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Alberto Guglielmotti",
+    "sourceLanguage": "it",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109276",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Herr Alberto Guglielmotti"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Herr Alberto Guglielmotti"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Alberto Guglielmotti"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Alberto Guglielmotti"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Alberto Guglielmotti"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Alberto Guglielmotti"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Alberto Gulielmotti"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Alberto Gulielmotti"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Alberto Guglielmoti"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Alberto Guglielmoti"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Mr Alberto Guglielmotti"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Mr Alberto Guglielmotti"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Alberto Guglielmotti"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Alberto Guglielmotti"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Alberto Guglielmotti"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Alberto Guglielmotti"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Alberto Guglielmotti"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Alberto Guglielmotti"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Alberto Guglielmotti"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Alberto Guglielmotti"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Alberto Guglielimetti"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Alberto Guglielimetti"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Alberto Guglielmotti"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Alberto Guglielmotti"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Alberto Guglielmotti"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Alberto Guglielmotti"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Alberto Guglielmotti"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Alberto Guglielmotti"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Alberto Guglielmotti"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Alberto Guglielmotti"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Alberto Guglielmotti"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Alberto Guglielmotti"
+    }
+  ]
+}

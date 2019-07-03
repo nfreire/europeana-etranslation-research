@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "boda gitana",
+    "sourceLanguage": "fr",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109394",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Boda gitana"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Boda gitana"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Boda Gitaa"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Boda Gitaa"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Boda Gitana"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Boda Gitana"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Boda Gitaa"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Boda Gitaa"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Boda Gitala"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Boda Gitala"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Boda Gitana"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Boda Gitana"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Boda Gitana"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Boda Gitana"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Boda gitana"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Boda gitana"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Boda Gittana"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Boda Gittana"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Boda Gitana"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Boda Gitana"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Boda Gitana"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Boda Gitana"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Boda Gitana"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Boda Gitana"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Boda Gitana"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Boda Gitana"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Boda Gitana"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Boda Gitana"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Boda Gitana"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Boda Gitana"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Boda Gitana"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Boda Gitana"
+    }
+  ]
+}

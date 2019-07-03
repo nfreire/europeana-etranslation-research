@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "adres els meijns",
+    "sourceLanguage": "nl",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "ca"
+    ]
+  },
+  "requestId": "9108960",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Hausanschrift"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Hausanschrift"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿katuosoite"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿katuosoite"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿rua"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿rua"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿gatvės adresas"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿gatvės adresas"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿rue des adresses des rues"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿rue des adresses des rues"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿utca címe"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿utca címe"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿gatuadress"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿gatuadress"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿οδός και οδός"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿οδός και οδός"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿street address els"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿street address els"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿indirizzo postale"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿indirizzo postale"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿dirección de la calle"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿dirección de la calle"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Tänavateelahkd"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Tänavateelahkd"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿ulice v ulici"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿ulice v ulici"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿adresy ulic"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿adresy ulic"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿gadenavn"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿difuzoare"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿gadenavn"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿difuzoare"
+    }
+  ]
+}

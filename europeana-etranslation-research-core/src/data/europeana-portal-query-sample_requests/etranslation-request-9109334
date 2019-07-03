@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "salvatierra de santiago",
+    "sourceLanguage": "es",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109334",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Salvativra de santiago"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Salvativra de santiago"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Salvatierra de santiago"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Salvatierra de santiago"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Salvatira de santiago"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Salvatira de santiago"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Salvatierra de soantiago"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Salvatierra de soantiago"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Salvatierra de sagago"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Salvatierra de sagago"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Salvatierra de santiago"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Salvatierra de santiago"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿El Salvatierra de santigo"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿El Salvatierra de santigo"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Salvatierra de santiago"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Salvatierra de santiago"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Salvatierra de santiago"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Salvatierra de santiago"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Salvatererra de santiago"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Salvatererra de santiago"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Salvatierra de santigo"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Salvatierra de santigo"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Salentatira de santigo"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Salentatira de santigo"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Salvatira de sanprego"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Salvatira de sanprego"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Salvatierra de santiago"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Salvatira de santiago"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Salvatierra de santiago"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Salvatira de santiago"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Salvadorra de santiago"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Salvadorra de santiago"
+    }
+  ]
+}

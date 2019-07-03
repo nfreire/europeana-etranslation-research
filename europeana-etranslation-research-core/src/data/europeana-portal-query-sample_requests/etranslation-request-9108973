@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Agatha Christie",
+    "sourceLanguage": "es",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9108973",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Agatha Christie"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Agatha Christie"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Agatha Christie"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Agatha Christie"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Agatha Christie"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Agatha Christie"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Agatha Christie"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Agatha Christie"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Agatha Christie"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Agatha Christie"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Aghara Christie"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Aghara Christie"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Agata Christie"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Agata Christie"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Η Αγκάθα Κρίστι"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Η Αγκάθα Κρίστι"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Agatha Christie"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Agatha Christie"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Agatha Christie"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Agatha Christie"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Agatha Christie"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Agatha Christie"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Paní Agatha Christieová"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Paní Agatha Christieová"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Agatha Christie"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Agatha Christie"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Agatha Christie"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Agatha Christie"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Agatha Christie"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Agatha Christie"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Agatha Christie"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Agatha Christie"
+    }
+  ]
+}

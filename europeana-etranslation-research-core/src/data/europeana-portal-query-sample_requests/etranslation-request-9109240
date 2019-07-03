@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Occupation of Japan",
+    "sourceLanguage": "pl",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109240",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Japan, Essig"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Japan, Essig"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Japanin viinietikka"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Japanin viinietikka"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Vinagre do Japão"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Vinagre do Japão"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Japonijos actas"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Japonijos actas"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Vinaigre du Japon"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Vinaigre du Japon"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Japán ecet"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Japán ecet"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Japansk vinäger"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Japansk vinäger"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Ξύδι της Ιαπωνίας"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Ξύδι της Ιαπωνίας"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Vinegar of Japan"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Vinegar of Japan"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Aceto del Giappone"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Aceto del Giappone"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Vinagre de Japón"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Vinagre de Japón"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Jaapani äädikas"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Jaapani äädikas"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Ocet Japonska"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Ocet Japonska"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Eddike fra Japan"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Oțetul japonez"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Eddike fra Japan"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Oțetul japonez"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Azijn van Japan"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Azijn van Japan"
+    }
+  ]
+}

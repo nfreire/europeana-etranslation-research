@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Adamsthal",
+    "sourceLanguage": "cs",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109344",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Adamsthal"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Adamsthal"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Adaamsthal"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Adaamsthal"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Adaamsthal"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Adaamsthal"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Adaamsathal"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Adaamsathal"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Aldaamsthal"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Aldaamsthal"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Adaamshal"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Adaamshal"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Adaamsthal"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Adaamsthal"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Adaamshal"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Adaamshal"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Adaamsthal"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Adaamsthal"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Adaamsthal"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Adaamsthal"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Adaamshal"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Adaamshal"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Adaamsenthal"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Adaamsenthal"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Adaamsthal"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Adaamsthal"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Daammenthal"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Adaamsthal"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Daammenthal"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Adaamsthal"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Adaamsthal"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Adaamsthal"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "alcohol",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109359",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Alkohol"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Alkohol"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿alkoholi"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿alkoholi"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿álcool"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿álcool"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿alkoholis"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿alkoholis"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿alcool"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿alcool"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿alkohol"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿alkohol"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿alkohol"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿alkohol"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿αλκοόλη"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿αλκοόλη"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿alcole"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿alcole"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿alcohol"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿alcohol"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿alkohol"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿alkohol"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿alkohol"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿alkohol"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿alkohol"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿alkohol"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿alkohol"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿alcool"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿alkohol"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿alcool"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿alcohol"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿alcohol"
+    }
+  ]
+}

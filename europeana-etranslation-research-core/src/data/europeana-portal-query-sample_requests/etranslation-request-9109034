@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Glaubens Kampf und Sieg",
+    "sourceLanguage": "de",
+    "targetLanguages": [
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109034",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "FI",
+      "translatedText": "﻿Taistelu ja voitto"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Taistelu ja voitto"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Batalha e vitória"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Batalha e vitória"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Mūšis ir pergalė"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Mūšis ir pergalė"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿La lutte et la victoire"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿La lutte et la victoire"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Harc és győzelem"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Harc és győzelem"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Kamp och seger"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Kamp och seger"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Μάχη και νίκη"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Μάχη και νίκη"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Battle and victory"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Battle and victory"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Battaglia e vittoria"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Battaglia e vittoria"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿La batalla y la victoria"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿La batalla y la victoria"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Lahing ja võidu"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Lahing ja võidu"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Boj a vítězství"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Boj a vítězství"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Bitwa i zwycięstwo"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Bitwa i zwycięstwo"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Kamp og sejr"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Luptă și victorie"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Kamp og sejr"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Luptă și victorie"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Strijd en overwinning"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Strijd en overwinning"
+    }
+  ]
+}

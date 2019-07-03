@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "alberto frances serra",
+    "sourceLanguage": "es",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109006",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Alberto Friices Serra"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Alberto Friices Serra"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Alberto raices Serra"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Alberto raices Serra"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Alberto frimes Serra"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Alberto frimes Serra"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Alberto frits Serra"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Alberto frits Serra"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Alberto frittes Serra"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Alberto frittes Serra"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Alberto frices Serra"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Alberto frices Serra"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Alberto freices Serra"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Alberto freices Serra"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Alberto frices Serra"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Alberto frices Serra"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Alberto frices Serra"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Alberto frices Serra"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Alberto frices Serra"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Alberto frices Serra"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Alberto Rifris Serra"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Alberto Rifris Serra"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Alberto frity"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Alberto frity"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Alberto Fratices Serra"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Alberto Fratices Serra"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Alberto Tandces Serra"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Alberto fruit Serra"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Alberto Tandces Serra"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Alberto fruit Serra"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Alberto fries Serra"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Alberto fries Serra"
+    }
+  ]
+}

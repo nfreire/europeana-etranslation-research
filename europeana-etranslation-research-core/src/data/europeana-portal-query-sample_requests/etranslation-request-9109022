@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "aerodinamica y actuaciones",
+    "sourceLanguage": "es",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109022",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Aerodynamik und Maßnahmen"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Aerodynamik und Maßnahmen"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿aerodynamica ja aerodynamiikkatoiminnot"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿aerodynamica ja aerodynamiikkatoiminnot"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿aerodinamica e ações"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿aerodinamica e ações"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿aerodinamerica ir veiksmai"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿aerodinamerica ir veiksmai"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿aérodynaca et actions"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿aérodynaca et actions"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿aerodinamica és -intézkedések"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿aerodinamica és -intézkedések"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿aerodynamica och åtgärder"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿aerodynamica och åtgärder"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿aerδυναμΙCA και δράσεις"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿aerδυναμΙCA και δράσεις"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿aerodynamica and actions"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿aerodynamica and actions"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿aerdinamica e azioni"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿aerdinamica e azioni"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿aerodünamiat ja selle meetmed"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿aerodünamiat ja selle meetmed"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿aerodynamika a akce"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿aerodynamika a akce"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿aerodynamika i działania"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿aerodynamika i działania"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿aerodynamica og handlinger"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿aerodinamica și acțiuni"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿aerodynamica og handlinger"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿aerodinamica și acțiuni"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿aerodynamica en acties"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿aerodynamica en acties"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "activity",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9108945",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Tätigkeit"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Tätigkeit"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿toiminta"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿toiminta"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿atividade"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿atividade"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿veikla"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿veikla"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿activité"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿activité"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿tevékenység"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿tevékenység"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿aktivitet"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿aktivitet"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿δραστηριότητα"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿δραστηριότητα"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿attività"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿attività"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿actividad"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿actividad"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿tegevus"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿tegevus"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿činnost"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿činnost"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿działalność"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿działalność"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿aktivitet"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿activitate"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿aktivitet"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿activitate"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿activiteit"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿activiteit"
+    }
+  ]
+}

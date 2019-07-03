@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "arthur",
+    "sourceLanguage": "de",
+    "targetLanguages": [
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109083",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "FI",
+      "translatedText": "﻿Arthur"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Arthur"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Arthur"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Arthur"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Arthur"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Arthur"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Arthur"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Arthur"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Arthur"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Arthur"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Arthur"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Arthur"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Arthur"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Arthur"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Arthur"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Arthur"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Arthur"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Arthur"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Arthur"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Arthur"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Arthur"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Arthur"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Arthur"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Arthur"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Arthur"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Arthur"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Arthur"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Arthur"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Arthur"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Arthur"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Arthur"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Arthur"
+    }
+  ]
+}

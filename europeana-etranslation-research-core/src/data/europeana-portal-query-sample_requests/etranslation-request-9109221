@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "dance song",
+    "sourceLanguage": "fr",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109221",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Dance Song"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Dance Song"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Tanssikappale"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Tanssikappale"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Dança de dança"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Dança de dança"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Šokio daina"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Šokio daina"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Táncdal"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Táncdal"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Danslåten"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Danslåten"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Τραγούδι χορού"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Τραγούδι χορού"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Dance song"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Dance song"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Canzone"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Canzone"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Canciones de baile"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Canciones de baile"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Tantsulaul"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Tantsulaul"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Taneční píseň"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Taneční píseň"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Piosenka tańca"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Piosenka tańca"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Dansesang"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Dans de dans"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Dansesang"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Dans de dans"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Dansong"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Dansong"
+    }
+  ]
+}

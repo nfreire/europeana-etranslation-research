@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Alarcon Herrero",
+    "sourceLanguage": "es",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109292",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Alarm mit Schmied"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Alarm mit Schmied"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Hälytin, jossa on seppä"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Hälytin, jossa on seppä"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Alarme com ferreiro"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Alarme com ferreiro"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Pavojaus signalas su kalvis"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Pavojaus signalas su kalvis"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Alarme avec ferronnier"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Alarme avec ferronnier"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Hangos riadvány kovácsokkal"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Hangos riadvány kovácsokkal"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Larm med smed."
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Larm med smed."
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Συναγερμός με σιδηρουργία"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Συναγερμός με σιδηρουργία"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Alarm with blacksmith"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Alarm with blacksmith"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Allarme di fabbro di fabbro"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Allarme di fabbro di fabbro"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Häiresignaal „Sepp”"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Häiresignaal „Sepp”"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Poplachový poplach"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Poplachový poplach"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Alarm z Kowal"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Alarm z Kowal"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Alarm ved smed"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Alarmă cu „fierar”"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Alarm ved smed"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Alarmă cu „fierar”"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Alarm met Smid"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Alarm met Smid"
+    }
+  ]
+}

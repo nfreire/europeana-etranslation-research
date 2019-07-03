@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "constructed language",
+    "sourceLanguage": "ro",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109421",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Sprache der Einheit"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Sprache der Einheit"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿kieliyksikön kieli"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿kieliyksikön kieli"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿língua do serviço"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿língua do serviço"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿vieneto kalba"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿vieneto kalba"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿langue"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿langue"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿egységnyelv"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿egységnyelv"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿enhetsspråk"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿enhetsspråk"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿γλώσσα μονάδας"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿γλώσσα μονάδας"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿unit language"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿unit language"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿unità linguistica"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿unità linguistica"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿idioma de la unidad"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿idioma de la unidad"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿üksuse keel"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿üksuse keel"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿jazyk jednotky"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿jazyk jednotky"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿język jednostki"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿język jednostki"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿enhedssprog"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿enhedssprog"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿taal van de eenheid"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿taal van de eenheid"
+    }
+  ]
+}

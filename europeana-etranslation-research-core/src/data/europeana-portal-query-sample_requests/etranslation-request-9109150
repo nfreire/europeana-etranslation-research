@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Gottfried Huppertz",
+    "sourceLanguage": "de",
+    "targetLanguages": [
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109150",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "FI",
+      "translatedText": "﻿Gottfried Huppertz"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Gottfried Huppertz"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Gottfried Hperttz"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Gottfried Hperttz"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Gottfried Huppertz"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Gottfried Huppertz"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Gottfried Hatppertz"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Gottfried Hatppertz"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Gottfried Huppertz"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Gottfried Huppertz"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Gottfried Huppertz"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Gottfried Huppertz"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Gottfried Huppertz"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Gottfried Huppertz"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Mr Gottfried Huppertz"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Mr Gottfried Huppertz"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Sig. Gottfried Huptz"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Sig. Gottfried Huptz"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Sr. Gottfried Huppert"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Sr. Gottfried Huppert"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Hr Gottfried Hpertz"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Hr Gottfried Hpertz"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Pan Gottfried Huppertz"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Pan Gottfried Huppertz"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Gottfried Huppertz"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Gottfried Huppertz"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Gottfried Hupperz"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Dl Gottfried Huppertz"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Gottfried Hupperz"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Dl Gottfried Huppertz"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿De heer Gottfried Hppertz"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿De heer Gottfried Hppertz"
+    }
+  ]
+}

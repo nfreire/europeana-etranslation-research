@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "regola delli cinque",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109353",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Rotte Delli"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Rotte Delli"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Cola Delli ckinque"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Cola Delli ckinque"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿regola Delli"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿regola Delli"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿regola Delli ccinque"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿regola Delli ccinque"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿regola Delli cinque"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿regola Delli cinque"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿regola Delli cinque"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿regola Delli cinque"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿regola Delli cinque"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿regola Delli cinque"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿regola Delli cinque"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿regola Delli cinque"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿regola Delli cinte"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿regola Delli cinte"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿excepción Delli Cinque"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿excepción Delli Cinque"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿regola Delli cinque"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿regola Delli cinque"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿regola Delli cinque"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿regola Delli cinque"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Della Delcinque"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Della Delcinque"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿regola Delli cinque"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿regola Delli cinque"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿regola Delli cinque"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿regola Delli cinque"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Regola Delli cinque"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Regola Delli cinque"
+    }
+  ]
+}

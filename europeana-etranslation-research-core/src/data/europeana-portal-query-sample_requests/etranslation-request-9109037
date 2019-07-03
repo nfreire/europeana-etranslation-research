@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "frederick ii",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109037",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Frederick ii"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Frederick ii"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Frederick ii"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Frederick ii"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Frederick ii"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Frederick ii"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Frederick ii"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Frederick ii"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Frederick ii"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Frederick ii"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Frederick ii"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Frederick ii"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Frederick ii"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Frederick ii"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Frederick ii"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Frederick ii"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Frederick ii"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Frederick ii"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Frederick ii"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Frederick ii"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Frederick ii"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Frederick ii"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Frederick ii"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Frederick ii"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Frederick ii"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Frederick ii"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Frederick ii"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Frederick ii"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Frederick ii"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Frederick ii"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Frederick ii"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Frederick ii"
+    }
+  ]
+}

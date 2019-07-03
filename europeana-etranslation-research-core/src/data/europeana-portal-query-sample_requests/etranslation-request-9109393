@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Lire dans le Cri du Peuple",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109393",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Lire dans le Cri du Peuple"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Lire dans le Cri du Peuple"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Lire dans le Cri du People"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Lire dans le Cri du People"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Lire dans le Cri du Peuple"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Lire dans le Cri du Peuple"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿„Lire dans le Cri du Peuple“"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿„Lire dans le Cri du Peuple“"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Dans le lit du Peuple"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Dans le lit du Peuple"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Lire dans le Cri du Peuple"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Lire dans le Cri du Peuple"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Luire dans le Cri du Peuple"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Luire dans le Cri du Peuple"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Lire dans le Cri du Peuple"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Lire dans le Cri du Peuple"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿£dans le Cali du Peuple"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿£dans le Cali du Peuple"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Loire dans le Cri du Peuple"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Loire dans le Cri du Peuple"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Töölispartei sõjaväes"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Töölispartei sõjaväes"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Lire dans le Cri du Peuple"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Lire dans le Cri du Peuple"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Lire dans le Cri du Peuple"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Lire dans le Cri du Peuple"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Lire dans le Cri du Peuple"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Loire dans le Crari du Peuple"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Lire dans le Cri du Peuple"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Loire dans le Crari du Peuple"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Liel dans le Cri du Peuple"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Liel dans le Cri du Peuple"
+    }
+  ]
+}

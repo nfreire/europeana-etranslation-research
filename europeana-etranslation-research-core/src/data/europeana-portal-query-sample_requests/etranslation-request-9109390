@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "hendrik jansen",
+    "sourceLanguage": "nl",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "ca"
+    ]
+  },
+  "requestId": "9109390",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Hendrik Jansen"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Hendrik Jansen"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Hendrik Jansen"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Hendrik Jansen"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Hendrik Jansen"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Hendrik Jansen"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Hendrik Jansen"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Hendrik Jansen"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Hendrik Jansen"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Hendrik Jansen"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Hendrik Jansen"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Hendrik Jansen"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Hendrik Jansen"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Hendrik Jansen"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Hendrik Jansen"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Hendrik Jansen"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Hendrik Jansen"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Hendrik Jansen"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Hendrik Jansen"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Hendrik Jansen"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Hendrik Jansen"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Hendrik Jansen"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Hendrik Jansen"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Hendrik Jansen"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Hendrik Jansen"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Hendrik Jansen"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Hendrik Jansen"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Hendrik Jansen"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Hendrik Jansen"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Hendrik Jansen"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Hendrik Jansen"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Hendrik Jansen"
+    }
+  ]
+}

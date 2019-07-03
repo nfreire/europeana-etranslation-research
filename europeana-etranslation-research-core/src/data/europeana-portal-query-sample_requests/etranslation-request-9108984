@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "air forces",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9108984",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Luftstreitkräfte"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Luftstreitkräfte"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿ilmavoimat"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿ilmavoimat"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿forças aéreas"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿forças aéreas"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿oro pajėgos"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿oro pajėgos"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿forces aériennes"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿forces aériennes"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿légierő"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿légierő"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿flygstyrkor"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿flygstyrkor"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿αεροπορικές δυνάμεις"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿αεροπορικές δυνάμεις"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿forze aeree"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿forze aeree"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿fuerzas aéreas"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿fuerzas aéreas"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿õhujõud"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿õhujõud"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿vzdušné síly"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿vzdušné síly"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿siły powietrzne"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿siły powietrzne"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿luftstyrker"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿forțele aeriene"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿luftstyrker"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿forțele aeriene"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿luchtkrachten"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿luchtkrachten"
+    }
+  ]
+}

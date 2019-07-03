@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "radio",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109248",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Radio"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Radio"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Radio"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Radio"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿rádio"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿rádio"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿radijas"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿radijas"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿radio"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿radio"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿rádió"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿rádió"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿radio"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿radio"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿ραδιόφωνο"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿ραδιόφωνο"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿radio"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿radio"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿radio"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿radio"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿raadio"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿raadio"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿rozhlas"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿rozhlas"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿radio"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿radio"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿radio"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿radioul"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿radio"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿radioul"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿radio"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿radio"
+    }
+  ]
+}

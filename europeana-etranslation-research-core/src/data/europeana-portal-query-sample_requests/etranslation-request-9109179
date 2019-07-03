@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "jean frellon",
+    "sourceLanguage": "fr",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109179",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Jean Hornisse"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Jean Hornisse"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Jean horfllon"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Jean horfllon"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Hhorflon"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Hhorflon"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Jean horllon"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Jean horllon"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Jean rosrollon"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Jean rosrollon"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Jean horflon"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Jean horflon"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Jean horfllon"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Jean horfllon"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Jean horfllon"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Jean horfllon"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Jean horflon"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Jean horflon"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Jean Horflalon"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Jean Horflalon"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Jean horflon"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Jean horflon"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Jean horflon"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Jean horflon"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Jean horlolon"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Jean horlolon"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Jean horfllon"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Jean viesplan"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Jean horfllon"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Jean viesplan"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Jean horfllon"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Jean horfllon"
+    }
+  ]
+}

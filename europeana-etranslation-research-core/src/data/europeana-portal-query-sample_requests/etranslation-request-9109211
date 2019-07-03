@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "adolf michael boehm",
+    "sourceLanguage": "de",
+    "targetLanguages": [
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109211",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "FI",
+      "translatedText": "﻿Adolf Mihail Boehm"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Adolf Mihail Boehm"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Adolf Mihael Boehm"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Adolf Mihael Boehm"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Adolf Mihael Boehm"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Adolf Mihael Boehm"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Adolf michael Boehm"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Adolf michael Boehm"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Adolf Mihael Boehm"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Adolf Mihael Boehm"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Adolf Mihael Boehm"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Adolf Mihael Boehm"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Adolf Mihailel Boehm"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Adolf Mihailel Boehm"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Adolf mihael Boehm"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Adolf mihael Boehm"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Adolf Mihael Boehm"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Adolf Mihael Boehm"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Adolf Mihalia"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Adolf Mihalia"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Adolf Mihael Boehm"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Adolf Mihael Boehm"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Adolf Mihael Boehm"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Adolf Mihael Boehm"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Adolf Mihael Boehm"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Adolf Mihael Boehm"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Adolf Mihael Boehm"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Adolf Mihael Boehm"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Adolf Mihael Boehm"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Adolf Mihael Boehm"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Adolf Mihael Boehm"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Adolf Mihael Boehm"
+    }
+  ]
+}

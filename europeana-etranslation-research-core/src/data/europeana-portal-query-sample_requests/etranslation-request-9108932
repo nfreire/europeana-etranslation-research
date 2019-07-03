@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "george muller",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9108932",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Herrn George muller"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Herrn George muller"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿George muller"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿George muller"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿George muler"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿George muler"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿George Muller"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿George Muller"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿M. George muller"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿M. George muller"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿George muller"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿George muller"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿George muller"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿George muller"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿ο κ. George muller"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿ο κ. George muller"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿George Muller"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿George Muller"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿George muller"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿George muller"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿George muller"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿George muller"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿pan George muller"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿pan George muller"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿George Muller"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿George Muller"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿George muller"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿George muller"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿George muller"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿George muller"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿George muller"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿George muller"
+    }
+  ]
+}

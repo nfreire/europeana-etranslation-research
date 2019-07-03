@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "aachener nachrichten",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109233",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Aachener"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Aachener"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Aachener nachrichten"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Aachener nachrichten"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Aachener nachrichten"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Aachener nachrichten"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Aachener nachrichten"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Aachener nachrichten"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Aachener nachrichten"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Aachener nachrichten"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Aachener nachrichten"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Aachener nachrichten"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Aachener nachrichten"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Aachener nachrichten"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Aachener nachrichten"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Aachener nachrichten"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Aachener nichrichten"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Aachener nichrichten"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Aachener nachrichten"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Aachener nachrichten"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Aachener nachrichten"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Aachener nachrichten"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Aachener nachuten"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Aachener nachuten"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Aachner Nachrichten"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Aachner Nachrichten"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Aachener nachrichten"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Aachener nachrichten"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Aachener nachrichten"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Aachener nachrichten"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Aachener nachrichtten"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Aachener nachrichtten"
+    }
+  ]
+}

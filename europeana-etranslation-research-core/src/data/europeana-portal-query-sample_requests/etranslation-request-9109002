@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "queen elizabeth II",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109002",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Königin Elizabeth II."
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Königin Elizabeth II."
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿kuningatar Elisabet II"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿kuningatar Elisabet II"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Rainha Isabel II"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Rainha Isabel II"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿karalienė Elžbieta II"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿karalienė Elžbieta II"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿la reine Elisabeth II"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿la reine Elisabeth II"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Queen Elizabeth II"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Queen Elizabeth II"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿drottning Elizabeth II"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿drottning Elizabeth II"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿η Βασίλισσα Ελισάβετ ΙΙ"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿η Βασίλισσα Ελισάβετ ΙΙ"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Regina Elisabetta II"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Regina Elisabetta II"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿reina Isabel II"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿reina Isabel II"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿kuninganna Elizabeth II"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿kuninganna Elizabeth II"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿královna Alžběta II."
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿královna Alžběta II."
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿królowa Elżbieta II"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿królowa Elżbieta II"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿dronning Elizabeth II"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Regina Elisabeta a II-a"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿dronning Elizabeth II"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Regina Elisabeta a II-a"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿koningin Elizabeth II"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿koningin Elizabeth II"
+    }
+  ]
+}

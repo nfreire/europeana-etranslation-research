@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "printmakers",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9108938",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Printsechner"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Printsechner"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿monistajilla"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿monistajilla"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿aparelhos para impressão"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿aparelhos para impressão"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Dygliaspaudė"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Dygliaspaudė"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿printmakers"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿printmakers"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿nyomdai készítkészítők"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿nyomdai készítkészítők"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿tryckare"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿tryckare"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿τυπογράφοι"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿τυπογράφοι"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿stampatori per stampa"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿stampatori per stampa"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿imprentas"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿imprentas"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿trükikojad"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿trükikojad"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿printři"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿printři"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿printanimatorzy"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿printanimatorzy"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿trykkeriere"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿producători de tipografie"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿trykkeriere"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿producători de tipografie"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿drukkerijen"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿drukkerijen"
+    }
+  ]
+}

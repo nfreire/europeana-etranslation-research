@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Georgina Palme",
+    "sourceLanguage": "cs",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109048",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Herr Georgina Palme"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Herr Georgina Palme"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Georgina Palme"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Georgina Palme"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Georgina Palme"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Georgina Palme"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Georgina Palme"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Georgina Palme"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿M. Georgina Palme"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿M. Georgina Palme"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Georgina Palme"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Georgina Palme"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Georgina Palme"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Georgina Palme"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Κ. Georgina Palme"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Κ. Georgina Palme"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Mr Georgina Palme"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Mr Georgina Palme"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Georgina Palme"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Georgina Palme"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Georgina Palme"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Georgina Palme"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Georg Kuldse"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Georg Kuldse"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Georgina Palme"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Georgina Palme"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿MR Georgina Palme"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Dl Georgina Palme"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿MR Georgina Palme"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Dl Georgina Palme"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿De heer Georgina Palme"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿De heer Georgina Palme"
+    }
+  ]
+}

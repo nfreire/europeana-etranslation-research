@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "arrimage des vaisseaux",
+    "sourceLanguage": "fr",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109108",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Ladungssicherung"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Ladungssicherung"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿alusten sijoittaminen"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿alusten sijoittaminen"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿arrumação dos navios"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿arrumação dos navios"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿laivų sudėjimas"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿laivų sudėjimas"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿hajók tárolása"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿hajók tárolása"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿stuvning av fartyg"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿stuvning av fartyg"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿στοιβασία σκαφών"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿στοιβασία σκαφών"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿stowage of vessels"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿stowage of vessels"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿stivaggio delle navi"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿stivaggio delle navi"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿estiba de los buques"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿estiba de los buques"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿laevade paigutus"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿laevade paigutus"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿uložení plavidel"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿uložení plavidel"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿rozmieszczenie statków"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿rozmieszczenie statków"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿stuvning af fartøjer"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿arimajul navelor"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿stuvning af fartøjer"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿arimajul navelor"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿stouwen van vaartuigen"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿stouwen van vaartuigen"
+    }
+  ]
+}

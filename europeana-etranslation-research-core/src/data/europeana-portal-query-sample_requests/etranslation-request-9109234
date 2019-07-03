@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "advertisements",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109234",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Werbung"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Werbung"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿mainokset"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿mainokset"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿publicidade"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿publicidade"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿reklama"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿reklama"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿publicités"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿publicités"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿reklámok"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿reklámok"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿annonsering"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿annonsering"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿διαφημίσεις"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿διαφημίσεις"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿pubblicità"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿pubblicità"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿publicidad"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿publicidad"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿reklaam"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿reklaam"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿inzerce"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿inzerce"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿reklamy"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿reklamy"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿annoncering"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿reclame"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿annoncering"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿reclame"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿advertenties"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿advertenties"
+    }
+  ]
+}

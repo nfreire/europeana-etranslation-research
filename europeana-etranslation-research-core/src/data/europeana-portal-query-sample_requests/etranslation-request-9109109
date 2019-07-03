@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "abbe guichard",
+    "sourceLanguage": "fr",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109109",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Abbe GUICHARD"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Abbe GUICHARD"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Abibe Guichard"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Abibe Guichard"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Abbe Guichard"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Abbe Guichard"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Abbe Guichard"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Abbe Guichard"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Abdela Guichard"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Abdela Guichard"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Abe Guichard"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Abe Guichard"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Abbe Guichard"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Abbe Guichard"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Abbe Guichard"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Abbe Guichard"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Abe Guichard"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Abe Guichard"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Abichard"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Abichard"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Abbe Guichard"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Abbe Guichard"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Abbe Guicard"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Abbe Guicard"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Abbe Guichard"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Abbe Guichard"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Abbe guichhard"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Abbe Guichhard"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Abbe guichhard"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Abbe Guichhard"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Abbe Guichard"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Abbe Guichard"
+    }
+  ]
+}

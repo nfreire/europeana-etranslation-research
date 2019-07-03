@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Achillae turkey",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109121",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Achchilae Truthuhn"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Achchilae Truthuhn"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Achilae-kalkkuna"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Achilae-kalkkuna"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Peru Achillato"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Peru Achillato"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Achillai (kalakutiena)"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Achillai (kalakutiena)"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Dinde d’Achille"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Dinde d’Achille"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Achillae pulyka"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Achillae pulyka"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Achlali-kalkoner"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Achlali-kalkoner"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Γάλοι και γαλοπούλες"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Γάλοι και γαλοπούλες"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Achillae di tacchina"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Achillae di tacchina"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Pavos Achillae"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Pavos Achillae"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Achillae kalkun"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Achillae kalkun"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Achillae krůta"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Achillae krůta"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Indyk Achillae"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Indyk Achillae"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Kalkun, kalkun"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Curcani lui Achillae"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Kalkun, kalkun"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Curcani lui Achillae"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Achillae kalkoen"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Achillae kalkoen"
+    }
+  ]
+}

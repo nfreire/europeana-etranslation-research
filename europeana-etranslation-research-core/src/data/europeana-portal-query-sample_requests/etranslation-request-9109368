@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "a marina skilouras",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109368",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿eines Jachthafens skilouras"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿eines Jachthafens skilouras"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿huvivenesatama"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿huvivenesatama"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿um porto de recreio com as competências"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿um porto de recreio com as competências"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿prieplauka – būti valoma kaip prieplauka."
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿prieplauka – būti valoma kaip prieplauka."
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿une marmite de plaisance"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿une marmite de plaisance"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿szakképzett kishajó-kikötővel (jachtosouras)"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿szakképzett kishajó-kikötővel (jachtosouras)"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿en småbåtshamn"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿en småbåtshamn"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿A arina Maarkera"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿A arina Maarkera"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿una marina skipouras"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿una marina skipouras"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿puerto deportivo"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿puerto deportivo"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿jahisadam ilmas"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿jahisadam ilmas"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿rekreační přístaviště"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿rekreační přístaviště"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿i tak samo jak i"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿i tak samo jak i"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿a marina skiltourias"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿un port de agrement,"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿a marina skiltourias"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿un port de agrement,"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿een jachthaven"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿een jachthaven"
+    }
+  ]
+}

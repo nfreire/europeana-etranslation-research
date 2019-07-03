@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Enfermeras visitadoras",
+    "sourceLanguage": "es",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9108988",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Besuch von Krankenpflegepersonal"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Besuch von Krankenpflegepersonal"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Vierailevat sairaanhoitajat"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Vierailevat sairaanhoitajat"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Pessoal de enfermagem"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Pessoal de enfermagem"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Vizituojantys slaugytojai"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Vizituojantys slaugytojai"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Infirmiers en visite"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Infirmiers en visite"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Vendégápolók"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Vendégápolók"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Besökande sjuksköterskor"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Besökande sjuksköterskor"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Επισκέπτες νοσοκόμοι"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Επισκέπτες νοσοκόμοι"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Visiting nurses"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Visiting nurses"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Infermieri ospiti"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Infermieri ospiti"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Õdede arv"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Õdede arv"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Návštěva zdravotních sester a ošetřovatelů"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Návštěva zdravotních sester a ošetřovatelů"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Wizytowane pielęgniarki"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Wizytowane pielęgniarki"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Gæstesygeplejersker"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Asistenți medicali aflați în vizită"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Gæstesygeplejersker"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Asistenți medicali aflați în vizită"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Gastverpleegkundigen"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Gastverpleegkundigen"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "salvador carmona",
+    "sourceLanguage": "es",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109056",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Salvador Carmona"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Salvador Carmona"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Salvador Carmona"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Salvador Carmona"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Salvador Carmona"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Salvador Carmona"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Salvador Carmona"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Salvador Carmona"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Salvador Carmona"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Salvador Carmona"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Salvador Carmona"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Salvador Carmona"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Salvador Carmona"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Salvador Carmona"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Salvador Carmona"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Salvador Carmona"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Salvador Carmona"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Salvador Carmona"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Salvador Carmona"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Salvador Carmona"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Salvador Carmona"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Salvador Carmona"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Salvador Carmona"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Salvador Carmona"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Salvador Carmona"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Salvador Carmona"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Salvador Carmona"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Salvador Carmona"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Salvador Carmona"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Salvador Carmona"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Salvador Carmona"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Salvador Carmona"
+    }
+  ]
+}

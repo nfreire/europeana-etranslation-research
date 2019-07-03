@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Alba",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109367",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Alba"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Alba"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Alba"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Alba"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Alba"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Alba"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Alba"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Alba"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Alba"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Alba"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Alba"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Alba"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Alba"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Alba"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Alba"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Alba"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Alba"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Alba"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Alba"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Alba"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Alba"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Alba"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Indonésie"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Indonésie"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Alba"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Alba"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Alba"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Alba"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Alba"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Alba"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Alba"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Alba"
+    }
+  ]
+}

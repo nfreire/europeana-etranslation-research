@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "alaska",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9108925",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Alaska"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Alaska"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Alaska"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Alaska"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Alasca"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Alasca"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Aliaska"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Aliaska"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Alaska"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Alaska"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Alaska"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Alaska"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Alaska"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Alaska"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Αλάσκα"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Αλάσκα"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Alaska"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Alaska"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Alaska"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Alaska"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Alaska"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Alaska"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Aljaška"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Aljaška"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Alaska"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Alaska"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Alaska"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Alaska"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Alaska"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Alaska"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Alaska"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Alaska"
+    }
+  ]
+}

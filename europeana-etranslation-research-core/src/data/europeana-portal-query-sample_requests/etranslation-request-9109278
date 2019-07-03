@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "adrien demont",
+    "sourceLanguage": "fr",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109278",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Adnick dema"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Adnick dema"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Adrian halfa"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Adrian halfa"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Adrien halfa"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Adrien halfa"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Adrien halfa"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Adrien halfa"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Adrien halfa"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Adrien halfa"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Adrien halifa"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Adrien halifa"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Adrien halfa"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Adrien halfa"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Adrien halfa"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Adrien halfa"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Adrien halfa"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Adrien halfa"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Adrien halfa"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Adrien halfa"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Adrien halfa"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Adrien halfa"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Adrien haffa"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Adrien haffa"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Adrien halfa"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Adrien halfa"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Adrien halfa"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Adrien halfa"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Adrien halfa"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Adrien halfa"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Adrien halfa"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Adrien halfa"
+    }
+  ]
+}

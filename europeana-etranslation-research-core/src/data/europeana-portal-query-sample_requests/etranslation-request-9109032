@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Aedium Farnesiarum tabulae",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109032",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Aedicum Farnesiarum tablae"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Aedicum Farnesiarum tablae"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Aedium Farnesium Partae"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Aedium Farnesium Partae"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Aedium Farnesiarum tabae"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Aedium Farnesiarum tabae"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Aedium Farnesium tabule"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Aedium Farnesium tabule"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Aedium Farnesiarum tabulae"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Aedium Farnesiarum tabulae"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Aedes Farnesiarum tabulae"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Aedes Farnesiarum tabulae"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Aedium Farnessionarum, tabula"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Aedium Farnessionarum, tabula"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Τύπου Aedium Farnesiarum inclae"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Τύπου Aedium Farnesiarum inclae"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Aledium Farnesium tabeae"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Aledium Farnesium tabeae"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Aedium Farnesiarum tabula"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Aedium Farnesiarum tabula"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Aedium Farneisarum janae"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Aedium Farneisarum janae"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Aedium Farnesiarum tatabulae"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Aedium Farnesiarum tatabulae"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Aedium Farnesium tabulae"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Aedium Farnesium tabulae"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Aedium Farnesiarum tabulae"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Aedium Farnesiarum tabulae"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Aedium Farnesiarum tabulae"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Aedium Farnesiarum tabulae"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Aedium Farnesiarum tabelae"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Aedium Farnesiarum tabelae"
+    }
+  ]
+}

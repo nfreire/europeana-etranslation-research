@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Finland germany",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109205",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Finnland Deutschland"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Finnland Deutschland"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Suomi saksa"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Suomi saksa"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Finlândia Alemanha"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Finlândia Alemanha"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Suomija vokietija"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Suomija vokietija"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Finlande Allemagne"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Finlande Allemagne"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Finnország német-német."
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Finnország német-német."
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Finland, Finland"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Finland, Finland"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Φινλανδία"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Φινλανδία"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Germania germania"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Germania germania"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Finlandia Alemania"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Finlandia Alemania"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Soome liir"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Soome liir"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Finsko německo"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Finsko německo"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Finland germany"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Finland germany"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Finland"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Finlanda"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Finland"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Finlanda"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Finland Duitsland"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Finland Duitsland"
+    }
+  ]
+}

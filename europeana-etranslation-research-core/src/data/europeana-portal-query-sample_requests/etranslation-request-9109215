@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "die rivalen",
+    "sourceLanguage": "de",
+    "targetLanguages": [
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109215",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "FI",
+      "translatedText": "﻿kilpailevat yritykset"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿kilpailevat yritykset"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿o rival"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿o rival"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿konkurentas"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿konkurentas"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿les rivaux"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿les rivaux"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿a versenytárs"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿a versenytárs"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿konkurrenten"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿konkurrenten"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿ο αντίπαλο"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿ο αντίπαλο"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿the rival"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿the rival"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿il concorrente"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿il concorrente"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿el rival"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿el rival"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿konkurent"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿konkurent"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿konkurenční"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿konkurenční"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿rywalizacja"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿rywalizacja"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿the rival"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿rival"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿the rival"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿rival"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿de rivaal"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿de rivaal"
+    }
+  ]
+}

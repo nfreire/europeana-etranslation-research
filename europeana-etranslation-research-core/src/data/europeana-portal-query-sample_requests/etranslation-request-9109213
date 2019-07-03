@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "floor plan",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109213",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Grundrissplan"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Grundrissplan"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Matalaisuunnitelma"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Matalaisuunnitelma"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿plano do piso"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿plano do piso"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿aukšto lygio planas"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿aukšto lygio planas"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿plan"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿plan"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿alapterv"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿alapterv"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿plan"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿plan"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿κάτοψη"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿κάτοψη"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿piano di piani"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿piano di piani"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿planta"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿planta"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿põrandaplaan"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿põrandaplaan"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿půdorys"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿půdorys"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿plan piętra"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿plan piętra"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿gulvplan"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿planul etajelor"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿gulvplan"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿planul etajelor"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿plattegrond van de vloer"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿plattegrond van de vloer"
+    }
+  ]
+}

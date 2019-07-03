@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Heinz Elmann",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109305",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Herrn Heinz Elmann"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Herrn Heinz Elmann"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Heinz Elmann"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Heinz Elmann"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Heinz Elmann"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Heinz Elmann"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Heinz Elmann"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Heinz Elmann"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Heinz Elmann"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Heinz Elmann"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Heinz Elmann"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Heinz Elmann"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Heinz Elmann"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Heinz Elmann"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Heinz Elmann"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Heinz Elmann"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Heinz Elmann"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Heinz Elmann"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Heinz Elmann"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Heinz Elmann"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Heinz Elmann"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Heinz Elmann"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Heinz Elmann"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Heinz Elmann"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Heinz Elmann"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Heinz Elmann"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Heinz Elmann"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Heinz Elmann"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Heinz Elmann"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Heinz Elmann"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Heinz Elmann"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Heinz Elmann"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "der wappen",
+    "sourceLanguage": "it",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9108992",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿der Wappen"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿der Wappen"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿der wpen"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿der wpen"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿der wpen"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿der wpen"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿„der wpen“"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿„der wpen“"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿der wpen"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿der wpen"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿der wpen"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿der wpen"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿der wnan"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿der wnan"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿der wpen"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿der wpen"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿der wpen"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿der wpen"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿der wpen"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿der wpen"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿P der wpen"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿P der wpen"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿tuška"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿tuška"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿dokument roboczy"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿dokument roboczy"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿der widle"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿der wpen"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿der widle"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿der wpen"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿der wpen"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿der wpen"
+    }
+  ]
+}

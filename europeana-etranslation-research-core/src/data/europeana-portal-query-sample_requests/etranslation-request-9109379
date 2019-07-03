@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "albano",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109379",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Albano"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Albano"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Albano"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Albano"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Albano"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Albano"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Albano"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Albano"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Albano"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Albano"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Albano"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Albano"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Albano"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Albano"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Albano"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Albano"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Albania"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Albania"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Albano"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Albano"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Albano"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Albano"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Albano"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Albano"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Albano"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Albano"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Albano"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Albano"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Albano"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Albano"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Albano"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Albano"
+    }
+  ]
+}

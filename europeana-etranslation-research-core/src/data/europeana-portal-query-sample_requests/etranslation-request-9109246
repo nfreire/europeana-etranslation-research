@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Herbert Fritsche",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109246",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Herbert Fritsche"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Herbert Fritsche"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Herbert Fritsche"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Herbert Fritsche"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Herbert Fritsche"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Herbert Fritsche"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Herbert Frische"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Herbert Frische"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Herbert Fritsche"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Herbert Fritsche"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Herbert Fritche"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Herbert Fritche"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Herbert Fritsche"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Herbert Fritsche"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Herbert Fritsche"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Herbert Fritsche"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Herbert Fritsche"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Herbert Fritsche"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Herbert Fritsche"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Herbert Fritsche"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Herbert Fritteche"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Herbert Fritteche"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Herbert Fritsche"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Herbert Fritsche"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Herbert Fritsche"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Herbert Fritsche"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Herbert Fritsche"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Herbert Fritsche"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Herbert Fritsche"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Herbert Fritsche"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Herbert Fritsche"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Herbert Fritsche"
+    }
+  ]
+}

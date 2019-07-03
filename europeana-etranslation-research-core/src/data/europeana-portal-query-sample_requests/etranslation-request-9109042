@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "igan",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109042",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿IGAN"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿IGAN"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿IGAN"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿IGAN"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿IGAN"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿IGAN"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿IGAN"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿IGAN"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿IGAN"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿IGAN"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿IGAN"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿IGAN"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿IGAN"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿IGAN"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿IGAN"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿IGAN"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿IGAN"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿IGAN"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿IGAN"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿IGAN"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿IGAN"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿IGAN"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿IGAN"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿IGAN"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿IGAN"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿IGAN"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿IGAN"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿IGAN"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿IGAN"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿IGAN"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿IGAN"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿IGAN"
+    }
+  ]
+}

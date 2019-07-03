@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "rive gauche",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9108979",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Rive gauche"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Rive gauche"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Rive gauche"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Rive gauche"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Rive gauche"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Rive gauche"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Riove gauche"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Riove gauche"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Rive GAUCHE"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Rive GAUCHE"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿rive gauche"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿rive gauche"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Rive-gauche"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Rive-gauche"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Rive gauche"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Rive gauche"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Rive gauche"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Rive gauche"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Rive gauche"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Rive gauche"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Rive gauche"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Rive gauche"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Rive Gauche"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Rive Gauche"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Rive gauche"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Rive gauche"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Rive gauche"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Rive gauche"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Rive gauche"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Rive gauche"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Rive gauche"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Rive gauche"
+    }
+  ]
+}

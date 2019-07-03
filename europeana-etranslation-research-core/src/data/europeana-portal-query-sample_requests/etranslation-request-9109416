@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "hotel de l'union",
+    "sourceLanguage": "fr",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109416",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Hotel de l’Union"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Hotel de l’Union"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿hotelli unionin hotellissa"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿hotelli unionin hotellissa"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿hotel da União"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿hotel da União"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Sąjungos viešbutis"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Sąjungos viešbutis"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿az Unió szállodája"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿az Unió szállodája"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿unionens hotell"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿unionens hotell"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿ξενοδοχείο της Ένωσης"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿ξενοδοχείο της Ένωσης"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿hotel of the union"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿hotel of the union"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Hotel dell'Unione"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Hotel dell'Unione"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿hotel de la Unión"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿hotel de la Unión"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Euroopa Liidu hotell"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Euroopa Liidu hotell"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿hotel v Unii"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿hotel v Unii"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿hotel w Unii"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿hotel w Unii"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿hotel i EU"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿hotel la Uniunea Europeană"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿hotel i EU"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿hotel la Uniunea Europeană"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿hotel van de unie"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿hotel van de unie"
+    }
+  ]
+}

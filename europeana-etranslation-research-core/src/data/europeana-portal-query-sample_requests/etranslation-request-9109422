@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Agricoltura",
+    "sourceLanguage": "it",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109422",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Landwirtschaft"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Landwirtschaft"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Maatalous"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Maatalous"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Agricultura"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Agricultura"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Žemės ūkis"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Žemės ūkis"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Agriculture"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Agriculture"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Mezőgazdaság"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Mezőgazdaság"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Jordbruk"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Jordbruk"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Γεωργία"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Γεωργία"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Agriculture"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Agriculture"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Agricultura"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Agricultura"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Põllumajandus"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Põllumajandus"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Zemědělství"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Zemědělství"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Rolnictwo"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Rolnictwo"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Landbrug"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Agricultură"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Landbrug"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Agricultură"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Landbouw"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Landbouw"
+    }
+  ]
+}

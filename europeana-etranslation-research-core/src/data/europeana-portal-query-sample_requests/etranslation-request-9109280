@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Estrela Degas",
+    "sourceLanguage": "pt",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109280",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Star Desgas"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Star Desgas"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Star Desgas"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Star Desgas"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Star Desgas"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Star Desgas"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Star Desgas"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Star Desgas"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Csillagáz"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Csillagáz"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Star Desgas"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Star Desgas"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿STAR Desgas"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿STAR Desgas"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Star Desgas"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Star Desgas"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Star DesGas"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Star DesGas"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Star Desgas"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Star Desgas"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Star Desgas"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Star Desgas"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿STAR Desgas"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿STAR Desgas"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Gwiazda Desgas"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Gwiazda Desgas"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Star Desgas"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Numărul de ordine al STAR"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Star Desgas"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Numărul de ordine al STAR"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Star Desgas"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Star Desgas"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "translationRequest": {
+    "text": "alcudia",
+    "sourceLanguage": "ca",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl"
+    ]
+  },
+  "errorCode": "-20001"
+}

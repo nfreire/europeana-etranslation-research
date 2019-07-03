@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Albaladejo",
+    "sourceLanguage": "es",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109047",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Albaladejo"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Albaladejo"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Albaladejo"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Albaladejo"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Albaladejo"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Albaladejo"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Albaladejo"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Albaladejo"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Albaladejo"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Albaladejo"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Albaladejo"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Albaladejo"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Albaadejo"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Albaadejo"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Albaladejo"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Albaladejo"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Albaladejo"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Albaladejo"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Albaladejo"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Albaladejo"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Albaladejo"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Albaladejo"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Albalbajo"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Albalbajo"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Albaladejo"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Albaladejo"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Albaldejo"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Albaladejo"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Albaldejo"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Albaladejo"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Albaladejo"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Albaladejo"
+    }
+  ]
+}

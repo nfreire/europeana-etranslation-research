@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Secret tradition in alchemy",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109117",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Geheime Tradition in Alchemie"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Geheime Tradition in Alchemie"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Alcheminin salainen perinne"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Alcheminin salainen perinne"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Tradição secreta em matéria de produtos químicos"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Tradição secreta em matéria de produtos químicos"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Slaptos tradicijos karchemijoje"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Slaptos tradicijos karchemijoje"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Tradition secrète en Alchemy"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Tradition secrète en Alchemy"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Titkos hagyomány az almochiban"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Titkos hagyomány az almochiban"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Hemlig tradition i alchéy"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Hemlig tradition i alchéy"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Μυστική παράδοση σε alchemy"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Μυστική παράδοση σε alchemy"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Tradizione segreta in alchemy"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Tradizione segreta in alchemy"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Tradición secreta de sustancias químicas"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Tradición secreta de sustancias químicas"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Saladus alcheys"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Saladus alcheys"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Tajná tradice v alcheře"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Tajná tradice v alcheře"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Tajnej tradycji w postaci alchochemicznego"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Tajnej tradycji w postaci alchochemicznego"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Hemmelig tradition i almachey"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Tradiție secretă în alchema"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Hemmelig tradition i almachey"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Tradiție secretă în alchema"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Geheime traditie in alchemie"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Geheime traditie in alchemie"
+    }
+  ]
+}

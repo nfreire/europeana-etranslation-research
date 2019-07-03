@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "jenny hasselquist",
+    "sourceLanguage": "sv",
+    "targetLanguages": [
+      "de",
+      "no",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109357",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Jenny singio ist"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Jenny singio ist"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Jenneyn hasselpähkinä"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Jenneyn hasselpähkinä"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Jenny assumem a qualidade de membro de uma cidade de Jenny"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Jenny assumem a qualidade de membro de uma cidade de Jenny"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Jenny Ošist"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Jenny Ošist"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Jenny noisette"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Jenny noisette"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Jenny Homelises"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Jenny Homelises"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Jenny φουντουστικός"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Jenny φουντουστικός"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Jenny hazelist"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Jenny hazelist"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Barilenero, che si trova una delle sue dimensioni"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Barilenero, che si trova una delle sue dimensioni"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Jenny agramist"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Jenny agramist"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Jenny MÄÄR"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Jenny MÄÄR"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Jenny lískové ořechy"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Jenny lískové ořechy"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Jenny hazalist"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Jenny hazalist"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Jenny hasselnød"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Jenny hazellist"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Jenny hasselnød"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Jenny hazellist"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Jenny monteur"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Jenny monteur"
+    }
+  ]
+}

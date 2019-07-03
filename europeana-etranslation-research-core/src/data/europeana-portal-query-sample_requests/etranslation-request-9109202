@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Ada Lovelace",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109202",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿ADA Lovelace"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿ADA Lovelace"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿ADA Lovelace"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿ADA Lovelace"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿ADA Lovelace"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿ADA Lovelace"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿AS Lovelace"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿AS Lovelace"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿ADA Lovelace"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿ADA Lovelace"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿ADA Lovelace"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿ADA Lovelace"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Ada Lovellace"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Ada Lovellace"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿ADA Lovelace"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿ADA Lovelace"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿ADA Lovace"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿ADA Lovace"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿ADA Lovace"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿ADA Lovace"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿ADA Lovelce"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿ADA Lovelce"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿ADA"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿ADA"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿ADA Lovelce"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿ADA Lovelce"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿ADA Lovelace"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿ADA Lovelace"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿ADA Lovelace"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿ADA Lovelace"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿ADA Lorelace"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿ADA Lorelace"
+    }
+  ]
+}

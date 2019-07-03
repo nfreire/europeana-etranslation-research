@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Libro de gestis",
+    "sourceLanguage": "es",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109031",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Verwaltungsbuch"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Verwaltungsbuch"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Hallinnointikirja"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Hallinnointikirja"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Livro de gestão"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Livro de gestão"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Valdymo knyga"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Valdymo knyga"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Livret de gestion"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Livret de gestion"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Kezelési könyv"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Kezelési könyv"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Förvaltningsbok"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Förvaltningsbok"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Βιβλίο Διαχείρισης"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Βιβλίο Διαχείρισης"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Management Book"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Management Book"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Libretto di gestione"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Libretto di gestione"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Halduskord"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Halduskord"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Kniha vedení"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Kniha vedení"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Księga zarządzania"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Księga zarządzania"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿\"management Book\" ("
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Cadru de gestionare"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿\"management Book\" ("
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Cadru de gestionare"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Managementboek"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Managementboek"
+    }
+  ]
+}

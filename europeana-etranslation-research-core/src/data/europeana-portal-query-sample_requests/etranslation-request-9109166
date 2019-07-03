@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "correo de asturias",
+    "sourceLanguage": "es",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109166",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Asturian Mail"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Asturian Mail"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Asturias Mail"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Asturias Mail"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Correio das Astúrias"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Correio das Astúrias"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Asturias paštas"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Asturias paštas"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Courrier asturien"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Courrier asturien"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Asztúriai levél"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Asztúriai levél"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Asturiska Mail"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Asturiska Mail"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Mail Mail"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Mail Mail"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Asturian Mail"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Asturian Mail"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Asturiano"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Asturiano"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Asturi Mail"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Asturi Mail"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Asturan Mail"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Asturan Mail"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿LIASIAN Mail"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿LIASIAN Mail"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Asturias Mail"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Asturian Mail"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Asturias Mail"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Asturian Mail"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Asturian Mail"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Asturian Mail"
+    }
+  ]
+}

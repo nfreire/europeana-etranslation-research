@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "universidad d eoviedo teatro",
+    "sourceLanguage": "es",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109348",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Eovidotheater Universität"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Eovidotheater Universität"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Aurodo -teatteri"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Aurodo -teatteri"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Universidade de teatro Eovido"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Universidade de teatro Eovido"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Eovido teatro universitetas"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Eovido teatro universitetas"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿L’université de théâtre Eovido"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿L’université de théâtre Eovido"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Eovico színházi Egyetem"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Eovico színházi Egyetem"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Teateruniversitetet Eovido"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Teateruniversitetet Eovido"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Πανεπιστημιακό Πανεπιστήμιο Eovicho"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Πανεπιστημιακό Πανεπιστήμιο Eovicho"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Eovido theatre University"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Eovido theatre University"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Università delle sale di Eovido"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Università delle sale di Eovido"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Eovido teatriülikool"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Eovido teatriülikool"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Univerzita Eovido"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Univerzita Eovido"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Uniwersytet Eviusdo"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Uniwersytet Eviusdo"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Eovido teateruniversitet"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Universitatea teatrale Eovido"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Eovido teateruniversitet"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Universitatea teatrale Eovido"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Eovido toneelstuk"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Eovido toneelstuk"
+    }
+  ]
+}

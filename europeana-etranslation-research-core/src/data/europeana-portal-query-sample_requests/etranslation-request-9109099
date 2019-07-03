@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "thomas brettell",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109099",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Thomas brettell"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Thomas brettell"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Thomas brettal"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Thomas brettal"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Thomas brettell"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Thomas brettell"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Thomas brettell"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Thomas brettell"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Thomas brettell"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Thomas brettell"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿(Thomas bretmesh)"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿(Thomas bretmesh)"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Thomas brettell"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Thomas brettell"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Thomas brettell"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Thomas brettell"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Thomas brettell"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Thomas brettell"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Thomas brettell"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Thomas brettell"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Thomas brettl"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Thomas brettl"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Ing. Thomas brettell"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Ing. Thomas brettell"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Thomas bretpowiem"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Thomas bretpowiem"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Thomas brettell"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿dl Thomas bretspune"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Thomas brettell"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿dl Thomas bretspune"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Thomas brettell"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Thomas brettell"
+    }
+  ]
+}

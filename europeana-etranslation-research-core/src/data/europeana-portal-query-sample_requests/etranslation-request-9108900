@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Ability",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9108900",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Fähigkeit"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Fähigkeit"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Kyky"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Kyky"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Capacidade"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Capacidade"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Gebėjimas"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Gebėjimas"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Capacité"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Capacité"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Képesség"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Képesség"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Förmåga"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Förmåga"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Ικανότητα"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Ικανότητα"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Capacità"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Capacità"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Capacidad"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Capacidad"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Võime"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Võime"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Schopnost"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Schopnost"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Zdolność"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Zdolność"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Evne"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Capacitate"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Evne"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Capacitate"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Vaardigheden"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Vaardigheden"
+    }
+  ]
+}

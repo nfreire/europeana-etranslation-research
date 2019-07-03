@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Research",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9108908",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Forschung"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Forschung"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Tutkimus"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Tutkimus"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Investigação"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Investigação"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Moksliniai tyrimai"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Moksliniai tyrimai"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Recherche"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Recherche"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Kutatás"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Kutatás"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Forskning"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Forskning"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Έρευνα"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Έρευνα"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Ricerca"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Ricerca"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Investigación"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Investigación"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Teadusuuringud"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Teadusuuringud"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Výzkum"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Výzkum"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Badania naukowe"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Badania naukowe"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Forskning"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Cercetare"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Forskning"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Cercetare"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Onderzoek"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Onderzoek"
+    }
+  ]
+}

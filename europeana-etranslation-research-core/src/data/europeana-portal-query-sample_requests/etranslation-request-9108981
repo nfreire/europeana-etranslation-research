@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "grand hotel java",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9108981",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Grand Hotel Java"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Grand Hotel Java"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿suurhotelli java"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿suurhotelli java"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Grand hotel java"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Grand hotel java"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Grand Hotel Java"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Grand Hotel Java"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿grand Hotel java"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿grand Hotel java"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿nagyhotel java"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿nagyhotel java"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Grand Hotel Java"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Grand Hotel Java"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Grand Hotel java"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Grand Hotel java"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Grand Hotel java"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Grand Hotel java"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Grand Hotel java"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Grand Hotel java"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Grand Hotel java"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Grand Hotel java"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Grand hotel java"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Grand hotel java"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Grand Hotel java"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Grand Hotel java"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿hotel java"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Grand Hotel java"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿hotel java"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Grand Hotel java"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Grand Hotel java"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Grand Hotel java"
+    }
+  ]
+}

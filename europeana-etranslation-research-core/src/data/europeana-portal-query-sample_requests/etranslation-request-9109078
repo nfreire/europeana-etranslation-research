@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Aaltje Kemker",
+    "sourceLanguage": "nl",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "ca"
+    ]
+  },
+  "requestId": "9109078",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Aalje Kemker"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Aalje Kemker"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Aalje Kemker"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Aalje Kemker"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Aalje Kemker"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Aalje Kemker"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Aalje Kemker"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Aalje Kemker"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Aaltje Kemker"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Aaltje Kemker"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Aalje Kemker"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Aalje Kemker"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Aalje Kemker"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Aalje Kemker"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Aalje Kemker"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Aalje Kemker"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Aalje Kemker"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Aalje Kemker"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Aalje Kemker"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Aalje Kemker"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Aalje Kemker"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Aalje Kemker"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Aalje Kemker"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Aalje Kemker"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Aalje Kemker"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Aalje Kemker"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Aalje Kemker"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Aalje Kemker"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Aalje Kemker"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Aalje Kemker"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Aalje Kemker"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Aalje Kemker"
+    }
+  ]
+}

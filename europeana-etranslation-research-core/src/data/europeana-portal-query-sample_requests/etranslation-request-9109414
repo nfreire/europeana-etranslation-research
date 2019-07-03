@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "cour pemanente de justice internationale",
+    "sourceLanguage": "pl",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109414",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Internationale Vereinigung „Cour pmanente de justice“"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Internationale Vereinigung „Cour pmanente de justice“"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Cour pmanente de justice internationale"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Cour pmanente de justice internationale"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Tribunal de Justiça Internacional"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Tribunal de Justiça Internacional"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Cour pemanente de justice internationale"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Cour pemanente de justice internationale"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Cour de justice internationale"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Cour de justice internationale"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Cour pemanente de justice internationale"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Cour pemanente de justice internationale"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Cour pamante de justice internationale"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Cour pamante de justice internationale"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Cour ppanente de justice internationale"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Cour ppanente de justice internationale"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Cour pemanente de justice internationale"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Cour pemanente de justice internationale"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Corte di giustizia internazionale"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Corte di giustizia internazionale"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Tribunal de Justicia Internacional"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Tribunal de Justicia Internacional"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Cour pfeente de justice internationale"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Cour pfeente de justice internationale"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿„Cour pmanente de justice“ internationale"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿„Cour pmanente de justice“ internationale"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Medlem af Den Internationale Domstol for Den Europæiske Union"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Cour pemanente de justiție internationale"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Medlem af Den Internationale Domstol for Den Europæiske Union"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Cour pemanente de justiție internationale"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Cour Pemanente de justice internationale"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Cour Pemanente de justice internationale"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Album tropical",
+    "sourceLanguage": "fr",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109079",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Tropenalbum"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Tropenalbum"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Trooppinen albumi"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Trooppinen albumi"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Álbum tropical"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Álbum tropical"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Tropikų albumas"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Tropikų albumas"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Trópusi album"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Trópusi album"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Tropiska album"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Tropiska album"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Τροπικό άλμπουμ"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Τροπικό άλμπουμ"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Tropical album"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Tropical album"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Album tropicale"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Album tropicale"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Album tropical"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Album tropical"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Troopiline album"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Troopiline album"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Tropické album"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Tropické album"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Album tropikalny"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Album tropikalny"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Tropisk album"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Album tropical"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Tropisk album"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Album tropical"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Tropisch album"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Tropisch album"
+    }
+  ]
+}

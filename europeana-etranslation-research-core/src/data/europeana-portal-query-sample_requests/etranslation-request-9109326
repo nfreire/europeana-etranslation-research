@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "El libro de los juegos florales cervantistas y otras fiestas",
+    "sourceLanguage": "es",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109326",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Das Buch mit den Blumenspielen und anderen Festen"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Das Buch mit den Blumenspielen und anderen Festen"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Kukkapelien ja muiden juhlapelien määrä"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Kukkapelien ja muiden juhlapelien määrä"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿O livro de jogos de flores e outros jogos festivos"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿O livro de jogos de flores e outros jogos festivos"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Gėlių žaidimų ir kitų šventinių žaidimų knyga"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Gėlių žaidimų ir kitų šventinių žaidimų knyga"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Le livre de jeux de fleurs et d’autres jeux pour fêtes"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Le livre de jeux de fleurs et d’autres jeux pour fêtes"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿A virágjátékok és más ünnepi játékok könyve"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿A virágjátékok és más ünnepi játékok könyve"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Bok över blomspel och andra festspel"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Bok över blomspel och andra festspel"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Το βιβλίο ανθοφόρων και άλλων εορταστικών παιχνιδιών"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Το βιβλίο ανθοφόρων και άλλων εορταστικών παιχνιδιών"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿The book of flower games and other festive games"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿The book of flower games and other festive games"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Il libro dei giochi da fiori e di altri giochi per feste"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Il libro dei giochi da fiori e di altri giochi per feste"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Lillede ja muude pidulike mängude raamat"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Lillede ja muude pidulike mängude raamat"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Kniha s květinami a dalšími slavnými hrami"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Kniha s květinami a dalšími slavnými hrami"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Książki kwiatu i innych gier świątecznych"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Książki kwiatu i innych gier świątecznych"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Bogen om blomsterspil og andre højtidsspil"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Carte pentru jocuri festive și alte jocuri festive"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Bogen om blomsterspil og andre højtidsspil"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Carte pentru jocuri festive și alte jocuri festive"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Het boek van bloemspelen en andere feestartikelen"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Het boek van bloemspelen en andere feestartikelen"
+    }
+  ]
+}

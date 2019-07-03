@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "adamstahl",
+    "sourceLanguage": "cs",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109143",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Adamanstahl"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Adamanstahl"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿adampstahl"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿adampstahl"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿adamestahl"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿adamestahl"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿adamstahl"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿adamstahl"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿adamanstahl"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿adamanstahl"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿adamstahl"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿adamstahl"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿adamstahl"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿adamstahl"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿adamstahl"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿adamstahl"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿adamstahl"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿adamstahl"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿adadestahl"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿adadestahl"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿adamstahl"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿adamstahl"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿adamstahl"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿adamstahl"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿adastahl"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿adastahl"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Fapstahl"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿adamstahl"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Fapstahl"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿adamstahl"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿adaamhl"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿adaamhl"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "abruzzo",
+    "sourceLanguage": "it",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109309",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Abruzzen"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Abruzzen"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Abruzzo"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Abruzzo"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Abruzo"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Abruzo"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Abrucis"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Abrucis"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Abruzzes"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Abruzzes"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Abruzzo"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Abruzzo"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Abruzzerna"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Abruzzerna"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Abruzzo"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Abruzzo"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Abruzzo"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Abruzzo"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Abruzos"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Abruzos"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Abruzzo"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Abruzzo"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Abruzzo"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Abruzzo"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Abruzja"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Abruzja"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Abruzzo"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Abruzzo"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Abruzzo"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Abruzzo"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Abruzzen"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Abruzzen"
+    }
+  ]
+}

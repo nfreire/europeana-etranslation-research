@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "a farewell to arms",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109066",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿ein Abschied von Waffen"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿ein Abschied von Waffen"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿jäähyväiset aseet"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿jäähyväiset aseet"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿um despedida para as armas"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿um despedida para as armas"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿atsisveikinimo su ginklais"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿atsisveikinimo su ginklais"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿le départ des armes"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿le départ des armes"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿búcsúztató karnak"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿búcsúztató karnak"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿ett vapen vält till vapen"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿ett vapen vält till vapen"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿αποχαιρετισμός προς τα όπλα"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿αποχαιρετισμός προς τα όπλα"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿un liaddio alle armi"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿un liaddio alle armi"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿de despedida a brazos"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿de despedida a brazos"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿relvade hüvasti"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿relvade hüvasti"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿a fregwell k radám"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿a fregwell k radám"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿pożegnaa na ramiona"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿pożegnaa na ramiona"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿et farvel til våben"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿un farewell până la arme"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿et farvel til våben"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿un farewell până la arme"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿een afscheid van een wapen"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿een afscheid van een wapen"
+    }
+  ]
+}

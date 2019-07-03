@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "schwinkowski",
+    "sourceLanguage": "fr",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109269",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Schwinkowski"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Schwinkowski"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿schwinkowski"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿schwinkowski"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿schwinkowski"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿schwinkowski"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿schwinkowski"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿schwinkowski"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿schwinkowski"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿schwinkowski"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿schwinkowski"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿schwinkowski"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿schwindkowski"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿schwindkowski"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿schwinkowski"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿schwinkowski"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿schwwinkowski"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿schwwinkowski"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿schwinkowski"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿schwinkowski"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿schinkowski"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿schinkowski"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿schwkowski"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿schwkowski"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿schwinkowski"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿schwinkowski"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿schwinkowski"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿schwinkowski"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿schwinkowski"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿schwinkowski"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿schwinkowski"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿schwinkowski"
+    }
+  ]
+}

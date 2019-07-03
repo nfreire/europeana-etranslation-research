@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "minna canth",
+    "sourceLanguage": "fi",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109144",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Minna Canth"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Minna Canth"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Minna Canth"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Minna Canth"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Mina Canth"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Mina Canth"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Minna Canth"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Minna Canth"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Minna Canth"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Minna Canth"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Minna Canth"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Minna Canth"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Minna Canth"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Minna Canth"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Minna canth"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Minna canth"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Mna Canth"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Mna Canth"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Minna Canth"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Minna Canth"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Minna Canth"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Minna Canth"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Minna Canth"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Minna Canth"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Minna Canth"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Minna Canth"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Minna Canth"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Minna Canth"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Minna Canth"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Minna Canth"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Minna Canth"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Minna Canth"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "aboriginal",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109124",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Aboriginal"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Aboriginal"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿alkuperäisväestö"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿alkuperäisväestö"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿aborígenes"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿aborígenes"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿gimdymas"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿gimdymas"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿aborigène"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿aborigène"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Aboriginek"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Aboriginek"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿aborigine"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿aborigine"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿οι Αβορίγινες"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿οι Αβορίγινες"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿aborigene"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿aborigene"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿aborigen"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿aborigen"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿aborigeenid"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿aborigeenid"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿domorodí"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿domorodí"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿oryginał"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿oryginał"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿oprindelige folkeslag"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿aborigenă"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿oprindelige folkeslag"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿aborigenă"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿aborigineel"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿aborigineel"
+    }
+  ]
+}

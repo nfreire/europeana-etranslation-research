@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Deutschlands gerechte Grenzen von Adriaticus",
+    "sourceLanguage": "pl",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109274",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Nutzungsrechte an Adriaticus (Deutschland)"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Nutzungsrechte an Adriaticus (Deutschland)"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Deutsches gerechte Grenzen von Adriatica"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Deutsches gerechte Grenzen von Adriatica"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Deutschlands gerechte Grenzen von Adriaticus"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Deutschlands gerechte Grenzen von Adriaticus"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Deutschlands gerechte Grenzen von Adriaticus"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Deutschlands gerechte Grenzen von Adriaticus"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Deutschlands gerechte Grenzen von Adriaticus"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Deutschlands gerechte Grenzen von Adriaticus"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Deutschlands gerechte Grenzen von Adriaticus"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Deutschlands gerechte Grenzen von Adriaticus"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Deutschlands gerechte Grenzen von Adriaticus"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Deutschlands gerechte Grenzen von Adriaticus"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Deutschlands gerechte Grenzen von Adriaticus"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Deutschlands gerechte Grenzen von Adriaticus"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Deutschlands gerechte Grenzen von Adriaticus"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Deutschlands gerechte Grenzen von Adriaticus"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Deutschlands grechte Grenzen von Adriatico"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Deutschlands grechte Grenzen von Adriatico"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Deutschlands gerechte Grenzen von Adriaticus"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Deutschlands gerechte Grenzen von Adriaticus"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Deutschlands gerechte Grenzen von Adrius"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Deutschlands gerechte Grenzen von Adrius"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Deutschlands Gerechte Grenzen von Adriaticus"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Deutschlands Gerechte Grenzen von Adriaticus"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Deutschlands gerechte Grenzen von Adriaticus"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Deutschlands gerechte Grenzen von Adriaticus"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Deutschlands gerechte Grenzen von Adriaticus"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Deutschlands gerechte Grenzen von Adriaticus"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Deutschlands Region Grenzen von Adriaticus"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Deutschlands Region Grenzen von Adriaticus"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Pont neuf",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109181",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Pont neuf"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Pont neuf"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Pont neuf"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Pont neuf"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Pont neuf"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Pont neuf"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Pont neuf"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Pont neuf"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Pont neuf"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Pont neuf"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Pont neuf"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Pont neuf"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Pont neuf"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Pont neuf"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Pont neuf"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Pont neuf"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Pont neuf"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Pont neuf"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Pont neuf"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Pont neuf"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Pont neuf"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Pont neuf"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Netýká se této položky."
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Netýká se této položky."
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Pont neuf"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Pont neuf"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Pont neuf"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Pont neuse"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Pont neuf"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Pont neuse"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Pont neuf"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Pont neuf"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "spread of islam",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109159",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿FALAM"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿FALAM"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Isallamin leviäminen"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Isallamin leviäminen"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿propagação de islam"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿propagação de islam"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Mall islam"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Mall islam"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿écart de l’isolam"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿écart de l’isolam"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿az iszlam elterjedése"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿az iszlam elterjedése"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Distlam"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Distlam"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿εξάπλωση της islam"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿εξάπλωση της islam"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿diffusione dell'islam"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿diffusione dell'islam"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿propagación del islam"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿propagación del islam"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿gisuse levik"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿gisuse levik"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿šíření islámka"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿šíření islámka"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿posmak izolam"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿posmak izolam"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿spredning af islam"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿propagarea lui islam"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿spredning af islam"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿propagarea lui islam"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿verspreiding van het lam"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿verspreiding van het lam"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "adolf eichmann",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109008",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Adolf Eichmann"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Adolf Eichmann"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Adolf Eichmann"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Adolf Eichmann"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Adolf Eichmann"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Adolf Eichmann"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Adolf Eichmann"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Adolf Eichmann"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Adolf Eichmann"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Adolf Eichmann"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Adolf Eichmann"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Adolf Eichmann"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Adolf Eichmann"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Adolf Eichmann"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Adolf Eichmann"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Adolf Eichmann"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Adolf Eichmann"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Adolf Eichmann"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Adolf Eichmann"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Adolf Eichmann"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Adolf Eichmann"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Adolf Eichmann"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Adolf Eichmann"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Adolf Eichmann"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Adolf Eichmann"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Adolf Eichmann"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Adolf Eichmann"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Adolf Eichmann"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Adolf Eichmann"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Adolf Eichmann"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Adolf Eichmann"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Adolf Eichmann"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "juan de goyeneche",
+    "sourceLanguage": "es",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9108896",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Juan de goylenete"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Juan de goylenete"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Juan de gyheseenit"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Juan de gyheseenit"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Juan de goyeneche"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Juan de goyeneche"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Juan de goyeneche"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Juan de goyeneche"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Juan de goyeneche"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Juan de goyeneche"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Juan de goyenece"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Juan de goyenece"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Juan de goyeneche"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Juan de goyeneche"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Juan de goyenolhe"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Juan de goyenolhe"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Juan de goyeneche"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Juan de goyeneche"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Sig. Juan de goyeneche"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Sig. Juan de goyeneche"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Juan de goyeneche"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Juan de goyeneche"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Juan de goyeneš"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Juan de goyeneš"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Pozyskane ze środowiska naturalnego"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Pozyskane ze środowiska naturalnego"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Juan de goyeneche"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Juan de goyeneche"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Juan de goyeneche"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Juan de goyeneche"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿De heer Juan de goyenecche"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿De heer Juan de goyenecche"
+    }
+  ]
+}

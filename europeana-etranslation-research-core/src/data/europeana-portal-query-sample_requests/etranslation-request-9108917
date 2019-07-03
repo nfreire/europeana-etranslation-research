@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "abechuco",
+    "sourceLanguage": "es",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9108917",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Abechuco"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Abechuco"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿abechuco"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿abechuco"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿abechuco"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿abechuco"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Bechuco"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Bechuco"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Abechuco"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Abechuco"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿abechuco"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿abechuco"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿abechuco"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿abechuco"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿abechuco"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿abechuco"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿abechuco"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿abechuco"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿abechuco"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿abechuco"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿„abecuco”"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿„abecuco”"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Bechuco"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Bechuco"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿abachuko"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿abachuko"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿abechuco"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Abechuco"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿abechuco"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Abechuco"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿afeucco"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿afeucco"
+    }
+  ]
+}

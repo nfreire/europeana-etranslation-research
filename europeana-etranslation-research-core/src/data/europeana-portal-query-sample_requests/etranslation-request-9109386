@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "johann wilhelm ritter",
+    "sourceLanguage": "de",
+    "targetLanguages": [
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109386",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "FI",
+      "translatedText": "﻿Johann Wilhelm Ritter"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Johann Wilhelm Ritter"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Johann Wilhelm Ritter"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Johann Wilhelm Ritter"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Johann Wilhelm Ritter"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Johann Wilhelm Ritter"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿M. Johann Wilhelm Ritter"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿M. Johann Wilhelm Ritter"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Johann Wilhelm Ritter"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Johann Wilhelm Ritter"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Johann Wilhelm Ritter"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Johann Wilhelm Ritter"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Κ. Johann Wilhelm Ritter"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Κ. Johann Wilhelm Ritter"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Mr Johann Wilhelm Ritter"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Mr Johann Wilhelm Ritter"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Sig. Johann Wilhelm Ritter"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Sig. Johann Wilhelm Ritter"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Johann Wilhelm Ritter"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Johann Wilhelm Ritter"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Johann Wilhelm Ritter"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Johann Wilhelm Ritter"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Pan Johann Wilhelm Ritter"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Pan Johann Wilhelm Ritter"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Johann Wilhelm Ritter"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Johann Wilhelm Ritter"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Johann Wilhelm Ritter"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Dl Johann Wilhelm Ritter"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Johann Wilhelm Ritter"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Dl Johann Wilhelm Ritter"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿De heer Johann Wilhelm Ritter"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿De heer Johann Wilhelm Ritter"
+    }
+  ]
+}

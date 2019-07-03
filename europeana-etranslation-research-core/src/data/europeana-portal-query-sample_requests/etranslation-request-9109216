@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "alcantara",
+    "sourceLanguage": "es",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109216",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Alcantara"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Alcantara"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Alcantara"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Alcantara"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿«alcântara»"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿«alcântara»"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Alkantara"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Alkantara"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Alcantara"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Alcantara"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Alcantara"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Alcantara"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Alcantara"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Alcantara"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Alcantara"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Alcantara"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Alcantara"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Alcantara"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Alcantara"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Alcantara"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Alcantara"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Alcantara"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Alcantara"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Alcantara"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Alcantara"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Alcantara"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Alcantara"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Alcantara"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Alcantara"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Alcantara"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Alcantara"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Alcantara"
+    }
+  ]
+}

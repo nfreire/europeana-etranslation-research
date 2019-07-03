@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "wiener kurier",
+    "sourceLanguage": "de",
+    "targetLanguages": [
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9108912",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "FI",
+      "translatedText": "﻿Wiener Kurier"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Wiener Kurier"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Wiener Kurier"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Wiener Kurier"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Wiener Kurier"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Wiener Kurier"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿service de messagerie viennois"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿service de messagerie viennois"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Wiener Kurier"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Wiener Kurier"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Wiener Kurier"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Wiener Kurier"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Wiener Kurier"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Wiener Kurier"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Wiener Kurier"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Wiener Kurier"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Wiener Kurier"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Wiener Kurier"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Wiener Kurier"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Wiener Kurier"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Wiener Kurier"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Wiener Kurier"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Wiener Kurier"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Wiener Kurier"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Wiener Kurier"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Wiener Kurier"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Wiener Kurier"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Wiener Kurier"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Wiener Kurier"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Wiener Kurier"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Kuier Kurier"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Kuier Kurier"
+    }
+  ]
+}

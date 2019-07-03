@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "adriano lualdi",
+    "sourceLanguage": "pt",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109082",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Adriano Lualdi"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Adriano Lualdi"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Adriano Lualdi"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Adriano Lualdi"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Adriano Lualdi"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Adriano Lualdi"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Adriano Lualdi"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Adriano Lualdi"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Adriano Lualdi"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Adriano Lualdi"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Adriano Lualdi"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Adriano Lualdi"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Adriano Lualdi"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Adriano Lualdi"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Adriano Lualdi"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Adriano Lualdi"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Conferenza di Adriano"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Conferenza di Adriano"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Adriano Lualdi y otros"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Adriano Lualdi y otros"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Adriano Lualdi"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Adriano Lualdi"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Adriano Lualdi"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Adriano Lualdi"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Adriano Lualdi"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Adriano Lualdi"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Adriano Lualdi"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Adriano Lualdi"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Adriano Lualdi"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Adriano Lualdi"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Adriano Lualdi"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Adriano Lualdi"
+    }
+  ]
+}

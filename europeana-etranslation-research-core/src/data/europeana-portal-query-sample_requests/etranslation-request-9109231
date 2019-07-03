@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "acquoy",
+    "sourceLanguage": "nl",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "ca"
+    ]
+  },
+  "requestId": "9109231",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Löhne"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Löhne"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿palkat"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿palkat"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿salários"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿salários"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿darbo užmokestis"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿darbo užmokestis"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿salaires"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿salaires"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿bérek"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿bérek"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿löner"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿löner"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿μισθοί"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿μισθοί"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿wages"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿wages"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿salari"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿salari"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿salarios"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿salarios"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿palgad"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿palgad"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿mzdy"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿mzdy"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿wynagrodzenia"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿wynagrodzenia"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿lønninger"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿salarii"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿lønninger"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿salarii"
+    }
+  ]
+}

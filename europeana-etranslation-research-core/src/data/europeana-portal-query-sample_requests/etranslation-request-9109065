@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "alderdi eder",
+    "sourceLanguage": "es",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109065",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Alderdi Eder"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Alderdi Eder"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Alderdi Eder"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Alderdi Eder"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Alderdi Eder"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Alderdi Eder"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Alderdi Eder"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Alderdi Eder"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Alderdi Eder"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Alderdi Eder"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Alderdi Eder"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Alderdi Eder"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Alderdi Eder"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Alderdi Eder"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Alderdi Eder"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Alderdi Eder"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Alderdi Eder"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Alderdi Eder"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Assessore Eder"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Assessore Eder"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Alderdi Eder"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Alderdi Eder"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Alderdi Eder"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Alderdi Eder"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Alderdi Eder"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Alderdi Eder"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Alderdi Eder"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Alderdi Eder"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Alderdi Eder"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Alderdi Eder"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Schepen Eder"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Schepen Eder"
+    }
+  ]
+}

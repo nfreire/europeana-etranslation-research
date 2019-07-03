@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Charles III de Monaco",
+    "sourceLanguage": "fr",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109076",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Charles III aus Monaco"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Charles III aus Monaco"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Charles III, Monaco"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Charles III, Monaco"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Carlos III, Mónaco"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Carlos III, Mónaco"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Charles III, Monakas"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Charles III, Monakas"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Charles III, Monaco"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Charles III, Monaco"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Charles III, Monaco"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Charles III, Monaco"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Κάρολος ΙΙΙ, Μονακό"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Κάρολος ΙΙΙ, Μονακό"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Charles III, Monaco"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Charles III, Monaco"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Carlo III, Monaco"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Carlo III, Monaco"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Charles III, Mónaco"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Charles III, Mónaco"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Charles III, Monaco"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Charles III, Monaco"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Charles III, Monako"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Charles III, Monako"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Charles III, Monako"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Charles III, Monako"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Charles III, Monaco"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Charles III, Monaco"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Charles III, Monaco"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Charles III, Monaco"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Monaco, Charles III"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Monaco, Charles III"
+    }
+  ]
+}

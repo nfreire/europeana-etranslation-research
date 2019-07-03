@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "West Burton",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109055",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿West Burton"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿West Burton"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Länsi-Burton"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Länsi-Burton"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿West Burton"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿West Burton"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Vakarų Burtonas"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Vakarų Burtonas"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Ouest Burton"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Ouest Burton"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Nyugat-Burton"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Nyugat-Burton"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿West Burton"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿West Burton"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿West Burton"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿West Burton"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿West Burton"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿West Burton"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿West Burton"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿West Burton"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿West Burton"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿West Burton"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿West Burton"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿West Burton"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿West Burton"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿West Burton"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿West Burton"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Vest Burton"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿West Burton"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Vest Burton"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿West Burton"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿West Burton"
+    }
+  ]
+}

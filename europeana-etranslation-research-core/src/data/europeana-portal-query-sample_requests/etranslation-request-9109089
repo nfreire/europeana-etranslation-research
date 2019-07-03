@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "alabarderos",
+    "sourceLanguage": "es",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109089",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Vorderviertel"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Vorderviertel"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Skotlannin etuneljännekset"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Skotlannin etuneljännekset"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿outro e outro meio de congelação"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿outro e outro meio de congelação"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿alaba-Priekiniai"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿alaba-Priekiniai"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿alabaders"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿alabaders"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿alabókozás"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿alabókozás"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Kasstypar"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Kasstypar"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿ιβαράδες"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿ιβαράδες"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿alabarters"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿alabarters"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿alkali"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿alkali"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿kontideta eesveerandid"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿kontideta eesveerandid"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿tři čtvrtiny"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿tři čtvrtiny"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Kamalarters"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Kamalarters"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿alablicate"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿a celor din urmă"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿alablicate"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿a celor din urmă"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿albaisjes"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿albaisjes"
+    }
+  ]
+}

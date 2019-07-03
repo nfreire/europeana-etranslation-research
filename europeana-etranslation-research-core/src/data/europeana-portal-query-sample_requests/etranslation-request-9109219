@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "aachen",
+    "sourceLanguage": "nl",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "ca"
+    ]
+  },
+  "requestId": "9109219",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Aachen"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Aachen"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Aachen"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Aachen"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Aachen"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Aachen"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Achenas"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Achenas"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Aix-la-Chapelle"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Aix-la-Chapelle"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Aachen"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Aachen"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Aachen"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Aachen"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Aachen"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Aachen"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Aachen"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Aachen"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Aquisgrana"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Aquisgrana"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Aquisgrán"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Aquisgrán"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Aacheni piirkond"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Aacheni piirkond"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Aachen (Cáchy)"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Aachen (Cáchy)"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Aachen"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Aachen"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Aachen"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Aachen"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Aachen"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Aachen"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "new york building",
+    "sourceLanguage": "sv",
+    "targetLanguages": [
+      "de",
+      "no",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9108920",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿New Yorker Gebäude"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿New Yorker Gebäude"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿New Yorkin rakennus"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿New Yorkin rakennus"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿edifício de Nova Iorque"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿edifício de Nova Iorque"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Niujorko pastatas"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Niujorko pastatas"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿bâtiment de New York"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿bâtiment de New York"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿New York épület"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿New York épület"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿κτίριο της Νέας Υόρκης"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿κτίριο της Νέας Υόρκης"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿new York building"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿new York building"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿edificio New York"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿edificio New York"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿New York building"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿New York building"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿New Yorgi hoone"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿New Yorgi hoone"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿New York Building"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿New York Building"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿budynek w Nowym Jorku"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿budynek w Nowym Jorku"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿New York-bygning"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿clădirea din New York"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿New York-bygning"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿clădirea din New York"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿New York gebouw"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿New York gebouw"
+    }
+  ]
+}

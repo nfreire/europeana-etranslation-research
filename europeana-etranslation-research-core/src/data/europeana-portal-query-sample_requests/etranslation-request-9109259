@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "El genio de Velazquez",
+    "sourceLanguage": "es",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109259",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Genius von Velazquez"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Genius von Velazquez"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Velázquez -kasvin sukulainen"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Velázquez -kasvin sukulainen"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Genius de Velazquez"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Genius de Velazquez"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Verazquez genius"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Verazquez genius"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Génie de Velázquez"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Génie de Velázquez"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Genius of Velazquez"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Genius of Velazquez"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Genius of Velázquez"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Genius of Velázquez"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Genius of Velazquez"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Genius of Velazquez"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Genius of Velazquez"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Genius of Velazquez"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Genius di Velázquez"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Genius di Velázquez"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Velazqueuri genius"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Velazqueuri genius"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Genius of Velazquez"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Genius of Velazquez"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Geniusz Velazquez"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Geniusz Velazquez"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Genius of Velazquez"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Genius of Velázquez"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Genius of Velazquez"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Genius of Velázquez"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Genius of Velazquez"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Genius of Velazquez"
+    }
+  ]
+}

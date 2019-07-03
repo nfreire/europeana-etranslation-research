@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "africa overo barbaria",
+    "sourceLanguage": "ro",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9108911",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Afrika übera Barbaria..."
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Afrika übera Barbaria..."
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Afrikka barbaria..."
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Afrikka barbaria..."
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿África overa Barbaria..."
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿África overa Barbaria..."
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Africa overa Barbaria..."
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Africa overa Barbaria..."
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Afrique sura Barbaria..."
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Afrique sura Barbaria..."
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Africa barria Barbaria"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Africa barria Barbaria"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Afrika som överskrider en barbari..."
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Afrika som överskrider en barbari..."
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Αφρική πάνω από ένα Barbaria..."
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Αφρική πάνω από ένα Barbaria..."
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Africa overa barbaria..."
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Africa overa barbaria..."
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Ex Repubblica d'Africa: barbaria..."
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Ex Repubblica d'Africa: barbaria..."
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿África overa Barbaria..."
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿África overa Barbaria..."
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Africa talub Barbaaria..."
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Africa talub Barbaaria..."
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Africa overa Barbaria..."
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Africa overa Barbaria..."
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Afryka nad Barbaria..."
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Afryka nad Barbaria..."
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Afrika over en barbari..."
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Afrika over en barbari..."
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Afrika boven Barbaroia..."
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Afrika boven Barbaroia..."
+    }
+  ]
+}

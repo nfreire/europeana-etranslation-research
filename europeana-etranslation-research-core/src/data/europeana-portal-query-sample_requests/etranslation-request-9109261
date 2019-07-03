@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "san juan de la ribera",
+    "sourceLanguage": "es",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109261",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿San Juan de la Ribera"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿San Juan de la Ribera"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿San juan de la Ribera"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿San juan de la Ribera"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿San juan de la Ribera"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿San juan de la Ribera"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿San juan de la Ribera"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿San juan de la Ribera"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿San juan de la Ribera"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿San juan de la Ribera"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿San juan de la Ribera"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿San juan de la Ribera"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿San juan de la Ribera"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿San juan de la Ribera"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿San juan de la Ribera"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿San juan de la Ribera"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿San juan de la Ribera"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿San juan de la Ribera"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿La Ribera della Ribera"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿La Ribera della Ribera"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Ribera de la Ribera"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Ribera de la Ribera"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿San Juana de la Ribera"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿San Juana de la Ribera"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿San juan de la Ribera"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿San juan de la Ribera"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿San juan de la Ribera"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿San juan de la Ribera"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿San juan de la Ribera"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿San juan de la Ribera"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿San juan de la Ribera"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿San juan de la Ribera"
+    }
+  ]
+}

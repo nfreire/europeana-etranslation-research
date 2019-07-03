@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Adressbuch Striegau",
+    "sourceLanguage": "pl",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109418",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Addiesbuch Striggau"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Addiesbuch Striggau"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Adressbuch Striegau"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Adressbuch Striegau"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Adressbuch Strigiegau"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Adressbuch Strigiegau"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Adressbuch Striegau"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Adressbuch Striegau"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Adamesbuch Striegau"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Adamesbuch Striegau"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿(a magyar változatot nem érinti.)"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿(a magyar változatot nem érinti.)"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Adresbuch Strigeau"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Adresbuch Strigeau"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Adressbuch Striegau"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Adressbuch Striegau"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Adressbuch Striegau"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Adressbuch Striegau"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Adessbuch Striegau"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Adessbuch Striegau"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Adres-Sertachegau"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Adres-Sertachegau"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Adressbuch Striegau"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Adressbuch Striegau"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Adresbuch Strigau"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Adresbuch Strigau"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Adressbuch Striegau"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Adressbuch Striegau"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Adressbuch Striegau"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Adressbuch Striegau"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Adressbuch Striegau"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Adressbuch Striegau"
+    }
+  ]
+}

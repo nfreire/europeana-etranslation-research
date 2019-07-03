@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "sobre la lengua argonesa",
+    "sourceLanguage": "es",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109411",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿in der Sprache von Argonose"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿in der Sprache von Argonose"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿argionean kielellä"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿argionean kielellä"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿na língua «Arginonese»"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿na língua «Arginonese»"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿dėl Argonios kalbos"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿dėl Argonios kalbos"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿sur la langue Argonese"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿sur la langue Argonese"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿az Argolone nyelvéről"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿az Argolone nyelvéről"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿på Argonesiska språket"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿på Argonesiska språket"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿σχετικά με τη γλώσσα του Argonese"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿σχετικά με τη γλώσσα του Argonese"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿on the Argonese language"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿on the Argonese language"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿sulla lingua Argonese"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿sulla lingua Argonese"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Argonese keele kohta"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Argonese keele kohta"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿o argonském jazyce"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿o argonském jazyce"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿w języku Argzonese"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿w języku Argzonese"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿på Argonei-sproget"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿în limba Argonese"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿på Argonei-sproget"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿în limba Argonese"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿over de argonese taal"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿over de argonese taal"
+    }
+  ]
+}

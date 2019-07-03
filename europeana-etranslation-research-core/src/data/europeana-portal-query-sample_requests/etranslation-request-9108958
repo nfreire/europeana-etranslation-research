@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "acts of mercy",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9108958",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Gnadenakte"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Gnadenakte"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿armmansa"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿armmansa"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿atos de compaixão"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿atos de compaixão"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿malonūs veiksmai"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿malonūs veiksmai"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿actes de compassion"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿actes de compassion"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿kegyelmi cselekmények"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿kegyelmi cselekmények"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿barmhärtighetsaktereller"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿barmhärtighetsaktereller"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿ΠΡΑΞΕΙΣ έλεος"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿ΠΡΑΞΕΙΣ έλεος"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿atti di trattamento"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿atti di trattamento"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿actos de misericordia"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿actos de misericordia"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿otsused, mis on seotud halastus@@"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿otsused, mis on seotud halastus@@"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿pouto z milosti"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿pouto z milosti"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿czynności zdawczo-odbiorcze"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿czynności zdawczo-odbiorcze"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿medlidenskabelige handlinger"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿acte de eutanasiere"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿medlidenskabelige handlinger"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿acte de eutanasiere"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿medeplichtige handelingen"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿medeplichtige handelingen"
+    }
+  ]
+}

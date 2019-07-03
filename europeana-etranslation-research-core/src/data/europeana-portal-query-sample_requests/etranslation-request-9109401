@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "refugee students",
+    "sourceLanguage": "fr",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109401",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Refugee Refugee"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Refugee Refugee"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Pakolaisopiskelijat"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Pakolaisopiskelijat"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿estudantes de refugiados"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿estudantes de refugiados"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿pabėgėlių studentai"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿pabėgėlių studentai"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿menekült diákok"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿menekült diákok"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿flyktingstudenter"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿flyktingstudenter"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿φοιτητές προσφύγων"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿φοιτητές προσφύγων"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿refugee students"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿refugee students"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿studenti rifugiati"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿studenti rifugiati"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿estudiantes refugiados"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿estudiantes refugiados"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿pagulastest üliõpilased"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿pagulastest üliõpilased"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿studenti z řad uprchlíků"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿studenti z řad uprchlíků"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿uchodźcy"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿uchodźcy"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿studerende på flygtninge"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿studenții refugiați"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿studerende på flygtninge"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿studenții refugiați"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿vluchtelingenstudenten"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿vluchtelingenstudenten"
+    }
+  ]
+}

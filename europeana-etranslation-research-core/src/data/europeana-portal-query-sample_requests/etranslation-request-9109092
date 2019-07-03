@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "affiche course",
+    "sourceLanguage": "es",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109092",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Komfortkurs"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Komfortkurs"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿mukavuuskurssi"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿mukavuuskurssi"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿curso de conforto"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿curso de conforto"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿komforto kursas"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿komforto kursas"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿cours de confort"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿cours de confort"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿kényelmi tanfolyam"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿kényelmi tanfolyam"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿komfortutbildning"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿komfortutbildning"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿μάθημα υποστήριξης"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿μάθημα υποστήριξης"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿comfort course"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿comfort course"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿corso di confort"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿corso di confort"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿mugavus"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿mugavus"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿pohodlné kurzy"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿pohodlné kurzy"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿komfort"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿komfort"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿komfortkursus"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿curs de confort"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿komfortkursus"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿curs de confort"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿comfortcursus"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿comfortcursus"
+    }
+  ]
+}

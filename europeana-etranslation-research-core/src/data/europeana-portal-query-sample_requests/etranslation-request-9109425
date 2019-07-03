@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "afbeelding der justitie soo tot leyden",
+    "sourceLanguage": "nl",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "ca"
+    ]
+  },
+  "requestId": "9109425",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Image der Justiz in Leyden"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Image der Justiz in Leyden"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿oikeuskuva sopimisesta Leydeniin"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿oikeuskuva sopimisesta Leydeniin"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿imagem da justiça no Leyden"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿imagem da justiça no Leyden"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Teisingumo Teismo įvaizdis Soo iki Leyden"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Teisingumo Teismo įvaizdis Soo iki Leyden"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿image de justice soo à Leyden"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿image de justice soo à Leyden"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿az igazságszolgáltatás képe a Leydennek"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿az igazságszolgáltatás képe a Leydennek"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿rättvisans bild på Leyden"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿rättvisans bild på Leyden"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿εικόνα της δικαιοσύνης έως το Leyden"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿εικόνα της δικαιοσύνης έως το Leyden"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿image of justice soo to leyden"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿image of justice soo to leyden"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿immagine della giustizia per Leyden"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿immagine della giustizia per Leyden"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿imagen de la justicia"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿imagen de la justicia"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿õiguskaitse pilt Leydenisse"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿õiguskaitse pilt Leydenisse"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿vnímání spravedlnosti ve prospěch Leyden"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿vnímání spravedlnosti ve prospěch Leyden"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿wizerunek sądu w Leyden"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿wizerunek sądu w Leyden"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿retsvæsenets image til Leyden"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿imaginea justiției în cazul lui Leyden"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿retsvæsenets image til Leyden"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿imaginea justiției în cazul lui Leyden"
+    }
+  ]
+}

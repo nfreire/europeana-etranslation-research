@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Imre Maria Benkert",
+    "sourceLanguage": "fr",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109183",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Imre Maria Benkert"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Imre Maria Benkert"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Imre Maria Benkert"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Imre Maria Benkert"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Imre Maria Benkert"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Imre Maria Benkert"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Imre Maria Benkert"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Imre Maria Benkert"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Benkert Imre"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Benkert Imre"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Imre Maria Benkert"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Imre Maria Benkert"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Imre Maria Benkert"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Imre Maria Benkert"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Imre Maria Benkert"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Imre Maria Benkert"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Imre Maria Benkert"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Imre Maria Benkert"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Imre Maria Benkert"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Imre Maria Benkert"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Imre Maria Benkert"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Imre Maria Benkert"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Ire Maria Benkert"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Ire Maria Benkert"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Ire Maria Benkert"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Ire Maria Benkert"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Imre Maria Benkert"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Imre Maria Benkasert"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Imre Maria Benkert"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Imre Maria Benkasert"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Imre Maria Benkert"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Imre Maria Benkert"
+    }
+  ]
+}

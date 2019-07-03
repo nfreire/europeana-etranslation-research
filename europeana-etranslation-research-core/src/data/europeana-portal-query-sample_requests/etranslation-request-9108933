@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "ALBERT CAMUS",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9108933",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿ALBERT CAMEUS"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿ALBERT CAMEUS"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿ALBERT CAMUS"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿ALBERT CAMUS"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿ALBERT CAMUS"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿ALBERT CAMUS"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿ALBERT CAMUS"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿ALBERT CAMUS"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿ALBERT CAMUS"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿ALBERT CAMUS"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿ALBERT CAMUS"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿ALBERT CAMUS"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿ALBERT CAMUS"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿ALBERT CAMUS"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿ALBERT CAMUS"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿ALBERT CAMUS"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿ALBERT CAMUS"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿ALBERT CAMUS"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿ALBERT CAMUS"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿ALBERT CAMUS"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿ALBERT CAMUS"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿ALBERT CAMUS"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿ALBERT CAMUS"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿ALBERT CAMUS"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿ALBERT CAMUS"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿ALBERT CAMUS"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿ALBERT CAMUS"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿ALBERT CAMUS"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿ALBERT CAMUS"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿ALBERT CAMUS"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿ALBERT CAMUS"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿ALBERT CAMUS"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "David Michelangelo",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109064",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿David Michelangelo"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿David Michelangelo"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿David Michelangelo"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿David Michelangelo"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿David Michelangelo"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿David Michelangelo"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿David Michelangelo"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿David Michelangelo"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿David Michel-Ange"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿David Michel-Ange"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿David Michelangelo"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿David Michelangelo"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿David Michelangelo"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿David Michelangelo"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿David Michelangelo"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿David Michelangelo"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿David Michelangelo"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿David Michelangelo"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿David Michelangelo"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿David Michelangelo"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿David Michelangelo"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿David Michelangelo"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿David Michelangelo"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿David Michelangelo"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿David Michała Anioł"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿David Michała Anioł"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿David Michelangelo"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿David Michelangelo"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿David Michelangelo"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿David Michelangelo"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿David Michelangelo"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿David Michelangelo"
+    }
+  ]
+}

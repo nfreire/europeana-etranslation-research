@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "alamander",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9108968",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Alamider"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Alamider"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿lamparadoria"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿lamparadoria"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿calúnia"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿calúnia"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿alamander"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿alamander"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Amalander"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Amalander"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿alambander"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿alambander"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿alamander"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿alamander"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿αλamander"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿αλamander"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿alamander"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿alamander"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿alamander"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿alamander"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Ballander (liigist"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Ballander (liigist"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Alramder"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Alramder"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿alamander"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿alamander"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿alamander"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿alamander"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿alamander"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿alamander"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿alamander"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿alamander"
+    }
+  ]
+}

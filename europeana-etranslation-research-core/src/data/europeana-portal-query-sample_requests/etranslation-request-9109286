@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Libro de la Monteria",
+    "sourceLanguage": "es",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109286",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Monteria Book"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Monteria Book"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Monteria Book"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Monteria Book"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Livro de Monteria Book"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Livro de Monteria Book"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿„Monteria“ knyga"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿„Monteria“ knyga"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Monteria Book"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Monteria Book"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Monteria könyv"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Monteria könyv"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Monteria Book"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Monteria Book"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Monteria Book"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Monteria Book"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Monteria Book"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Monteria Book"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Monteria Book"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Monteria Book"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Monteria Book"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Monteria Book"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Kniha o Monateria"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Kniha o Monateria"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿„Monteria Book”"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿„Monteria Book”"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Monteria"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Monteria Book"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Monteria"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Monteria Book"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Monteria Book"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Monteria Book"
+    }
+  ]
+}

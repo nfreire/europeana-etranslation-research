@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "adam",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109053",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Adam"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Adam"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Adam"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Adam"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Adam"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Adam"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Adam"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Adam"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Adam"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Adam"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Adam"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Adam"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Adam"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Adam"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Adam"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Adam"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Adam"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Adam"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Adam"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Adam"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Adam"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Adam"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Adam"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Adam"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Adam"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Adam"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Adam"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Adam"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Adam"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Adam"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Adam"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Adam"
+    }
+  ]
+}

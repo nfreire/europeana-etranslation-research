@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "jean denis janvier",
+    "sourceLanguage": "pt",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109302",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Jean Denis JANvier"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Jean Denis JANvier"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Jean Denis janvier"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Jean Denis janvier"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Jean Denis janvier"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Jean Denis janvier"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Jean Denis janvier"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Jean Denis janvier"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Jean Denis janvier"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Jean Denis janvier"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Jean Denis januari"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Jean Denis januari"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Jean Denis janvier"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Jean Denis janvier"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Jean Denis janvier"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Jean Denis janvier"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Jean Denis janvier"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Jean Denis janvier"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Jean Denis janvier"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Jean Denis janvier"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Jean Denis janvier"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Jean Denis janvier"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Jean Denis janvier"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Jean Denis janvier"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Jean Denis janvier"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Jean Denis janvier"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Jean Denis janvier"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Jean Denis janvier"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Jean Denis janvier"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Jean Denis janvier"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Jean Denis janvier"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Jean Denis janvier"
+    }
+  ]
+}

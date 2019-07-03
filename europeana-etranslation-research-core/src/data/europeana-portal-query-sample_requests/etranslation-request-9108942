@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Freut euch des Lebens",
+    "sourceLanguage": "de",
+    "targetLanguages": [
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9108942",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "FI",
+      "translatedText": "﻿Odottaa elämää"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Odottaa elämää"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Aguarda com expectativa a vida"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Aguarda com expectativa a vida"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Laukia asmeninio gyvenimo"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Laukia asmeninio gyvenimo"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Doutez de votre vie"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Doutez de votre vie"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Várja az életét"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Várja az életét"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Ser fram emot livet"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Ser fram emot livet"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Προσβλέπει στη ζωή"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Προσβλέπει στη ζωή"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Looks forward to life"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Looks forward to life"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Prospettive per la vita"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Prospettive per la vita"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Espera la vida"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Espera la vida"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Ootab elu"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Ootab elu"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Dívá se na život"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Dívá se na život"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Oczekuje na życie"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Oczekuje na życie"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Ser frem til livet"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Așteaptă cu interes"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Ser frem til livet"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Așteaptă cu interes"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Kijkt uit naar het leven"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Kijkt uit naar het leven"
+    }
+  ]
+}

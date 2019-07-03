@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "European Commission of the Danube",
+    "sourceLanguage": "hu",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109177",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Europäische Kommission der Donau"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Europäische Kommission der Donau"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Tonavan suojelukomissio"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Tonavan suojelukomissio"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Comissão Europeia do Danúbio"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Comissão Europeia do Danúbio"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Europos Komisija Dunojaus upėje"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Europos Komisija Dunojaus upėje"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Commission européenne du Danube"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Commission européenne du Danube"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Donaukommissionen"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Donaukommissionen"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Ευρωπαϊκή Επιτροπή Δούναβη"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Ευρωπαϊκή Επιτροπή Δούναβη"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿European Commission of the Danube"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿European Commission of the Danube"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Commissione europea del Danubio"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Commissione europea del Danubio"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Comisión Europea del Danubio"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Comisión Europea del Danubio"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Euroopa Komisjon Doonau jõgi"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Euroopa Komisjon Doonau jõgi"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Evropská komise pro Dunaj"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Evropská komise pro Dunaj"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Komisja Dunaju"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Komisja Dunaju"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Donaukommissionen"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Comisia Europeană a Dunării"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Donaukommissionen"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Comisia Europeană a Dunării"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Europese Commissie van de Donau"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Europese Commissie van de Donau"
+    }
+  ]
+}

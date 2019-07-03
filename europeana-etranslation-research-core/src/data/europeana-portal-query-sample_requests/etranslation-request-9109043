@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "AJALOOTUND",
+    "sourceLanguage": "nl",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "ca"
+    ]
+  },
+  "requestId": "9109043",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿AJALOKTUND"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿AJALOKTUND"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿AJPUUNTA"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿AJPUUNTA"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿AJALONOTUND"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿AJALONOTUND"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿AJALOTOUND"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿AJALOTOUND"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿AJUALOTUND"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿AJUALOTUND"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿AJALOOTUND"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿AJALOOTUND"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿AJALOUNLUND"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿AJALOUNLUND"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿AJASOTOTUND"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿AJASOTOTUND"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿AJALOOTUND"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿AJALOOTUND"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿AJOOOTUND"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿AJOOOTUND"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿AJALOOTUND"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿AJALOOTUND"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿AJALOOTUND"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿AJALOOTUND"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿AJALOOTUND"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿AJALOOTUND"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿AJALOOTUND"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿AJALOOTUND"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿ART. AJALOOTUND"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿AJALOOTUND"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿ART. AJALOOTUND"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿AJALOOTUND"
+    }
+  ]
+}

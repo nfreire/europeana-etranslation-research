@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "de dakar",
+    "sourceLanguage": "fr",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109260",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿von Dakar"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿von Dakar"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿de Dakar"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿de Dakar"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿de Dacar"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿de Dacar"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿de Dakaras"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿de Dakaras"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿de dakari"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿de dakari"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿de Dakar"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿de Dakar"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿de Ντακάρ"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿de Ντακάρ"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿de Dakar"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿de Dakar"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿a Dakar"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿a Dakar"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿de Dakar"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿de Dakar"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿de Dakar"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿de Dakar"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿de Dakar"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿de Dakar"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿de Dakar"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿de Dakar"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿de Dakar"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿de Dakar"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿de Dakar"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿de Dakar"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Dakar"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Dakar"
+    }
+  ]
+}

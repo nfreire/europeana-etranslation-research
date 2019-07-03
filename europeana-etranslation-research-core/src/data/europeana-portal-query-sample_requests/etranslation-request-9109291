@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "achille",
+    "sourceLanguage": "it",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109291",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Achille"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Achille"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Achile"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Achile"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Achille"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Achille"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Achille"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Achille"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Achille"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Achille"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Achille"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Achille"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Achille"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Achille"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Achille"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Achille"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Achille"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Achille"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Achile"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Achile"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Achille"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Achille"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Achill"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Achill"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Achille"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Achille"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Achille"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Achille"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Achille"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Achille"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Achille"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Achille"
+    }
+  ]
+}

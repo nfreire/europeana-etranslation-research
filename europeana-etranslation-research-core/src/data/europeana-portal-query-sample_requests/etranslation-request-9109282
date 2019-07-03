@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Dictionnaire de chimie",
+    "sourceLanguage": "es",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109282",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Chimie (Dictionnaire de Chimie)"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Chimie (Dictionnaire de Chimie)"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Diconnaire de Chimie"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Diconnaire de Chimie"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Dictionnaire de Chimie"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Dictionnaire de Chimie"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Dictionnaire de Chimie"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Dictionnaire de Chimie"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Dictionnaire de chimie"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Dictionnaire de chimie"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Dictionnaire de Chimie"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Dictionnaire de Chimie"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Dictionnaire de Chimie"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Dictionnaire de Chimie"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Dictionnaire de Chimie"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Dictionnaire de Chimie"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Dictionnaire de Chimie"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Dictionnaire de Chimie"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Funzionario di Chimie"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Funzionario di Chimie"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Dictionnaire de Chimie"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Dictionnaire de Chimie"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Dictionnaire de Chimie"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Dictionnaire de Chimie"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Dictionnaire de Chmie"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Dictionnaire de Chmie"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Dictionnaire de Chimie"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Dictionaire de Chimie"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Dictionnaire de Chimie"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Dictionaire de Chimie"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Dictionnaire de Chimie"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Dictionnaire de Chimie"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "sir walter scott",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109370",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿sehr geehrter Herr/Sehr geehrter Herr,"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿sehr geehrter Herr/Sehr geehrter Herr,"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿”Sir wenter scott”"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿”Sir wenter scott”"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Sir walter scott"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Sir walter scott"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿seras wactscott"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿seras wactscott"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Sir wter scott"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Sir wter scott"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Sir walter scott"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Sir walter scott"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Sir walter scortt"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Sir walter scortt"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Sir walter scopt"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Sir walter scopt"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Sir wwalter scott"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Sir wwalter scott"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿SIR walter scott"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿SIR walter scott"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Sir water scott"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Sir water scott"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿vážený pane,"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿vážený pane,"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Sir walter sskot"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Sir walter sskot"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Sir walter scopt"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿SIR având un domeniu de aplicare"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Sir walter scopt"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿SIR având un domeniu de aplicare"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Verandersstaart-cott"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Verandersstaart-cott"
+    }
+  ]
+}

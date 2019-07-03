@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "agrigento",
+    "sourceLanguage": "pt",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109381",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Agrigento"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Agrigento"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Agrigento"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Agrigento"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Agrigentas"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Agrigentas"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Agrigento"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Agrigento"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Agrigento"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Agrigento"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Agrigento"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Agrigento"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Agrigento"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Agrigento"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Agrigento"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Agrigento"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Agrigento"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Agrigento"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Agrigento"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Agrigento"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Agrigento"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Agrigento"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Agrigento"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Agrigento"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Agrigento"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Agrigento"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Agrigento"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Agrigento"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Agrigento"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Agrigento"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Agrigento"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Agrigento"
+    }
+  ]
+}

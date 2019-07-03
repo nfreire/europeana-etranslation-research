@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Karl von Hailbronner",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109417",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Karl von Hailbronner"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Karl von Hailbronner"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Karl von Hailbronner"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Karl von Hailbronner"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Karl von Haiailner"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Karl von Haiailner"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Karl von Hailbronner"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Karl von Hailbronner"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Karl von Hailbronner"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Karl von Hailbronner"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Karl von Hailbronner"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Karl von Hailbronner"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Karl von Hailbronner"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Karl von Hailbronner"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Karl von Hailbronner"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Karl von Hailbronner"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Karl von Hailbronner"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Karl von Hailbronner"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Karl von Hailbronner"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Karl von Hailbronner"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Karl von Hailbronner"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Karl von Hailbronner"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Karl von Hailbronner"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Karl von Hailbronner"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Karl von Heilbronner"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Karl von Heilbronner"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Karl von Hailbronner"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Karl von Hailbronner"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Karl von Hailbronner"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Karl von Hailbronner"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Karl von Hailbronner"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Karl von Hailbronner"
+    }
+  ]
+}

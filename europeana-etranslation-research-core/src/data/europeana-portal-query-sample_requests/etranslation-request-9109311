@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "a christmas carol",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109311",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿ein Weihnachtskarl"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿ein Weihnachtskarl"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿a christmas carol"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿a christmas carol"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿uma carol de Natal"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿uma carol de Natal"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿chrikšmas karolis"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿chrikšmas karolis"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿a motif de Noël carol"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿a motif de Noël carol"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿egy keresztakarol"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿egy keresztakarol"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿a chritsmas"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿a chritsmas"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿ischrichtmas carol"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿ischrichtmas carol"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿un carolo di Natale"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿un carolo di Natale"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿una carol mas fuerte"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿una carol mas fuerte"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿a kuusekkarool"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿a kuusekkarool"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿cample pakarl"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿cample pakarl"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Kartmas karol"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Kartmas karol"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿a chrittmas carol"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿un carol chrimas"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿a chrittmas carol"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿un carol chrimas"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿een kerstmis carl"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿een kerstmis carl"
+    }
+  ]
+}

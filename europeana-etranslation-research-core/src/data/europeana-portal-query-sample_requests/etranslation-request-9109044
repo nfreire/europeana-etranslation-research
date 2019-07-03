@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Amelia de la Torre",
+    "sourceLanguage": "es",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109044",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Amelia de la Torre"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Amelia de la Torre"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Amelia de la Torre"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Amelia de la Torre"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Amelia de la Torre"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Amelia de la Torre"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Amelia de la Torre"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Amelia de la Torre"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Amelia de la Torre"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Amelia de la Torre"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Amelia de la Torre"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Amelia de la Torre"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Amelia de la Torre"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Amelia de la Torre"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Amelia de la Torre"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Amelia de la Torre"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Amelia de la Torre"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Amelia de la Torre"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Amelia de la Torre"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Amelia de la Torre"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Amelia de la Torre"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Amelia de la Torre"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Amelia de la Torre"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Amelia de la Torre"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Amelia de la Torre"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Amelia de la Torre"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Amelia de la Torre"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Amelia de la Torre"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Amelia de la Torre"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Amelia de la Torre"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Amelia de la Torre"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Amelia de la Torre"
+    }
+  ]
+}

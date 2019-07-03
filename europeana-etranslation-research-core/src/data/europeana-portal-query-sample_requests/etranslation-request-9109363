@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "virginis ROSAE",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109363",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Virginis ROSAE"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Virginis ROSAE"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿virginssi on ROSAE"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿virginssi on ROSAE"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿virginis ROSAE"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿virginis ROSAE"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿(*)"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿(*)"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿virginey ROSAE"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿virginey ROSAE"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿virginis ROSAE"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿virginis ROSAE"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿virginis ROSAE"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿virginis ROSAE"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿virginis ROSAE"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿virginis ROSAE"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿virginidae"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿virginidae"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿virginia ROSAE"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿virginia ROSAE"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿virgiin on ROSAE"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿virgiin on ROSAE"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿virginis"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿virginis"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿virginis ROSAE"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿virginis ROSAE"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿virgins ROSAE"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿virginris ROSAE"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿virgins ROSAE"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿virginris ROSAE"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿maagminaat ROSAE"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿maagminaat ROSAE"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "david spinat",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109096",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿David Spinat"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿David Spinat"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿David spinoat"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿David spinoat"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿David spat"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿David spat"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿David spinat"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿David spinat"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿David spinat"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿David spinat"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿David spinat"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿David spinat"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿David spinat"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿David spinat"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿David Sponat"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿David Sponat"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿David spinat"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿David spinat"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿David spinat"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿David spinat"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿David spinat"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿David spinat"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿David spinat"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿David spinat"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿David Spinat"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿David Spinat"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿David spinat"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿David spinat"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿David spinat"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿David spinat"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿David spinat"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿David spinat"
+    }
+  ]
+}

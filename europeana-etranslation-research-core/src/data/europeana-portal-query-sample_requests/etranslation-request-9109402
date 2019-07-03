@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "agrell sundsvall",
+    "sourceLanguage": "sv",
+    "targetLanguages": [
+      "de",
+      "no",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109402",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Agrel Sundsvall"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Agrel Sundsvall"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿agrel Sundsvallall"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿agrel Sundsvallall"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿agrel Sundsvall"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿agrel Sundsvall"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿agresija Sundsvall"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿agresija Sundsvall"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿agrel Sundsvall"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿agrel Sundsvall"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿magundsvall"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿magundsvall"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿αγρός Sundsvall"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿αγρός Sundsvall"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿agrel Sundsvall"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿agrel Sundsvall"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿agrel Sundsvall"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿agrel Sundsvall"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Sundsvall"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Sundsvall"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿agrel Sundsvall"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿agrel Sundsvall"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿souhlasíl Sundsvall"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿souhlasíl Sundsvall"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Sundsvall"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Sundsvall"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿agreed Sundsvall"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿portul Sundsvall"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿agreed Sundsvall"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿portul Sundsvall"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿agreol Sundsvall"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿agreol Sundsvall"
+    }
+  ]
+}

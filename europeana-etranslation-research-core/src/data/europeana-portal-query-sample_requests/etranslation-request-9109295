@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Tonkunstler Mahler",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109295",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Tonkunstler Mahler"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Tonkunstler Mahler"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Tonkunstler Mahler"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Tonkunstler Mahler"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Tonkunstler Mahler"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Tonkunstler Mahler"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Tonkunstler Mahler"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Tonkunstler Mahler"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Tonkunstler Mahler"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Tonkunstler Mahler"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Tondnastler Mahler"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Tondnastler Mahler"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Tonkunstler Mahler"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Tonkunstler Mahler"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Tonkundler Mahler"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Tonkundler Mahler"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Tonkunstler Mahler"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Tonkunstler Mahler"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Tonkunstler Mahler"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Tonkunstler Mahler"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Tonkundler Mahler"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Tonkundler Mahler"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Tonkunstler Mahler"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Tonkunstler Mahler"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Tonkunstler Mahler"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Tonkunstler Mahler"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Tonkunstuler Mahler"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Tonkunstler Mahler"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Tonkunstuler Mahler"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Tonkunstler Mahler"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Tonkunstler Mahler"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Tonkunstler Mahler"
+    }
+  ]
+}

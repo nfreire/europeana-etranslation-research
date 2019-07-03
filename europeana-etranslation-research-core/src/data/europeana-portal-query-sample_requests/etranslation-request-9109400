@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "der weltkrieg",
+    "sourceLanguage": "it",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109400",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿der Schweißei"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿der Schweißei"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿der weltkreeg"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿der weltkreeg"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿número de pessoas"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿número de pessoas"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿der weltkreg"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿der weltkreg"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿der weltkreeg"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿der weltkreeg"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿der weltrekeg"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿der weltrekeg"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Demonsktträdareg"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Demonsktträdareg"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Dudsmetkreag"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Dudsmetkreag"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿der weltkreeg"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿der weltkreeg"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿der weltkreem"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿der weltkreem"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿der weldkörg"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿der weldkörg"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿der weltkreeg"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿der weltkreeg"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿der weltkeg"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿der weltkeg"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿der weltckeg"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿der welpaskereg"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿der weltckeg"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿der welpaskereg"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿der weltkreeg"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿der weltkreeg"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Liberty",
+    "sourceLanguage": "de",
+    "targetLanguages": [
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109279",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "FI",
+      "translatedText": "﻿Vapaa"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Vapaa"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Liberdade"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Liberdade"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Laisvė"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Laisvė"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Liberty"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Liberty"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Szabadság"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Szabadság"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Frihet"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Frihet"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Ελευθερία"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Ελευθερία"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Liberty"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Liberty"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Libertà"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Libertà"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Libertad"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Libertad"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Vabadus"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Vabadus"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Svoboda"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Svoboda"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Liberty"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Liberty"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Frihed"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Libertate"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Frihed"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Libertate"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Vrijheid"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Vrijheid"
+    }
+  ]
+}

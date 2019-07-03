@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "a kezdeti",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9108962",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿a ketdeti"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿a ketdeti"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿a kezdeti"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿a kezdeti"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿um kezdeti"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿um kezdeti"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿a kezdeti"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿a kezdeti"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿un kezdeti"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿un kezdeti"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿a ketti"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿a ketti"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿a kezdeti"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿a kezdeti"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿A kezdeti"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿A kezdeti"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿kozdeti"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿kozdeti"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿kevdeti"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿kevdeti"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿a kezdeti"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿a kezdeti"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿kezdeti"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿kezdeti"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿a kizdeti"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿a kizdeti"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿en kezdeti"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿kezdeti"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿en kezdeti"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿kezdeti"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿een ketzdeti"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿een ketzdeti"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "aerial warfare",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109333",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Luftführung"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Luftführung"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿ilmasodankäynti"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿ilmasodankäynti"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿guerra aérea"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿guerra aérea"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿karo išpuoliai iš oro"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿karo išpuoliai iš oro"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿guerre aérienne"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿guerre aérienne"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿légi hadviselés"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿légi hadviselés"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿flygkrigföring"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿flygkrigföring"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿εναέριες πολεμικές επιχειρήσεις"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿εναέριες πολεμικές επιχειρήσεις"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿guerra aerea"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿guerra aerea"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿guerra aérea"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿guerra aérea"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿õhurõda"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿õhurõda"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿letecká válka"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿letecká válka"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿wojna lotnicza"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿wojna lotnicza"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿luftkrigsførelse"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿război aerian"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿luftkrigsførelse"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿război aerian"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿luchtoorlogsvoering"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿luchtoorlogsvoering"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "roger ii sicily",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109084",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Roger ii Sikily"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Roger ii Sikily"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Roger ii sicurer"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Roger ii sicurer"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Roger ii sichily"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Roger ii sichily"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Roger ii sicusiy"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Roger ii sicusiy"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Roger ii sicilici"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Roger ii sicilici"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Roger ii Silian"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Roger ii Silian"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Roger ii sicherly"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Roger ii sicherly"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Roger (II)"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Roger (II)"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Roger ii sicur"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Roger ii sicur"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿constituido por un siel secante"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿constituido por un siel secante"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Sarviksiilina"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Sarviksiilina"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Roger ii sicilované"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Roger ii sicilované"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Roger (silni Ży)"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Roger (silni Ży)"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Roger ii)"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Roger ii sicly"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Roger ii)"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Roger ii sicly"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Strijd"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Strijd"
+    }
+  ]
+}

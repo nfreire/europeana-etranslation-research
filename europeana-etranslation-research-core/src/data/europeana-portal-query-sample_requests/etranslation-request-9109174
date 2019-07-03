@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "charles waring",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109174",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Charles Wwad"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Charles Wwad"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Charles wusing"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Charles wusing"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Charles wing"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Charles wing"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿„Charles wdring“"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿„Charles wdring“"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Charles Warring"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Charles Warring"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Charles Vraing"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Charles Vraing"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Charles wing"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Charles wing"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Καρόλωση"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Καρόλωση"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Charles waring"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Charles waring"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Charles Caring"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Charles Caring"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Charles Waring"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Charles Waring"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Charles wing"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Charles wing"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Karkony Karola"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Karkony Karola"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Charles wliing"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Charles waring"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Charles wliing"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Charles waring"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Charles waring"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Charles waring"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Albacete",
+    "sourceLanguage": "es",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109126",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Albacete"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Albacete"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Albacete"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Albacete"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Albacete"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Albacete"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Albacete"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Albacete"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Albacete"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Albacete"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Ήπειρος"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Ήπειρος"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Albacete"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Albacete"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Albacete"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Albacete"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Albacete"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Albacete"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Albacete"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Albacete"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Albacete"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Albacete"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Albacete"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Albacete"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Albacete [pic]"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Albacete [pic]"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Albacete"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Albacete"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Albacete"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Albacete"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Albacete"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Albacete"
+    }
+  ]
+}

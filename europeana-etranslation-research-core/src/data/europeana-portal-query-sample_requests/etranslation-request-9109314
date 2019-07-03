@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "A Guide to Patterns and Usage in English",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109314",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Ein Leitfaden für Muster und Nutzung in englischer Sprache"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Ein Leitfaden für Muster und Nutzung in englischer Sprache"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿A Guide to Paterns and Usage in English"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿A Guide to Paterns and Usage in English"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Guia de Patterns e Utilização em inglês"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Guia de Patterns e Utilização em inglês"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Terminų ir naudojimo vadovas anglų kalba."
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Terminų ir naudojimo vadovas anglų kalba."
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Guide sur les modèles et l’utilisation en anglais"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Guide sur les modèles et l’utilisation en anglais"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Útmutató a „patternák” és a „Használatok” című kiadványhoz angol nyelven"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Útmutató a „patternák” és a „Használatok” című kiadványhoz angol nyelven"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿En vägledning för mönster och användning på engelska"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿En vägledning för mönster och användning på engelska"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿A Guide to Patterns and Usage (Οδηγός για τους τύπους και το φασκόμηλο) στα"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿A Guide to Patterns and Usage (Οδηγός για τους τύπους και το φασκόμηλο) στα"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Una guida per modelli e uso in inglese"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Una guida per modelli e uso in inglese"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Guía de Patterns y Uso en inglés"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Guía de Patterns y Uso en inglés"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Guide to Paterns and definition in inglise keeles (Juhend Patterns ja"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Guide to Paterns and definition in inglise keeles (Juhend Patterns ja"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Návod ke zpracování a použití v angličtině"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Návod ke zpracování a použití v angličtině"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Przewodnik po językach angielskim"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Przewodnik po językach angielskim"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿En guide til mønstre og brug på engelsk"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Ghid de utilizare și utilizare în limba engleză"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿En guide til mønstre og brug på engelsk"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Ghid de utilizare și utilizare în limba engleză"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Een gids voor Patterns en gebruik in het Engels"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Een gids voor Patterns en gebruik in het Engels"
+    }
+  ]
+}

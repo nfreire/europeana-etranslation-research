@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Admiral Rolf carls",
+    "sourceLanguage": "de",
+    "targetLanguages": [
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9108970",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "FI",
+      "translatedText": "﻿Amiraali Rolf Carls"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Amiraali Rolf Carls"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Contra-almirante Rolf Carls"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Contra-almirante Rolf Carls"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Admirolas Rolf Carls"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Admirolas Rolf Carls"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Amiral Rolf Carls"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Amiral Rolf Carls"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Rolf Carls admirális"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Rolf Carls admirális"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Amiral Rolf Carls"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Amiral Rolf Carls"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Αντιναύαρχος Rolf Carls"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Αντιναύαρχος Rolf Carls"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Admiral Rolf Carls"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Admiral Rolf Carls"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Dott. Ammiraglio Rolf Carls"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Dott. Ammiraglio Rolf Carls"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Almirante Rolf Carls"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Almirante Rolf Carls"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Admiral Rolf Carls"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Admiral Rolf Carls"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Admirál Rolf Carls"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Admirál Rolf Carls"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Admirał Rolf Carls"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Admirał Rolf Carls"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Admiral Rolf Carls"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Contraamiral Rolf Carls"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Admiral Rolf Carls"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Contraamiral Rolf Carls"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Admiraal Rolf van Carls"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Admiraal Rolf van Carls"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "albiolo",
+    "sourceLanguage": "it",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109287",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Albiol"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Albiol"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Albiol"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Albiol"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Albiol"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Albiol"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Albiol"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Albiol"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Albiol"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Albiol"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Albiol"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Albiol"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Albiol"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Albiol"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿η Albiol"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿η Albiol"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿albiol"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿albiol"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Albiol"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Albiol"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Albiol"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Albiol"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Albiol"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Albiol"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Albiol"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Albiol"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Albiol"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Albiol"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Albiol"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Albiol"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Albiol"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Albiol"
+    }
+  ]
+}

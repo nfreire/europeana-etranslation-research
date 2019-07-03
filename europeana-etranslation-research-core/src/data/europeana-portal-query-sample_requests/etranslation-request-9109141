@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Graf Ostrowsky",
+    "sourceLanguage": "fr",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109141",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Graf OSTROWSKY"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Graf OSTROWSKY"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Graf Ostrowsky"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Graf Ostrowsky"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Graf Ostrowsky"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Graf Ostrowsky"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Graf Ostrowsky"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Graf Ostrowsky"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Alexander Graf Ostowsky"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Alexander Graf Ostowsky"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Graf Ostrawsky"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Graf Ostrawsky"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Graf Ostrowsky"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Graf Ostrowsky"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Mr Graf OSTROWSKY"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Mr Graf OSTROWSKY"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Sig. Graf Ostrowsky"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Sig. Graf Ostrowsky"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Sr. Graf Ostwsky"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Sr. Graf Ostwsky"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Hr Graf Ostrowsky"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Hr Graf Ostrowsky"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Pan Graf Ostrowský"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Pan Graf Ostrowský"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿SZ. Pan Graf Ostrowsky"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿SZ. Pan Graf Ostrowsky"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Graf Ostrowsky"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Dl Graf Ostrowsky"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Graf Ostrowsky"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Dl Graf Ostrowsky"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿De heer Graf Ostrosky"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿De heer Graf Ostrosky"
+    }
+  ]
+}

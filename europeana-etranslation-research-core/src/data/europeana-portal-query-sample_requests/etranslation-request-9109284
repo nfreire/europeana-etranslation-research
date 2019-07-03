@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "The handy royal atlas of modern geography",
+    "sourceLanguage": "pl",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109284",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Der Geographieatlas für moderierte Geographie"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Der Geographieatlas für moderierte Geographie"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Handy royal Atlas of stered Geography"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Handy royal Atlas of stered Geography"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿O atlas real de «geografia moderada»"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿O atlas real de «geografia moderada»"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Šlėstamos geoografijos karališkasis karališkasis atlasas"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Šlėstamos geoografijos karališkasis karališkasis atlasas"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿L’atlas de la géographie modérée de handball"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿L’atlas de la géographie modérée de handball"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿A moderált földrajzról szóló Handy királyi atlasz"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿A moderált földrajzról szóló Handy királyi atlasz"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Aduate kungen över moderate Geografi"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Aduate kungen över moderate Geografi"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Ο κ. Handy royal Άτλαντα συντονιζόμενης Γεωγραφίας"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Ο κ. Handy royal Άτλαντα συντονιζόμενης Γεωγραφίας"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿The Handy royal atlas of moderated Geography"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿The Handy royal atlas of moderated Geography"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Atlante Manifestazione reale della geografia moderata"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Atlante Manifestazione reale della geografia moderata"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿El atlas real de manuales de Geografía moderada"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿El atlas real de manuales de Geografía moderada"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Handy kuninglik kaatlas motoriseeritud geograafia atlas"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Handy kuninglik kaatlas motoriseeritud geograafia atlas"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Obyčejný atlas modelového geografie"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Obyčejný atlas modelového geografie"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Handy-kongeatlasset med modereret geografi"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Atlas regal moderat de Geografie"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Handy-kongeatlasset med modereret geografi"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Atlas regal moderat de Geografie"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿De Handy Koninklijke atlas van gemodereerde geografie"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿De Handy Koninklijke atlas van gemodereerde geografie"
+    }
+  ]
+}

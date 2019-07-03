@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "acrobate",
+    "sourceLanguage": "fr",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109101",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Acetatat"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Acetatat"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Akrobaaatti"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Akrobaaatti"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿acrobate"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿acrobate"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Akrobatas"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Akrobatas"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿akrobate"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿akrobate"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿akrobat"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿akrobat"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿ακροκαρτη"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿ακροκαρτη"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿acrobate"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿acrobate"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿acrato"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿acrato"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿acrobates"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿acrobates"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿akrobate"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿akrobate"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿akroban"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿akroban"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿akroblacja"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿akroblacja"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿acrobate"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿acrobat"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿acrobate"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿acrobat"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿acrobaat"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿acrobaat"
+    }
+  ]
+}

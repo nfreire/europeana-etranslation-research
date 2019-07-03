@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "banyan",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109010",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Banyan"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Banyan"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Banyanin"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Banyanin"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Banyan"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Banyan"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Banyan"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Banyan"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Banyan"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Banyan"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Banian"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Banian"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Banyan"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Banyan"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Banyan"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Banyan"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Banyan"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Banyan"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Banyan"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Banyan"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Banyan"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Banyan"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Banyan"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Banyan"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Banyan"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Banyan"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Banyan"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Banyan"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Banyan"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Banyan"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Banyan"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Banyan"
+    }
+  ]
+}

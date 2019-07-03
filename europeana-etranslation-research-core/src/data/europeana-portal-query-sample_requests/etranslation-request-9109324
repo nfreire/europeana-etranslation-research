@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "aansprekersoproer",
+    "sourceLanguage": "nl",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "ca"
+    ]
+  },
+  "requestId": "9109324",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Streuer"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Streuer"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿levitin"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿levitin"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿distribuidor de carga"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿distribuidor de carga"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿griebtuvas"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿griebtuvas"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿rampe"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿rampe"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Késítőgép"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Késítőgép"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿spridare"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿spridare"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿μηχανήματα διασκορπισμού"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿μηχανήματα διασκορπισμού"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿spreader"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿spreader"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿spanditori"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿spanditori"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿bastidor de anclaje"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿bastidor de anclaje"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿laiend"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿laiend"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿rozmetadlo"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿rozmetadlo"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿zawiesie"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿zawiesie"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿løfteåg"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿distribuitor"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿løfteåg"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿distribuitor"
+    }
+  ]
+}

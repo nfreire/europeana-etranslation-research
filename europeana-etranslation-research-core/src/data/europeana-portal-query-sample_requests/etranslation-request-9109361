@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Aethiopus",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109361",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Aethiopus"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Aethiopus"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Aethiopus"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Aethiopus"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Aethoniopus"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Aethoniopus"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Aetiopus"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Aetiopus"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Aethiopus"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Aethiopus"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Aethiopus"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Aethiopus"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Aethopus"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Aethopus"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Aethiopus"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Aethiopus"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Mezzi di trasporto"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Mezzi di trasporto"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Aetipus"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Aetipus"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Aethiopus"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Aethiopus"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Aethiopus"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Aethiopus"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Aethiopus"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Aethiopus"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Aethiopus"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Aethopus"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Aethiopus"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Aethopus"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Aethiopus"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Aethiopus"
+    }
+  ]
+}

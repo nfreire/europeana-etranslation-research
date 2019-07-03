@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "calvin blanchard",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9108909",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Calvin Blanchard"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Calvin Blanchard"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Calvin Blanchard"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Calvin Blanchard"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Calvin Blanchard"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Calvin Blanchard"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Calvin Blanchard"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Calvin Blanchard"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Calvin Blanchard"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Calvin Blanchard"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Calvin Blanchard"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Calvin Blanchard"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Calvin Blanchard"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Calvin Blanchard"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Calvin Blanchard"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Calvin Blanchard"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Calvin Blanchard"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Calvin Blanchard"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Calvin Blanchard"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Calvin Blanchard"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Calvin Blanchard"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Calvin Blanchard"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Calvin Blanchard"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Calvin Blanchard"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Calvin Blanchard"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Calvin Blanchard"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Calvin Blanchard"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Calvin Blanchard"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Calvin Blanchard"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Calvin Blanchard"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Calvin Blanchard"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Calvin Blanchard"
+    }
+  ]
+}

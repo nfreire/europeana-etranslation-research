@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "agny",
+    "sourceLanguage": "fr",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109327",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Glanzfaden"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Glanzfaden"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Agny"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Agny"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿agny"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿agny"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿„agny“"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿„agny“"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Agny"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Agny"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿agny"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿agny"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿agny"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿agny"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿agny"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿agny"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Amazona"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Amazona"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿agny"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿agny"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Agnny"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Agnny"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿agny"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿agny"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿gny"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿gny"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿AGny"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿carny"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿AGny"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿carny"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿agny"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿agny"
+    }
+  ]
+}

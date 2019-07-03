@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "aeolian harp",
+    "sourceLanguage": "pl",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9108998",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Aelian Harp"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Aelian Harp"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Aelian HARP"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Aelian HARP"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿harpa («haran harpa»)"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿harpa («haran harpa»)"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Ekstraherio grenlandinis har@@"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Ekstraherio grenlandinis har@@"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Aurian harp"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Aurian harp"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Aelian Harp"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Aelian Harp"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Elaeli Harp"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Elaeli Harp"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿ΑΡΑΛΟΓΙΚΟΣ ΑΡΓΥΡΟΣ"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿ΑΡΑΛΟΓΙΚΟΣ ΑΡΓΥΡΟΣ"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿aelian harp"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿aelian harp"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Hippoglossus hippoglossus"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Hippoglossus hippoglossus"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿HARP"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿HARP"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿arheoloogiline grööni hargröö@@"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿arheoloogiline grööni hargröö@@"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿harfy aelian harcold"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿harfy aelian harcold"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿\"amarisk harp\""
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Aelian harpă"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿\"amarisk harp\""
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Aelian harpă"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Elaap"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Elaap"
+    }
+  ]
+}

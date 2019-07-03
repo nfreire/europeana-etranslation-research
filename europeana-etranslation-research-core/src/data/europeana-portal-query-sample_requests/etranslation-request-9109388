@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Al Horezmi",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109388",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Al Horezmi"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Al Horezmi"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Al Horezmi"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Al Horezmi"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Al Horezmi"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Al Horezmi"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Al Horezmi"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Al Horezmi"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Al Horezmi"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Al Horezmi"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Al Lorezmi"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Al Lorezmi"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Al Horezmi"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Al Horezmi"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Al Horezmi"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Al Horezmi"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Al Horzmi"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Al Horzmi"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Al Horezmi"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Al Horezmi"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Al Horezmi"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Al Horezmi"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Al Herorezmi"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Al Herorezmi"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Al Horezmi"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Al Horezmi"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Al Horezmi"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Al Horezmi"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Al Horezmi"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Al Horezmi"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Al Horezmi"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Al Horezmi"
+    }
+  ]
+}

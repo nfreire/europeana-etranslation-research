@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "great greec",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109142",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Grant Greec"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Grant Greec"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Greec"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Greec"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Greet"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Greet"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿„Great Greef“"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿„Great Greef“"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿grand grec"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿grand grec"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿nagyszerű Greek"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿nagyszerű Greek"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Great Grec"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Great Grec"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿μέγα Greec"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿μέγα Greec"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿grande Grecia"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿grande Grecia"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Graduado griego"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Graduado griego"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿GreiGrec"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿GreiGrec"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿velké řecké"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿velké řecké"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Greet Greet"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Greet Greet"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Greek Greek Greek"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Great Grec"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Greek Greek Greek"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Great Grec"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Great Greet"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Great Greet"
+    }
+  ]
+}

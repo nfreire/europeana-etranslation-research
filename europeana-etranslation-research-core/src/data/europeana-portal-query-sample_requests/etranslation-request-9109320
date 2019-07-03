@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "bill of rights",
+    "sourceLanguage": "fr",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109320",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Bill of rights"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Bill of rights"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿lakiehdotus"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿lakiehdotus"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿mapa de direitos"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿mapa de direitos"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿teisių sąskaita"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿teisių sąskaita"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿jogszámla"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿jogszámla"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿räkning av rättigheter"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿räkning av rättigheter"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿σχετικά με τα δικαιώματα"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿σχετικά με τα δικαιώματα"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿bill of rights"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿bill of rights"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿computo dei diritti"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿computo dei diritti"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿conocimiento de los derechos"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿conocimiento de los derechos"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿õiguste loetelu"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿õiguste loetelu"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿soupis práv"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿soupis práv"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿projekt ustawy"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿projekt ustawy"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Bill of rights"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿decontul drepturilor"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Bill of rights"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿decontul drepturilor"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿wet op de rechten"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿wet op de rechten"
+    }
+  ]
+}

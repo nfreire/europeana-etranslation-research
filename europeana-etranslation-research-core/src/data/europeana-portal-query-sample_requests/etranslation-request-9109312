@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "ait chichar",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109312",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿AIT Chichhar"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿AIT Chichhar"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿AIT chihar"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿AIT chihar"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿AIT chicar"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿AIT chicar"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿AIT chichar"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿AIT chichar"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿chicephar AIT"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿chicephar AIT"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿AIT chichar"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿AIT chichar"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿AIT chihart"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿AIT chihart"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿AIT chchiahar"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿AIT chchiahar"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Nephar"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Nephar"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿AIT Chickhar"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿AIT Chickhar"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿AIT chichar"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿AIT chichar"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿AIT čihar"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿AIT čihar"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿AIT chichar"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿AIT chichar"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Ait chiclehar"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿AIT chichar"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Ait chiclehar"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿AIT chichar"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿AIT chichar"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿AIT chichar"
+    }
+  ]
+}

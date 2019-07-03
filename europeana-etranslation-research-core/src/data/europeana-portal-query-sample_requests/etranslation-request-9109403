@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Don Quijote de la Mancha en Sierra Morena",
+    "sourceLanguage": "es",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109403",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿I Quijote de la Mancha de Sierra Morena"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿I Quijote de la Mancha de Sierra Morena"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿I Quijote de la Mancha en Sierra Morena"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿I Quijote de la Mancha en Sierra Morena"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿I Quijote de la Mancha en Sierra Morena"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿I Quijote de la Mancha en Sierra Morena"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿I Quijote de la Mancha en Sierra Morena"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿I Quijote de la Mancha en Sierra Morena"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿I Quijote de la Mancha en Sierra Morena"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿I Quijote de la Mancha en Sierra Morena"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿I. Quijete de la Mancha en Sierra Morena"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿I. Quijete de la Mancha en Sierra Morena"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿I Quijote de la Mancha en Sierra Morena"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿I Quijote de la Mancha en Sierra Morena"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿I Quijote de la Mancha en Sierra Morena"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿I Quijote de la Mancha en Sierra Morena"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿I Quijote de la Mancha en Sierra Morena"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿I Quijote de la Mancha en Sierra Morena"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿I Quijote de la Mancha en Sierra Morena"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿I Quijote de la Mancha en Sierra Morena"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿I Quijote de la Mancha en Sierra Morena"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿I Quijote de la Mancha en Sierra Morena"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Oblast I Quijóte de la Mancha v Sierra Morena"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Oblast I Quijóte de la Mancha v Sierra Morena"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿I Quijte de la Mancha en Sierra Morena"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿I Quijte de la Mancha en Sierra Morena"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Jeg Quijote de la Mancha en Sierra Morena"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿I Quijote de la Mancha en Sierra Morena"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Jeg Quijote de la Mancha en Sierra Morena"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿I Quijote de la Mancha en Sierra Morena"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿I Quijote de la Mancha en Sierra Morena"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿I Quijote de la Mancha en Sierra Morena"
+    }
+  ]
+}

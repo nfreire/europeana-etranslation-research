@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "act of law",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109406",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Gesetz"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Gesetz"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿laki"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿laki"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿lei de direito"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿lei de direito"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿teisės aktas"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿teisės aktas"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿l’acte de droit"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿l’acte de droit"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿jogi aktus"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿jogi aktus"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿lag"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿lag"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿νομοθετική πράξη"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿νομοθετική πράξη"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿atto giuridico"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿atto giuridico"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Ley de Derecho"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Ley de Derecho"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿seadus"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿seadus"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿právní akt"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿právní akt"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿akt prawny"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿akt prawny"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿lov"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿act legislativ"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿lov"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿act legislativ"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿wet van de wet"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿wet van de wet"
+    }
+  ]
+}

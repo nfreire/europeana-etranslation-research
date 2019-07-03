@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "abwehrverein",
+    "sourceLanguage": "de",
+    "targetLanguages": [
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109251",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "FI",
+      "translatedText": "﻿puolustus"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿puolustus"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿defesa"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿defesa"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿gynybos"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿gynybos"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿club de défense"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿club de défense"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿védelem"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿védelem"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿försvar"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿försvar"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿άμυνα"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿άμυνα"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿defence"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿defence"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿difesa"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿difesa"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿defensa"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿defensa"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿kaitse"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿kaitse"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿obrana"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿obrana"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿obrona"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿obrona"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿forsvar"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿apărare"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿forsvar"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿apărare"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿defensie"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿defensie"
+    }
+  ]
+}

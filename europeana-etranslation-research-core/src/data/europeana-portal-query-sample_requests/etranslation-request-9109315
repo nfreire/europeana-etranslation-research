@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "hotel lux moscow",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109315",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Hotelküsten"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Hotelküsten"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿hotelli lux mosw"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿hotelli lux mosw"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿hotel lux moscow"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿hotel lux moscow"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Hotel lux moskow"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Hotel lux moskow"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿hôtel lux moscow"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿hôtel lux moscow"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Hotel lux mocow"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Hotel lux mocow"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Hotel lux moscw"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Hotel lux moscw"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Hotel lx mocow"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Hotel lx mocow"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿escursione in hotel"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿escursione in hotel"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿hotel lux moscow"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿hotel lux moscow"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Hotel lux moscow"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Hotel lux moscow"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿hotel lux moscu"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿hotel lux moscu"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿hotel luks kostny"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿hotel luks kostny"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿hotel lux moscow"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿hotel lux lux"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿hotel lux moscow"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿hotel lux lux"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿hotel lux mocow"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿hotel lux mocow"
+    }
+  ]
+}

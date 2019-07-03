@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "cipriano mera",
+    "sourceLanguage": "es",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109297",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Cihpriano schiere"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Cihpriano schiere"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Cipriano-pelti"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Cipriano-pelti"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Solo de Cipriano"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Solo de Cipriano"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Cipriano spp."
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Cipriano spp."
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Cipriano tonture"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Cipriano tonture"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Cipriano"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Cipriano"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Cipriano rent"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Cipriano rent"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Cipriano:"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Cipriano:"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Cipriano sheer"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Cipriano sheer"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Ciprian"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Ciprian"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Cipriano otere"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Cipriano otere"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿„Cipriano“"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿„Cipriano“"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Cipriano wzi"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Cipriano wzi"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Det blotte Cipriano"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Cipriano self"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Det blotte Cipriano"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Cipriano self"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Cipriano (alleen in het Engels)"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Cipriano (alleen in het Engels)"
+    }
+  ]
+}

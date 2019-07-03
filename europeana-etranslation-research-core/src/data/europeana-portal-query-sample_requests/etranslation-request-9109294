@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "whole food",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109294",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Lebensmittel als Ganzes"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Lebensmittel als Ganzes"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿koko elintarvike"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿koko elintarvike"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿produtos alimentares inteiros"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿produtos alimentares inteiros"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿visas maistas"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿visas maistas"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿denrées alimentaires entières"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿denrées alimentaires entières"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿teljes élelmiszer"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿teljes élelmiszer"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿hela livsmedel"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿hela livsmedel"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿ολόκληρα τρόφιμα"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿ολόκληρα τρόφιμα"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿alimenti interi"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿alimenti interi"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿todo el alimento"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿todo el alimento"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿kogu toit"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿kogu toit"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿celá potravina"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿celá potravina"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿cała żywność"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿cała żywność"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿hele fødevarer"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿alimente întregi"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿hele fødevarer"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿alimente întregi"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿hele levensmiddelen"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿hele levensmiddelen"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Rural regions of the United States",
+    "sourceLanguage": "pl",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109165",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Ländliche Regionen der Vereinigten Staaten"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Ländliche Regionen der Vereinigten Staaten"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Yhdysvaltojen maaseutualueet"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Yhdysvaltojen maaseutualueet"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Regiões rurais dos Estados Unidos"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Regiões rurais dos Estados Unidos"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Jungtinių Valstijų kaimo regionai"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Jungtinių Valstijų kaimo regionai"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Régions rurales des États-Unis"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Régions rurales des États-Unis"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Az Egyesült Államok vidéki régiói"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Az Egyesült Államok vidéki régiói"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Landsbygdsregioner i Förenta staterna"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Landsbygdsregioner i Förenta staterna"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Αγροτικές περιοχές των ΗΠΑ"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Αγροτικές περιοχές των ΗΠΑ"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Rural regions of the United States"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Rural regions of the United States"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Regioni rurali degli Stati Uniti"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Regioni rurali degli Stati Uniti"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Regiones rurales de los Estados Unidos"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Regiones rurales de los Estados Unidos"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Ameerika Ühendriikide maapiirkonnad"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Ameerika Ühendriikide maapiirkonnad"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Venkovské regiony Spojených států"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Venkovské regiony Spojených států"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Landdistrikter i USA"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Regiuni rurale din Statele Unite ale Americii"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Landdistrikter i USA"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Regiuni rurale din Statele Unite ale Americii"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Plattelandsgebieden in de Verenigde Staten"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Plattelandsgebieden in de Verenigde Staten"
+    }
+  ]
+}

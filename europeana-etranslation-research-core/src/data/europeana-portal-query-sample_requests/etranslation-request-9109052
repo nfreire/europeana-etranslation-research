@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Adolf huschke",
+    "sourceLanguage": "nl",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "ca"
+    ]
+  },
+  "requestId": "9109052",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Adolf huschke"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Adolf huschke"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Adolf huschke"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Adolf huschke"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Adolf hulhke"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Adolf hulhke"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Adolf huschke"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Adolf huschke"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Adolf huschke"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Adolf huschke"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Adolf hushke"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Adolf hushke"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Adolf husschke"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Adolf husschke"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Adolf huschke"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Adolf huschke"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Adolf huschke"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Adolf huschke"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Adolf huschke"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Adolf huschke"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Adolf huchke"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Adolf huchke"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Adolf huschke"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Adolf huschke"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Adolf husschke"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Adolf husschke"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Adolf huschke"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Adolf huschke"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Adolf huschke"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Adolf hucke"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Adolf huschke"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Adolf hucke"
+    }
+  ]
+}

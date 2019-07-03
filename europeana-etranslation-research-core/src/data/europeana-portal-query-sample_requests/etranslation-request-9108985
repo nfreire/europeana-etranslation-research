@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "manuel ojeda",
+    "sourceLanguage": "es",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9108985",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Manuel Ojda"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Manuel Ojda"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Manuel OJeda"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Manuel OJeda"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Manuel Ojeda"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Manuel Ojeda"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Manuel Ojeda"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Manuel Ojeda"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Manuel Ojeda"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Manuel Ojeda"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Manuel Ojeda"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Manuel Ojeda"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Manuel Ojeda"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Manuel Ojeda"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Manuel Ojeda"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Manuel Ojeda"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Manuel Ojeda"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Manuel Ojeda"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Manuel Ojeda"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Manuel Ojeda"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Manuel Ojeda"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Manuel Ojeda"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Manuel Ojeda"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Manuel Ojeda"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Manuel Ojeda"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Manuel Ojeda"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Manuel Ojeda"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Manuel Ojeda"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Manuel Ojeda"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Manuel Ojeda"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Manuel OJEDA"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Manuel OJEDA"
+    }
+  ]
+}

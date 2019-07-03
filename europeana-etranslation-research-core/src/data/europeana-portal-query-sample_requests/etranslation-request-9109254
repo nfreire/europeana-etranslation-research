@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "adoption",
+    "sourceLanguage": "es",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109254",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Annahme"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Annahme"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿hyväksyminen"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿hyväksyminen"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿adoção"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿adoção"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿priėmimas"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿priėmimas"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿adoption"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿adoption"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿elfogadás"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿elfogadás"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿antagande"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿antagande"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿υιοθέτηση"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿υιοθέτηση"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿adoption"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿adoption"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿adozione"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿adozione"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿vastuvõtmine"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿vastuvõtmine"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿přijetí"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿přijetí"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿przyjęcie"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿przyjęcie"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿vedtagelse"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿adoptare"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿vedtagelse"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿adoptare"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿goedkeuring"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿goedkeuring"
+    }
+  ]
+}

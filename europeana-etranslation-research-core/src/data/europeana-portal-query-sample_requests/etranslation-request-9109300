@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "biblioteca de la juventud",
+    "sourceLanguage": "es",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109300",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Bibliothek der Jugend"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Bibliothek der Jugend"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿nuorisoalan kirjasto"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿nuorisoalan kirjasto"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿biblioteca da Juventude"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿biblioteca da Juventude"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿jaunimo biblioteka"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿jaunimo biblioteka"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿bibliothèque de la jeunesse"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿bibliothèque de la jeunesse"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿az Ifjúság program könyvtára"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿az Ifjúság program könyvtára"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿ungdomsbibliotek"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿ungdomsbibliotek"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿βιβλιοθήκη Νέων"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿βιβλιοθήκη Νέων"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿library of Youth"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿library of Youth"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿biblioteca dei giovani"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿biblioteca dei giovani"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿noorsookogu"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿noorsookogu"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿knihovna mládeže"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿knihovna mládeže"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿biblioteka młodzieżowa"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿biblioteka młodzieżowa"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿et bibliotek med unge"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿biblioteca tineretului"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿et bibliotek med unge"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿biblioteca tineretului"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿bibliotheek van jongeren"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿bibliotheek van jongeren"
+    }
+  ]
+}

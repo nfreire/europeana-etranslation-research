@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "martinez de junquera",
+    "sourceLanguage": "fr",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109001",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Herr Martinez de Junquera"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Herr Martinez de Junquera"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Martinez de Junquera"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Martinez de Junquera"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Martinez de Junquera"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Martinez de Junquera"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Martinez de Junkera"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Martinez de Junkera"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Martinez de Junquera"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Martinez de Junquera"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Martinez de Junquera"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Martinez de Junquera"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Martinez de Junquera"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Martinez de Junquera"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Martinez de Junquera"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Martinez de Junquera"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Martinez de Junquera"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Martinez de Junquera"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Martínez de Junquera"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Martínez de Junquera"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Martinez de Junquera"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Martinez de Junquera"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Martinez de Junquera"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Martinez de Junquera"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Martinez de Junquera"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Martinez de Junquera"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Martinez de Junquera"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿MARTINEZ de Junquera"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Martinez de Junquera"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿MARTINEZ de Junquera"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Martinez de Junquera"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Martinez de Junquera"
+    }
+  ]
+}

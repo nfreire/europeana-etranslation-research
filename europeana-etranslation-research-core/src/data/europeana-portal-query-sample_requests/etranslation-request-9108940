@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "AjuntamentGirona",
+    "sourceLanguage": "de",
+    "targetLanguages": [
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9108940",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "FI",
+      "translatedText": "﻿Ajuntamentana"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Ajuntamentana"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿AjuntamentGirona"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿AjuntamentGirona"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿AjuntamentGirona"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿AjuntamentGirona"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿AjuntamentGirona"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿AjuntamentGirona"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿AjuntamentGirona"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿AjuntamentGirona"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿AjuntamentGirona"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿AjuntamentGirona"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Auntamenti Girona"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Auntamenti Girona"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿AjuntamentGirona"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿AjuntamentGirona"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿AjuntabmentGirona"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿AjuntabmentGirona"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Ayuntamiento de Girona"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Ayuntamiento de Girona"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿AjuntamenGirona"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿AjuntamenGirona"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿AjuntamentGirona"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿AjuntamentGirona"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿AjuntamentGirona"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿AjuntamentGirona"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Ajuntacerona"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Atjuntementona"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Ajuntacerona"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Atjuntementona"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿AjuntamenGirona"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿AjuntamenGirona"
+    }
+  ]
+}

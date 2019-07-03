@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "a hombros de gigantes",
+    "sourceLanguage": "es",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9108993",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿als Riesenreifen"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿als Riesenreifen"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿jättiläishartiat"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿jättiläishartiat"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿como grandes ombros"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿como grandes ombros"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿kaip milžiniški menčiai"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿kaip milžiniški menčiai"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿en tant qu’épaules géantes"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿en tant qu’épaules géantes"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿óriás leállóként"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿óriás leállóként"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿som gigantiska axlar"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿som gigantiska axlar"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿ως γιγαντοωμοπλάτες"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿ως γιγαντοωμοπλάτες"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿as giant shoulders"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿as giant shoulders"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿in funzione delle migliori spalle"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿in funzione delle migliori spalle"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿hiiglaslik abaosa"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿hiiglaslik abaosa"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿jako krajka na pleci"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿jako krajka na pleci"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿tak jak gigantyczne łopatki"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿tak jak gigantyczne łopatki"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿som kæmpeskuldre"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿ca spată de gigantic"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿som kæmpeskuldre"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿ca spată de gigantic"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿als reuzenberham"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿als reuzenberham"
+    }
+  ]
+}

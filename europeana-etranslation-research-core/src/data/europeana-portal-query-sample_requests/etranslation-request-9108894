@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Absolwenci uniwersytetu",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9108894",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Absolenctali Uniwersytetu"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Absolenctali Uniwersytetu"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Abswenci Uniwersytetu"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Abswenci Uniwersytetu"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Absolwligi Uniwersytetu"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Absolwligi Uniwersytetu"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Absolwenci Uniwersytetu"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Absolwenci Uniwersytetu"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Absolwenci Uniwersytetu"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Absolwenci Uniwersytetu"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Absolwenci Uniwersytetu"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Absolwenci Uniwersytetu"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Absolwenci Uniwersytetu"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Absolwenci Uniwersytetu"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Absolwenci Uniwersytu"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Absolwenci Uniwersytu"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Absolwenci Uniwersytetu"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Absolwenci Uniwersytetu"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Absolwenci Uniwersytetu"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Absolwenci Uniwersytetu"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Absolwenci Uniwersytetu"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Absolwenci Uniwersytetu"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Absowenci Uniwersytetu"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Absowenci Uniwersytetu"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Absolwenci Uniwersytu"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Absolwenci Uniwersytu"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Absolwenci Uniwersytetu"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Absolwenci Uniwersytetu"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Absolwenci Uniwersytetu"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Absolwenci Uniwersytetu"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Asolwenci Uniwersytetu"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Asolwenci Uniwersytetu"
+    }
+  ]
+}

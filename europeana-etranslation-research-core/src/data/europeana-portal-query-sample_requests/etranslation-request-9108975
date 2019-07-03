@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Alcea carvertii",
+    "sourceLanguage": "en",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "it",
+      "fr",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9108975",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Alcea carvertii"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Alcea carvertii"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Alcea carvertii"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Alcea carvertii"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Alcea carvertii"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Alcea carvertii"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Alcea carvertii"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Alcea carvertii"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Alcea carvertii"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Alcea carvertii"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Alcea carvertii"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Alcea carvertii"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Alcea carvertii"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Alcea carvertii"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Alcea carvertii"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Alcea carvertii"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Alcea carvertii"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Alcea carvertii"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Alcea carvertii"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Alcea carvertii"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Alcea carvetii"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Alcea carvetii"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Alcea carvertii"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Alcea carvertii"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Alcea carvertii"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Alcea carvertii"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Alcea carvertii"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Alcea Carvertii"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Alcea carvertii"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Alcea Carvertii"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Alcea carvertii"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Alcea carvertii"
+    }
+  ]
+}

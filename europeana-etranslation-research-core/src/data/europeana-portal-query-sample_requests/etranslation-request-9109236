@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "albatros",
+    "sourceLanguage": "fr",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "hu",
+      "es",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9109236",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Albatrosse"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Albatrosse"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Diomedeidae"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Diomedeidae"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿albatrozes"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿albatrozes"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Albatrosiniai"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Albatrosiniai"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Albatroszfélék"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Albatroszfélék"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿albatrosser"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿albatrosser"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿άλμπατρος"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿άλμπατρος"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿albatrosses"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿albatrosses"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Albatri"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Albatri"
+    },
+    {
+      "language": "ES",
+      "translatedText": "﻿Albatros"
+    },
+    {
+      "language": "es",
+      "translatedText": "﻿Albatros"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿albatrosside"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿albatrosside"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿albatrosovití"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿albatrosovití"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿albatrosy"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿albatrosy"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿albatrosser"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿albatroși"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿albatrosser"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿albatroși"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿albatrossen"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿albatrossen"
+    }
+  ]
+}

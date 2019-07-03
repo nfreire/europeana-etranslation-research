@@ -1,0 +1,160 @@
+{
+  "translationRequest": {
+    "text": "Felix fernandez",
+    "sourceLanguage": "es",
+    "targetLanguages": [
+      "de",
+      "no",
+      "sv",
+      "ru",
+      "fi",
+      "pt",
+      "el",
+      "lt",
+      "en",
+      "it",
+      "fr",
+      "hu",
+      "et",
+      "cs",
+      "pl",
+      "ro",
+      "da",
+      "nl",
+      "ca"
+    ]
+  },
+  "requestId": "9108927",
+  "errorCode": "",
+  "exception": "",
+  "translations": [
+    {
+      "language": "DE",
+      "translatedText": "﻿Felix FERNANDEZ"
+    },
+    {
+      "language": "de",
+      "translatedText": "﻿Felix FERNANDEZ"
+    },
+    {
+      "language": "FI",
+      "translatedText": "﻿Felix Fernandez"
+    },
+    {
+      "language": "fi",
+      "translatedText": "﻿Felix Fernandez"
+    },
+    {
+      "language": "PT",
+      "translatedText": "﻿Felix FERNANDEZ"
+    },
+    {
+      "language": "pt",
+      "translatedText": "﻿Felix FERNANDEZ"
+    },
+    {
+      "language": "LT",
+      "translatedText": "﻿Felix FERNANDEZ"
+    },
+    {
+      "language": "lt",
+      "translatedText": "﻿Felix FERNANDEZ"
+    },
+    {
+      "language": "FR",
+      "translatedText": "﻿Felix FERNANDEZ"
+    },
+    {
+      "language": "fr",
+      "translatedText": "﻿Felix FERNANDEZ"
+    },
+    {
+      "language": "HU",
+      "translatedText": "﻿Felix FERANDEZ"
+    },
+    {
+      "language": "hu",
+      "translatedText": "﻿Felix FERANDEZ"
+    },
+    {
+      "language": "SV",
+      "translatedText": "﻿Felix Fernandez"
+    },
+    {
+      "language": "sv",
+      "translatedText": "﻿Felix Fernandez"
+    },
+    {
+      "language": "EL",
+      "translatedText": "﻿Felix FERNANDEZ"
+    },
+    {
+      "language": "el",
+      "translatedText": "﻿Felix FERNANDEZ"
+    },
+    {
+      "language": "EN",
+      "translatedText": "﻿Felix FERNANDEZ"
+    },
+    {
+      "language": "en",
+      "translatedText": "﻿Felix FERNANDEZ"
+    },
+    {
+      "language": "IT",
+      "translatedText": "﻿Felix FERNANDEZ"
+    },
+    {
+      "language": "it",
+      "translatedText": "﻿Felix FERNANDEZ"
+    },
+    {
+      "language": "ET",
+      "translatedText": "﻿Felix FERNANDEZ"
+    },
+    {
+      "language": "et",
+      "translatedText": "﻿Felix FERNANDEZ"
+    },
+    {
+      "language": "CS",
+      "translatedText": "﻿Felix FERNANDEZ"
+    },
+    {
+      "language": "cs",
+      "translatedText": "﻿Felix FERNANDEZ"
+    },
+    {
+      "language": "PL",
+      "translatedText": "﻿Felix FERNANDEZ"
+    },
+    {
+      "language": "pl",
+      "translatedText": "﻿Felix FERNANDEZ"
+    },
+    {
+      "language": "DA",
+      "translatedText": "﻿Felix FERNANDEZ"
+    },
+    {
+      "language": "RO",
+      "translatedText": "﻿Felix FERNANDEZ"
+    },
+    {
+      "language": "da",
+      "translatedText": "﻿Felix FERNANDEZ"
+    },
+    {
+      "language": "ro",
+      "translatedText": "﻿Felix FERNANDEZ"
+    },
+    {
+      "language": "NL",
+      "translatedText": "﻿Felix FERNANDEZ"
+    },
+    {
+      "language": "nl",
+      "translatedText": "﻿Felix FERNANDEZ"
+    }
+  ]
+}
