@@ -16,8 +16,6 @@ import javax.servlet.http.HttpServletResponse;
 
 import org.apache.commons.io.FileUtils;
 
-import inescid.dataaggregation.dataset.GlobalCore;
-
 public class CallbackServlet extends HttpServlet {
 	protected static final Charset UTF8=Charset.forName("UTF-8");
 	
@@ -94,7 +92,7 @@ public class CallbackServlet extends HttpServlet {
 		resp.setStatus(httpStatus);
 		if (body != null && !body.isEmpty()) {
 			ServletOutputStream outputStream = resp.getOutputStream();
-			outputStream.write(body.getBytes(GlobalCore.UTF8));
+			outputStream.write(body.getBytes("UTF8"));
 			resp.setContentType("text/html; charset=utf-8");
 		}
 	}

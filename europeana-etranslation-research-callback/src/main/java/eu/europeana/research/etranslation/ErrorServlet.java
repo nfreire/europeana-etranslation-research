@@ -16,8 +16,6 @@ import javax.servlet.http.HttpServletResponse;
 
 import org.apache.commons.io.FileUtils;
 
-import inescid.dataaggregation.dataset.GlobalCore;
-
 public class ErrorServlet extends CallbackServlet {
 	private static org.apache.logging.log4j.Logger log = org.apache.logging.log4j.LogManager
 			.getLogger(ErrorServlet.class);

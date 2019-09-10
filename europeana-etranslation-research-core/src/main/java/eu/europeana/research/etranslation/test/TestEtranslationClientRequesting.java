@@ -19,7 +19,7 @@ import org.apache.commons.lang3.StringUtils;
 
 import eu.europeana.research.etranslation.EtranslationClient;
 import eu.europeana.research.etranslation.TranslationRequest;
-import inescid.util.AccessException;
+import eu.europeana.research.etranslation.util.AccessException;
 
 public class TestEtranslationClientRequesting {
 	

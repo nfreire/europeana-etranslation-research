@@ -9,11 +9,11 @@ import org.apache.http.HttpEntity;
 import org.apache.http.entity.ByteArrayEntity;
 import org.apache.http.entity.ContentType;
 
-import inescid.dataaggregation.crawl.http.HttpRequest;
-import inescid.dataaggregation.crawl.http.HttpRequestService;
-import inescid.dataaggregation.crawl.http.UrlRequest;
-import inescid.dataaggregation.crawl.http.UrlRequest.HttpMethod;
-import inescid.util.AccessException;
+import eu.europeana.research.etranslation.util.AccessException;
+import eu.europeana.research.etranslation.util.http.HttpRequest;
+import eu.europeana.research.etranslation.util.http.HttpRequestService;
+import eu.europeana.research.etranslation.util.http.UrlRequest;
+import eu.europeana.research.etranslation.util.http.UrlRequest.HttpMethod;
 
 public class EtranslationClient {
 	HttpRequestService httpService;
