@@ -25,9 +25,11 @@ public class EtranslationApiRequest extends TranslationRequest {
 
 	public EtranslationApiRequest(EtranslationClient etranslationClient, String application, TranslationRequest req) {
 		this(etranslationClient, application, req.getText(), req.getSourceLanguage(), req.getTargetLanguages());
-		if (req instanceof EtranslationApiRequest) {
-			this.setExternalReference(((EtranslationApiRequest) req).getExternalReference());
-		}
+	}
+	
+	public EtranslationApiRequest(EtranslationClient etranslationClient, String application, EtranslationApiRequest req) {
+		this(etranslationClient, application, req.getText(), req.getSourceLanguage(), req.getTargetLanguages());
+		this.setExternalReference(req.getExternalReference());
 	}
 	
 	public JSONObject getJson() {
