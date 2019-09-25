@@ -1,9 +1,7 @@
 package eu.europeana.research.etranslation;
 
-import java.util.Arrays;
 import java.util.Collection;
 import java.util.Date;
-import java.util.List;
 
 import org.apache.commons.lang3.StringUtils;
 import org.json.JSONArray;
@@ -27,6 +25,11 @@ public class EtranslationApiRequest extends TranslationRequest {
 
 	public EtranslationApiRequest(EtranslationClient etranslationClient, String application, TranslationRequest req) {
 		this(etranslationClient, application, req.getText(), req.getSourceLanguage(), req.getTargetLanguages());
+	}
+	
+	public EtranslationApiRequest(EtranslationClient etranslationClient, String application, EtranslationApiRequest req) {
+		this(etranslationClient, application, req.getText(), req.getSourceLanguage(), req.getTargetLanguages());
+		this.setExternalReference(req.getExternalReference());
 	}
 	
 	public JSONObject getJson() {
@@ -63,6 +66,10 @@ public class EtranslationApiRequest extends TranslationRequest {
 		return getJson().toString();
 	}
 
+	public String getExternalReference() {
+		return externalReference;
+	}
+	
 	public void setExternalReference(String externalReference) {
 		this.externalReference = externalReference;
 	}

@@ -33,9 +33,8 @@ public class TestExampleFromEtranslation {
 			try {
 				String userName = "Europeana_IR_20190225";
 	//	String userName = "nuno.freire@europeana.eu";
-				File credentials = new File("C:\\Users\\nfrei\\.credentials\\etranslation");
+				File credentials = new File("/home/mmarrero/.credentials/etranslation");
 				String password = FileUtils.readFileToString(credentials, "UTF-8");
-	
 				String url = "https://webgate.ec.europa.eu/etranslation/si/translate";
 				DefaultHttpClient client = new DefaultHttpClient();
 				client.getCredentialsProvider().setCredentials(AuthScope.ANY,

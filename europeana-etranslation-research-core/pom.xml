@@ -16,6 +16,13 @@
  	
  	<properties>
     	<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+		<translations.folder>/home/mmarrero/etranslation/translations-repository</translations.folder>
+		<log.file>/home/mmarrero/etranslation/callback-log.txt</log.file>
+		<etranslation.credentials>/home/mmarrero/.credentials/etranslation</etranslation.credentials>
+		<etranslation.username>Europeana_IR_20190225</etranslation.username>
+		<etranslation.url>https://webgate.ec.europa.eu/etranslation/si/translate</etranslation.url>
+		<etranslation.europeana.callback.url>http://rnd.eanadev.org/etranslation-callback/callback</etranslation.europeana.callback.url>
+		<etranslation.europeana.error.url>http://rnd.eanadev.org/etranslation-callback/error</etranslation.europeana.error.url>
     </properties>
     
 	<build>
@@ -101,5 +108,6 @@
 			<version>2.11.0</version>
 		</dependency>
 	</dependencies>	
+
 	
 </project>

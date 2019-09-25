@@ -36,6 +36,11 @@ public class EtranslationClient {
 	}
 	
 	public String sendRequest(TranslationRequest req) throws InterruptedException, IOException, AccessException {
+		EtranslationApiRequest eTransReq=new EtranslationApiRequest(this, userName, req);
+		return sendRequest(eTransReq);
+	}
+	
+	public String sendRequest(EtranslationApiRequest req) throws InterruptedException, IOException, AccessException {
 		try {
 			EtranslationApiRequest eTransReq=new EtranslationApiRequest(this, userName, req);
 			UrlRequest urlRequestSettings = new UrlRequest(url, HttpMethod.POST);
