@@ -27,7 +27,7 @@ import eu.europeana.research.etranslation.util.AccessException;
 import eu.europeana.research.etranslation.util.MapOfInts;
 import eu.europeana.research.etranslation.util.http.HttpRequestService;
 
-public class TestEtranslationClientCallbackResponses {
+public class OldAugust2019TestEtranslationClientCallbackResponses {
 	
 	static class TestReport {
 		int totalRequests=0;

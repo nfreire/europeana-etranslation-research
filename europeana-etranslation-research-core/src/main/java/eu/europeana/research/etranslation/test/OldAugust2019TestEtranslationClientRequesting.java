@@ -21,7 +21,8 @@ import eu.europeana.research.etranslation.EtranslationClient;
 import eu.europeana.research.etranslation.TranslationRequest;
 import eu.europeana.research.etranslation.util.AccessException;
 
-public class TestEtranslationClientRequesting {
+public class OldAugust2019TestEtranslationClientRequesting {
+
 	
 	public static void main(String[] args) {
 		runTestOnQuerySampleRequestSending();
@@ -80,5 +81,6 @@ public class TestEtranslationClientRequesting {
 			e.printStackTrace();
 		}
 	}
+	
 	
 }

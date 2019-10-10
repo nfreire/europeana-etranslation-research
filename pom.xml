@@ -85,8 +85,8 @@
 				<etranslation.credentials>c:/users/nfrei/.credentials/etranslation</etranslation.credentials>
 				<etranslation.username>Europeana_IR_20190225</etranslation.username>
 				<etranslation.url>https://webgate.ec.europa.eu/etranslation/si/translate</etranslation.url>
-				<etranslation.europeana.callback.url>http://rnd.eanadev.org/etranslation-callback/callback</etranslation.europeana.callback.url>
-				<etranslation.europeana.error.url>http://rnd.eanadev.org/etranslation-callback/error</etranslation.europeana.error.url>
+				<etranslation.europeana.callback.url>https://rnd-2.eanadev.org/etranslation-callback/callback</etranslation.europeana.callback.url>
+				<etranslation.europeana.error.url>https://rnd-2.eanadev.org/etranslation-callback/error</etranslation.europeana.error.url>
 			</properties>
 		</profile>
 		<profile>
@@ -97,8 +97,8 @@
 				<etranslation.credentials>/home/nfreire/.credentials/etranslation</etranslation.credentials>
 				<etranslation.username>Europeana_IR_20190225</etranslation.username>
 				<etranslation.url>https://webgate.ec.europa.eu/etranslation/si/translate</etranslation.url>
-				<etranslation.europeana.callback.url>http://rnd.eanadev.org/etranslation-callback/callback</etranslation.europeana.callback.url>
-				<etranslation.europeana.error.url>http://rnd.eanadev.org/etranslation-callback/error</etranslation.europeana.error.url>
+				<etranslation.europeana.callback.url>https://rnd-2.eanadev.org/etranslation-callback/callback</etranslation.europeana.callback.url>
+				<etranslation.europeana.error.url>https://rnd-2.eanadev.org/etranslation-callback/error</etranslation.europeana.error.url>
 			</properties>
 		</profile>
 	</profiles>
