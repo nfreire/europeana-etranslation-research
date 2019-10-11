@@ -35,7 +35,7 @@ public class EtranslationClient {
 			httpService.init(userName, credentials);
 	}
 	
-	public String sendRequest(TranslationRequest req) throws InterruptedException, IOException, AccessException {
+	public String sendRequest(TranslationRequest req) throws InterruptedException, IOException, AccessException, EtranslationErrorCodeException {
 		try {
 			EtranslationApiRequest eTransReq=new EtranslationApiRequest(this, userName, req);
 			UrlRequest urlRequestSettings = new UrlRequest(url, HttpMethod.POST);
@@ -43,9 +43,12 @@ public class EtranslationClient {
 			urlRequestSettings.setRequestContent(entity);
 			HttpRequest httpReq= new HttpRequest(urlRequestSettings);
 			httpService.fetch(httpReq);
+			String response = httpReq.getContent().asString();
 			if(httpReq.getResponseStatusCode()!=200)
-				throw new AccessException(url, httpReq.getResponseStatusCode(), httpReq.getContent().asString());
-			return httpReq.getContent().asString();
+				throw new AccessException(url, httpReq.getResponseStatusCode(), response);
+			if(response.startsWith("-"))
+				throw new EtranslationErrorCodeException(response);
+			return response;
 		} catch (UnsupportedEncodingException e) { throw new RuntimeException(e.getMessage(), e); }
 	}
 
