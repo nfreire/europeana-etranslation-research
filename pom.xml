@@ -87,6 +87,10 @@
 				<etranslation.url>https://webgate.ec.europa.eu/etranslation/si/translate</etranslation.url>
 				<etranslation.europeana.callback.url>https://rnd-2.eanadev.org/etranslation-callback/callback</etranslation.europeana.callback.url>
 				<etranslation.europeana.error.url>https://rnd-2.eanadev.org/etranslation-callback/error</etranslation.europeana.error.url>
+
+				<etranslation.language.detection.url>https://language-tools.ec.europa.eu/askLanguageDetection</etranslation.language.detection.url>
+				<etranslation.language.detection.credentials>c:/users/nfrei/.credentials/etranslation-ld</etranslation.language.detection.credentials>
+				<etranslation.language.detection.username>LangDetect_Europeana_IR_20230628</etranslation.language.detection.username>
 			</properties>
 		</profile>
 		<profile>
@@ -99,6 +103,10 @@
 				<etranslation.url>https://webgate.ec.europa.eu/etranslation/si/translate</etranslation.url>
 				<etranslation.europeana.callback.url>https://rnd-2.eanadev.org/etranslation-callback/callback</etranslation.europeana.callback.url>
 				<etranslation.europeana.error.url>https://rnd-2.eanadev.org/etranslation-callback/error</etranslation.europeana.error.url>
+
+				<etranslation.language.detection.url>https://language-tools.ec.europa.eu/askLanguageDetection</etranslation.language.detection.url>
+				<etranslation.language.detection.credentials>/home/nfreire/.credentials/etranslation-ld</etranslation.language.detection.credentials>
+				<etranslation.language.detection.username>LangDetect_Europeana_IR_20230628</etranslation.language.detection.username>
 			</properties>
 		</profile>
 	</profiles>

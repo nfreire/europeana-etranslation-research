@@ -25,8 +25,8 @@ public class OldAugust2019TestEtranslationClientRequesting {
 
 	
 	public static void main(String[] args) {
-		runTestOnQuerySampleRequestSending();
-		
+//		runTestOnQuerySampleRequestSending();
+		runTestRequestSending();
 	}
 	
 	public static void runTestOnQuerySampleRequestSending() {
