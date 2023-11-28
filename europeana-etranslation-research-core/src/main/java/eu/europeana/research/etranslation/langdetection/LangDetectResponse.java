@@ -10,8 +10,6 @@ import org.json.JSONException;
 import org.json.JSONObject;
 import org.json.JSONTokener;
 
-import eu.europeana.research.etranslation.langdetection.Result.DetectedLanguage;
-
 public class LangDetectResponse {
 	public class DetectedLanguage {
 		String langCode;
@@ -51,18 +49,17 @@ public class LangDetectResponse {
 	}
 
 	public LangDetectResponse(String json) throws LanguageDetectionErrorCodeException {
-		System.out.println(json);
-			JSONObject j = new JSONObject(new JSONTokener(json));
-			if(j.has("errorCode"))
-				throw new LanguageDetectionErrorCodeException(j.getInt("errorCode"), j.get("errorMessage"));
-			
-			JSONArray results = j.getJSONArray("result");
+		JSONObject j = new JSONObject(new JSONTokener(json));
+		if(j.has("errorCode"))
+			throw new LanguageDetectionErrorCodeException(j.getInt("errorCode"), j.get("errorMessage"));
+		
+		JSONArray results = j.getJSONArray("result");
 //			targetLanguages=new ArrayList<String>(jTrgLangs.length());
-			for(int i=0; i<results.length(); i++)  {
-				JSONObject res = results.getJSONObject(i);
-				DetectedLanguage l=new DetectedLanguage(res.getString("code").toLowerCase(), res.getFloat("probability")/100);
-				detected.add(l);
-			}
+		for(int i=0; i<results.length(); i++)  {
+			JSONObject res = results.getJSONObject(i);
+			DetectedLanguage l=new DetectedLanguage(res.getString("code").toLowerCase(), res.getFloat("probability")/100);
+			detected.add(l);
+		}
 	}
 
 	@Override

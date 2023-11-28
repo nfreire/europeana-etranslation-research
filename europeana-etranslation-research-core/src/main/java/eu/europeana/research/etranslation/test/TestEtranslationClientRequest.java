@@ -65,7 +65,7 @@ public class TestEtranslationClientRequest {
 			e.printStackTrace();
 		}
 	}
-	
+	 
 	public static void runTestRequestSending() {
 		try {
 			EtranslationClient et=new EtranslationClient();

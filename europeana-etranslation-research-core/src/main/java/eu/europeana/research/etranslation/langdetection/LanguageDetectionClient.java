@@ -48,7 +48,12 @@ public class LanguageDetectionClient {
 		try {
 			UrlRequest urlRequestSettings = new UrlRequest(url, HttpMethod.POST);
 			JSONObject requestJson = getRequestJson();
-			System.out.println(requestJson.toString());
+//			System.out.println(requestJson.toString());
+//			System.out.println(text);
+//			byte []bytes=text.getBytes();
+//			for(byte b:bytes)
+//			  System.out.print(b+" ");
+//			System.out.println();
 			HttpEntity multiPartEntity = MultipartEntityBuilder.create().setMode(HttpMultipartMode.BROWSER_COMPATIBLE)
 //					.addTextBody("docfile", text, ContentType.TEXT_PLAIN)
 					.addBinaryBody("docfile", text.getBytes(StandardCharsets.UTF_8), ContentType.TEXT_PLAIN, "text.txt")
@@ -58,8 +63,10 @@ public class LanguageDetectionClient {
 			httpService.fetch(httpReq);
 			String response = httpReq.getContent().asString();
 			if(httpReq.getResponseStatusCode()!=200)
-				throw new AccessException(url, httpReq.getResponseStatusCode(), response);
+				throw new AccessException(url+" text: "+text, httpReq.getResponseStatusCode(), response);
 			return new LangDetectResponse(response);
+		} catch (LanguageDetectionErrorCodeException e) { 
+			throw new LanguageDetectionErrorCodeException(e.getErrorCode(), e.getMessage()+" text: "+text);
 		} catch (UnsupportedEncodingException e) { throw new RuntimeException(e.getMessage(), e); }
 	}
 
@@ -77,6 +84,8 @@ public class LanguageDetectionClient {
 	private JSONObject getRequestJson() {
 		JSONObject credentialsObj=new JSONObject().put("application", application).put("password", password);
 		return new JSONObject().put("credentials", credentialsObj)
+//				.put("format", "text/plain")
+//				.put("format", "text/strings")
 				.put("format", "txt")
 				.put("verbose", "true");
 	}
